@@ -3899,3 +3899,4 @@ Commit at 2023-01-03T16:42:04: Optimize memory usage during training
 Commit at 2023-01-03T12:42:51: Update README with more detailed instructions
 Commit at 2023-01-03T16:07:00: Add support for bidirectional RNNs
 Commit at 2023-01-03T18:33:47: Add examples for using the library
+Commit at 2023-01-03T13:40:16: Fix bug in LSTM layer initialization
