@@ -3932,3 +3932,4 @@ Commit at 2023-01-10T09:29:57: Add support for custom loss functions
 Commit at 2023-01-11T12:44:52: Add support for multiple output steps
 Commit at 2023-01-11T13:32:30: Add examples for using the library
 Commit at 2023-01-11T16:36:41: Add support for pre-trained models
+Commit at 2023-01-11T13:47:17: Optimize training loop for faster convergence
