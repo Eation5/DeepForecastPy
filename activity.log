@@ -3933,3 +3933,4 @@ Commit at 2023-01-11T12:44:52: Add support for multiple output steps
 Commit at 2023-01-11T13:32:30: Add examples for using the library
 Commit at 2023-01-11T16:36:41: Add support for pre-trained models
 Commit at 2023-01-11T13:47:17: Optimize training loop for faster convergence
+Commit at 2023-01-13T09:50:08: Fix minor bug in data windowing
