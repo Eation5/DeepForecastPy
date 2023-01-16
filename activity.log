@@ -3936,3 +3936,4 @@ Commit at 2023-01-11T13:47:17: Optimize training loop for faster convergence
 Commit at 2023-01-13T09:50:08: Fix minor bug in data windowing
 Commit at 2023-01-13T19:02:15: Add examples for using the library
 Commit at 2023-01-13T18:57:08: Update project structure for better organization
+Commit at 2023-01-16T18:29:56: Fix issue with data normalization
