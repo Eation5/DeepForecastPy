@@ -3937,3 +3937,4 @@ Commit at 2023-01-13T09:50:08: Fix minor bug in data windowing
 Commit at 2023-01-13T19:02:15: Add examples for using the library
 Commit at 2023-01-13T18:57:08: Update project structure for better organization
 Commit at 2023-01-16T18:29:56: Fix issue with data normalization
+Commit at 2023-01-16T19:43:18: Optimize data loading for large datasets
