@@ -3954,3 +3954,4 @@ Commit at 2023-01-19T21:39:51: Add new evaluation metrics for time series foreca
 Commit at 2023-01-19T16:26:03: Add examples for using the library
 Commit at 2023-01-19T18:36:27: Add support for pre-trained models
 Commit at 2023-01-19T19:33:28: Add support for multiple output steps
+Commit at 2023-01-19T09:40:22: Add support for multiple output steps
