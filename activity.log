@@ -3960,3 +3960,4 @@ Commit at 2023-01-19T20:24:36: Improve documentation for API reference
 Commit at 2023-01-19T15:49:00: Refactor utils for better code reuse
 Commit at 2023-01-20T18:18:24: Update documentation for new features
 Commit at 2023-01-20T13:43:55: Fix issue with model serialization
+Commit at 2023-01-20T20:45:52: Add support for multiple output steps
