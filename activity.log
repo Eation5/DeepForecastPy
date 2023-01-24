@@ -3963,3 +3963,4 @@ Commit at 2023-01-20T13:43:55: Fix issue with model serialization
 Commit at 2023-01-20T20:45:52: Add support for multiple output steps
 Commit at 2023-01-20T11:21:54: Add support for pre-trained models
 Commit at 2023-01-23T12:47:36: Improve error handling in model building
+Commit at 2023-01-23T21:33:49: Update documentation for new features
