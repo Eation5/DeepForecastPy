@@ -3983,3 +3983,4 @@ Commit at 2023-01-25T11:10:59: Add examples for different use cases
 Commit at 2023-01-25T10:34:23: Add unit tests for preprocessing utilities
 Commit at 2023-01-25T14:52:30: Add support for custom loss functions
 Commit at 2023-01-25T21:11:29: Optimize training loop for faster convergence
+Commit at 2023-01-25T10:00:35: Add support for bidirectional RNNs
