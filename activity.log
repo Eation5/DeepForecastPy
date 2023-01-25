@@ -3978,3 +3978,4 @@ Commit at 2023-01-24T14:43:53: Add support for data augmentation
 Commit at 2023-01-24T11:29:13: Add examples for using the library
 Commit at 2023-01-25T09:19:58: Refactor utils for better code reuse
 Commit at 2023-01-25T15:33:02: Add support for bidirectional RNNs
+Commit at 2023-01-25T13:56:17: Update project structure for better organization
