@@ -3986,3 +3986,4 @@ Commit at 2023-01-25T21:11:29: Optimize training loop for faster convergence
 Commit at 2023-01-25T10:00:35: Add support for bidirectional RNNs
 Commit at 2023-01-25T20:47:04: Add new evaluation metrics for time series forecasting
 Commit at 2023-01-26T14:06:26: Optimize inference speed for edge devices
+Commit at 2023-01-26T12:50:34: Add support for multiple output steps
