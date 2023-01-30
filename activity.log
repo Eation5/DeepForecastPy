@@ -3990,3 +3990,4 @@ Commit at 2023-01-26T12:50:34: Add support for multiple output steps
 Commit at 2023-01-26T15:14:25: Update README with more detailed instructions
 Commit at 2023-01-26T19:54:37: Improve logging during model training
 Commit at 2023-01-30T13:16:31: Update README with more detailed instructions
+Commit at 2023-01-30T10:05:10: Optimize inference speed for edge devices
