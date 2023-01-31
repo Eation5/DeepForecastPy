@@ -4002,3 +4002,4 @@ Commit at 2023-01-30T18:38:36: Add support for bidirectional RNNs
 Commit at 2023-01-31T16:29:11: Optimize memory usage during training
 Commit at 2023-01-31T21:49:16: Optimize inference speed for edge devices
 Commit at 2023-01-31T13:12:23: Add support for multiple output steps
+Commit at 2023-01-31T10:23:30: Add examples for different use cases
