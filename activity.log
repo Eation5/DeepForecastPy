@@ -4008,3 +4008,4 @@ Commit at 2023-01-31T10:25:06: Add support for custom loss functions
 Commit at 2023-01-31T18:38:40: Add support for custom loss functions
 Commit at 2023-01-31T17:48:28: Fix minor bug in data windowing
 Commit at 2023-01-31T20:25:02: Update requirements for new dependencies
+Commit at 2023-01-31T21:42:01: Optimize memory usage during training
