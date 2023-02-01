@@ -4000,3 +4000,4 @@ Commit at 2023-01-30T14:32:32: Improve error handling in model building
 Commit at 2023-01-30T14:28:23: Update README with more detailed instructions
 Commit at 2023-01-30T18:38:36: Add support for bidirectional RNNs
 Commit at 2023-01-31T16:29:11: Optimize memory usage during training
+Commit at 2023-01-31T21:49:16: Optimize inference speed for edge devices
