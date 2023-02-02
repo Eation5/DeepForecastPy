@@ -4015,3 +4015,4 @@ Commit at 2023-02-01T15:45:01: Update README with more detailed instructions
 Commit at 2023-02-01T19:44:30: Update README with more detailed instructions
 Commit at 2023-02-01T11:51:32: Add support for data augmentation
 Commit at 2023-02-01T11:15:24: Add unit tests for preprocessing utilities
+Commit at 2023-02-02T16:54:05: Fix issue with model serialization
