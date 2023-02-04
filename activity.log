@@ -4028,3 +4028,4 @@ Commit at 2023-02-03T20:14:51: Update documentation for new features
 Commit at 2023-02-03T11:43:31: Fix issue with model serialization
 Commit at 2023-02-03T12:55:23: Optimize data loading for large datasets
 Commit at 2023-02-03T21:07:53: Add new evaluation metrics for time series forecasting
+Commit at 2023-02-03T19:29:31: Add support for multiple output steps
