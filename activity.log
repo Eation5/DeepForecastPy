@@ -4037,3 +4037,4 @@ Commit at 2023-02-06T21:58:12: Fix bug in LSTM layer initialization
 Commit at 2023-02-06T15:42:25: Update README with more detailed instructions
 Commit at 2023-02-06T20:28:27: Refactor model architecture for better performance
 Commit at 2023-02-06T15:32:26: Update preprocessing pipeline to handle missing values
+Commit at 2023-02-06T20:12:17: Improve error handling in model building
