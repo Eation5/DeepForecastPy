@@ -4042,3 +4042,4 @@ Commit at 2023-02-06T19:45:29: Fix minor bug in data windowing
 Commit at 2023-02-06T11:40:07: Optimize inference speed for edge devices
 Commit at 2023-02-06T17:18:28: Add support for bidirectional RNNs
 Commit at 2023-02-06T12:14:24: Add support for custom loss functions
+Commit at 2023-02-07T17:21:43: Add support for Transformer-based models
