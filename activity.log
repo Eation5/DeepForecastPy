@@ -4038,3 +4038,4 @@ Commit at 2023-02-06T15:42:25: Update README with more detailed instructions
 Commit at 2023-02-06T20:28:27: Refactor model architecture for better performance
 Commit at 2023-02-06T15:32:26: Update preprocessing pipeline to handle missing values
 Commit at 2023-02-06T20:12:17: Improve error handling in model building
+Commit at 2023-02-06T19:45:29: Fix minor bug in data windowing
