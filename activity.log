@@ -4046,3 +4046,4 @@ Commit at 2023-02-07T17:21:43: Add support for Transformer-based models
 Commit at 2023-02-07T09:16:43: Optimize memory usage during training
 Commit at 2023-02-07T09:03:26: Improve visualization functions for predictions
 Commit at 2023-02-07T17:28:39: Optimize data loading for large datasets
+Commit at 2023-02-07T16:54:35: Add support for GRU models
