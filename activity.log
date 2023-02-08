@@ -4057,3 +4057,4 @@ Commit at 2023-02-08T19:55:55: Refactor utils for better code reuse
 Commit at 2023-02-08T11:54:47: Update preprocessing pipeline to handle missing values
 Commit at 2023-02-08T11:34:12: Add support for data augmentation
 Commit at 2023-02-08T10:14:21: Refactor utils for better code reuse
+Commit at 2023-02-08T13:23:52: Optimize inference speed for edge devices
