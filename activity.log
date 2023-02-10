@@ -4067,3 +4067,4 @@ Commit at 2023-02-09T13:10:44: Improve visualization functions for predictions
 Commit at 2023-02-09T20:57:15: Improve logging during model training
 Commit at 2023-02-10T15:48:36: Add support for data augmentation
 Commit at 2023-02-10T21:34:08: Update documentation for new features
+Commit at 2023-02-10T16:34:04: Fix bug in LSTM layer initialization
