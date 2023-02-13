@@ -4069,3 +4069,4 @@ Commit at 2023-02-10T15:48:36: Add support for data augmentation
 Commit at 2023-02-10T21:34:08: Update documentation for new features
 Commit at 2023-02-10T16:34:04: Fix bug in LSTM layer initialization
 Commit at 2023-02-10T16:26:09: Add support for custom loss functions
+Commit at 2023-02-13T11:04:21: Add new evaluation metrics for time series forecasting
