@@ -4079,3 +4079,4 @@ Commit at 2023-02-14T12:43:15: Refactor model architecture for better performanc
 Commit at 2023-02-14T19:19:49: Update preprocessing pipeline to handle missing values
 Commit at 2023-02-14T15:31:05: Fix bug in LSTM layer initialization
 Commit at 2023-02-14T18:56:27: Fix minor bug in data windowing
+Commit at 2023-02-14T16:13:05: Add support for pre-trained models
