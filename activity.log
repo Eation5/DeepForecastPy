@@ -4082,3 +4082,4 @@ Commit at 2023-02-14T18:56:27: Fix minor bug in data windowing
 Commit at 2023-02-14T16:13:05: Add support for pre-trained models
 Commit at 2023-02-14T15:52:58: Refactor model architecture for better performance
 Commit at 2023-02-14T13:07:57: Fix issue with model serialization
+Commit at 2023-02-15T16:09:55: Add support for Transformer-based models
