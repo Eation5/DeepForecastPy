@@ -4088,3 +4088,4 @@ Commit at 2023-02-15T14:17:31: Add support for bidirectional RNNs
 Commit at 2023-02-15T10:01:48: Add support for GRU models
 Commit at 2023-02-15T19:01:45: Fix bug in LSTM layer initialization
 Commit at 2023-02-15T20:06:45: Add unit tests for preprocessing utilities
+Commit at 2023-02-15T10:47:35: Fix bug in LSTM layer initialization
