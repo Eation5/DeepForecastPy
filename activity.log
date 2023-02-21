@@ -4115,3 +4115,4 @@ Commit at 2023-02-21T19:57:09: Add examples for different use cases
 Commit at 2023-02-21T14:59:43: Add examples for different use cases
 Commit at 2023-02-21T20:11:04: Fix minor bug in data windowing
 Commit at 2023-02-21T19:30:19: Optimize inference speed for edge devices
+Commit at 2023-02-21T10:18:22: Update README with more detailed instructions
