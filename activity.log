@@ -4118,3 +4118,4 @@ Commit at 2023-02-21T19:30:19: Optimize inference speed for edge devices
 Commit at 2023-02-21T10:18:22: Update README with more detailed instructions
 Commit at 2023-02-21T17:02:12: Update README with more detailed instructions
 Commit at 2023-02-21T21:21:51: Fix issue with model serialization
+Commit at 2023-02-22T15:56:11: Add support for bidirectional RNNs
