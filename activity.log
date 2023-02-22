@@ -4111,3 +4111,4 @@ Commit at 2023-02-20T12:54:18: Fix issue with data normalization
 Commit at 2023-02-21T14:44:57: Refactor model architecture for better performance
 Commit at 2023-02-21T14:35:43: Add new evaluation metrics for time series forecasting
 Commit at 2023-02-21T10:15:01: Add support for Transformer-based models
+Commit at 2023-02-21T19:57:09: Add examples for different use cases
