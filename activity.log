@@ -4128,3 +4128,4 @@ Commit at 2023-02-28T09:40:04: Add support for pre-trained models
 Commit at 2023-02-28T11:25:29: Add support for pre-trained models
 Commit at 2023-02-28T09:24:15: Fix issue with data normalization
 Commit at 2023-02-28T18:24:42: Add support for multiple output steps
+Commit at 2023-02-28T12:42:26: Add support for bidirectional RNNs
