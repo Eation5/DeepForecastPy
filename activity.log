@@ -4135,3 +4135,4 @@ Commit at 2023-03-01T09:38:12: Improve error handling in model building
 Commit at 2023-03-02T19:42:02: Fix issue with model serialization
 Commit at 2023-03-02T10:02:01: Improve logging during model training
 Commit at 2023-03-02T13:49:22: Refactor utils for better code reuse
+Commit at 2023-03-02T16:40:39: Improve visualization functions for predictions
