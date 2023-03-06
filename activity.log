@@ -4144,3 +4144,4 @@ Commit at 2023-03-06T16:28:42: Add support for custom loss functions
 Commit at 2023-03-06T17:17:53: Fix issue with data normalization
 Commit at 2023-03-06T20:03:55: Optimize training loop for faster convergence
 Commit at 2023-03-06T10:44:39: Add support for multiple output steps
+Commit at 2023-03-06T17:30:58: Add examples for using the library
