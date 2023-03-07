@@ -4139,3 +4139,4 @@ Commit at 2023-03-02T16:40:39: Improve visualization functions for predictions
 Commit at 2023-03-02T15:45:04: Add support for data augmentation
 Commit at 2023-03-02T13:44:13: Improve visualization functions for predictions
 Commit at 2023-03-02T09:19:12: Add support for bidirectional RNNs
+Commit at 2023-03-06T21:53:14: Add examples for using the library
