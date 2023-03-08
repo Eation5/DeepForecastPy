@@ -4151,3 +4151,4 @@ Commit at 2023-03-08T15:58:17: Improve logging during model training
 Commit at 2023-03-08T16:40:00: Add unit tests for preprocessing utilities
 Commit at 2023-03-08T15:49:56: Add examples for using the library
 Commit at 2023-03-08T09:26:42: Fix bug in LSTM layer initialization
+Commit at 2023-03-08T14:45:54: Update project structure for better organization
