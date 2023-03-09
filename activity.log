@@ -4156,3 +4156,4 @@ Commit at 2023-03-08T19:15:49: Fix bug in LSTM layer initialization
 Commit at 2023-03-08T09:35:36: Improve logging during model training
 Commit at 2023-03-09T15:41:02: Optimize training loop for faster convergence
 Commit at 2023-03-09T15:26:32: Update README with more detailed instructions
+Commit at 2023-03-09T15:05:09: Update README with more detailed instructions
