@@ -4172,3 +4172,4 @@ Commit at 2023-03-10T11:44:48: Optimize memory usage during training
 Commit at 2023-03-10T11:55:26: Add support for pre-trained models
 Commit at 2023-03-10T14:06:57: Improve logging during model training
 Commit at 2023-03-10T12:36:33: Update preprocessing pipeline to handle missing values
+Commit at 2023-03-10T11:36:34: Update requirements for new dependencies
