@@ -4167,3 +4167,4 @@ Commit at 2023-03-09T13:01:11: Refactor model architecture for better performanc
 Commit at 2023-03-09T21:09:53: Update preprocessing pipeline to handle missing values
 Commit at 2023-03-09T20:38:07: Fix minor bug in data windowing
 Commit at 2023-03-10T18:17:41: Improve error handling in model building
+Commit at 2023-03-10T11:49:24: Fix issue with data normalization
