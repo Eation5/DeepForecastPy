@@ -4174,3 +4174,4 @@ Commit at 2023-03-10T14:06:57: Improve logging during model training
 Commit at 2023-03-10T12:36:33: Update preprocessing pipeline to handle missing values
 Commit at 2023-03-10T11:36:34: Update requirements for new dependencies
 Commit at 2023-03-10T12:26:10: Update project structure for better organization
+Commit at 2023-03-13T17:23:19: Refactor model architecture for better performance
