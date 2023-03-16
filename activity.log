@@ -4193,3 +4193,4 @@ Commit at 2023-03-16T15:38:43: Improve documentation for API reference
 Commit at 2023-03-16T19:58:58: Improve logging during model training
 Commit at 2023-03-16T19:42:32: Fix issue with model serialization
 Commit at 2023-03-16T10:52:03: Add support for Transformer-based models
+Commit at 2023-03-16T09:05:08: Add examples for using the library
