@@ -4182,3 +4182,4 @@ Commit at 2023-03-14T17:53:52: Add support for Transformer-based models
 Commit at 2023-03-14T15:53:00: Add support for pre-trained models
 Commit at 2023-03-15T17:17:13: Add support for custom loss functions
 Commit at 2023-03-15T15:15:14: Improve documentation for API reference
+Commit at 2023-03-15T20:44:48: Fix issue with data normalization
