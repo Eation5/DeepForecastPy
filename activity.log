@@ -4186,3 +4186,4 @@ Commit at 2023-03-15T20:44:48: Fix issue with data normalization
 Commit at 2023-03-15T13:54:24: Update requirements for new dependencies
 Commit at 2023-03-15T17:18:35: Add support for custom loss functions
 Commit at 2023-03-15T20:25:12: Improve documentation for API reference
+Commit at 2023-03-16T11:57:18: Fix issue with model serialization
