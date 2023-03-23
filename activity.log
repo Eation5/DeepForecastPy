@@ -4232,3 +4232,4 @@ Commit at 2023-03-23T21:36:49: Add support for custom loss functions
 Commit at 2023-03-23T20:42:03: Fix issue with data normalization
 Commit at 2023-03-23T16:03:40: Update preprocessing pipeline to handle missing values
 Commit at 2023-03-23T21:32:55: Update documentation for new features
+Commit at 2023-03-23T12:58:35: Add support for bidirectional RNNs
