@@ -4228,3 +4228,4 @@ Commit at 2023-03-22T15:52:21: Update requirements for new dependencies
 Commit at 2023-03-22T18:05:31: Optimize training loop for faster convergence
 Commit at 2023-03-22T19:11:05: Update README with more detailed instructions
 Commit at 2023-03-22T14:07:16: Optimize inference speed for edge devices
+Commit at 2023-03-23T21:36:49: Add support for custom loss functions
