@@ -4247,3 +4247,4 @@ Commit at 2023-03-28T09:04:29: Add unit tests for preprocessing utilities
 Commit at 2023-03-28T21:28:28: Improve logging during model training
 Commit at 2023-03-28T13:13:12: Fix issue with data normalization
 Commit at 2023-03-28T10:47:08: Add support for multiple output steps
+Commit at 2023-03-28T15:59:32: Update documentation for new features
