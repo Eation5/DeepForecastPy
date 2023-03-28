@@ -4241,3 +4241,4 @@ Commit at 2023-03-27T09:14:18: Fix issue with data normalization
 Commit at 2023-03-27T12:35:43: Fix bug in LSTM layer initialization
 Commit at 2023-03-27T14:12:21: Update documentation for new features
 Commit at 2023-03-27T15:42:17: Improve logging during model training
+Commit at 2023-03-28T12:40:29: Refactor model architecture for better performance
