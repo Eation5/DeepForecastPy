@@ -4251,3 +4251,4 @@ Commit at 2023-03-28T15:59:32: Update documentation for new features
 Commit at 2023-03-28T10:50:02: Add support for GRU models
 Commit at 2023-03-29T19:40:13: Fix issue with model serialization
 Commit at 2023-03-29T16:32:26: Refactor utils for better code reuse
+Commit at 2023-03-29T18:47:08: Improve error handling in model building
