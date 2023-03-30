@@ -4257,3 +4257,4 @@ Commit at 2023-03-29T19:55:35: Update README with more detailed instructions
 Commit at 2023-03-29T19:09:29: Improve logging during model training
 Commit at 2023-03-30T20:40:06: Fix bug in LSTM layer initialization
 Commit at 2023-03-30T13:43:50: Update project structure for better organization
+Commit at 2023-03-30T10:27:51: Update documentation for new features
