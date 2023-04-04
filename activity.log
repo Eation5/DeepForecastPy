@@ -4271,3 +4271,4 @@ Commit at 2023-04-03T09:38:40: Add unit tests for preprocessing utilities
 Commit at 2023-04-04T19:19:23: Fix issue with data normalization
 Commit at 2023-04-04T10:00:30: Optimize memory usage during training
 Commit at 2023-04-04T17:34:45: Improve error handling in model building
+Commit at 2023-04-04T09:55:22: Add examples for using the library
