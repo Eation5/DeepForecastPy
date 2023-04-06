@@ -4283,3 +4283,4 @@ Commit at 2023-04-05T21:07:53: Update README with more detailed instructions
 Commit at 2023-04-05T19:32:30: Optimize inference speed for edge devices
 Commit at 2023-04-05T21:50:43: Optimize training loop for faster convergence
 Commit at 2023-04-05T09:50:02: Add new evaluation metrics for time series forecasting
+Commit at 2023-04-05T20:11:17: Fix issue with model serialization
