@@ -4305,3 +4305,4 @@ Commit at 2023-04-10T16:20:50: Fix minor bug in data windowing
 Commit at 2023-04-10T14:57:44: Fix bug in LSTM layer initialization
 Commit at 2023-04-10T11:34:06: Improve documentation for API reference
 Commit at 2023-04-11T20:59:34: Add support for bidirectional RNNs
+Commit at 2023-04-11T10:07:19: Improve logging during model training
