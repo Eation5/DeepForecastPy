@@ -4312,3 +4312,4 @@ Commit at 2023-04-11T15:24:37: Optimize inference speed for edge devices
 Commit at 2023-04-11T15:57:51: Add support for bidirectional RNNs
 Commit at 2023-04-11T09:03:59: Update README with more detailed instructions
 Commit at 2023-04-11T17:24:28: Fix minor bug in data windowing
+Commit at 2023-04-11T13:02:43: Update README with more detailed instructions
