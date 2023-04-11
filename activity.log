@@ -4309,3 +4309,4 @@ Commit at 2023-04-11T10:07:19: Improve logging during model training
 Commit at 2023-04-11T21:18:18: Improve error handling in model building
 Commit at 2023-04-11T14:04:06: Add unit tests for preprocessing utilities
 Commit at 2023-04-11T15:24:37: Optimize inference speed for edge devices
+Commit at 2023-04-11T15:57:51: Add support for bidirectional RNNs
