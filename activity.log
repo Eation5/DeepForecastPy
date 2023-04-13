@@ -4315,3 +4315,4 @@ Commit at 2023-04-11T17:24:28: Fix minor bug in data windowing
 Commit at 2023-04-11T13:02:43: Update README with more detailed instructions
 Commit at 2023-04-11T11:43:52: Optimize memory usage during training
 Commit at 2023-04-11T13:53:16: Fix minor bug in data windowing
+Commit at 2023-04-13T19:53:28: Fix issue with model serialization
