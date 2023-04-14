@@ -4326,3 +4326,4 @@ Commit at 2023-04-14T12:35:18: Optimize inference speed for edge devices
 Commit at 2023-04-14T19:37:49: Optimize memory usage during training
 Commit at 2023-04-14T21:53:55: Update requirements for new dependencies
 Commit at 2023-04-14T14:55:44: Add new evaluation metrics for time series forecasting
+Commit at 2023-04-14T13:43:02: Fix issue with data normalization
