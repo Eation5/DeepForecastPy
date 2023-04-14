@@ -4323,3 +4323,4 @@ Commit at 2023-04-13T17:36:09: Fix issue with data normalization
 Commit at 2023-04-13T16:45:23: Add support for multiple output steps
 Commit at 2023-04-14T14:09:49: Add support for data augmentation
 Commit at 2023-04-14T12:35:18: Optimize inference speed for edge devices
+Commit at 2023-04-14T19:37:49: Optimize memory usage during training
