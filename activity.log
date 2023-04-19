@@ -4349,3 +4349,4 @@ Commit at 2023-04-19T12:17:09: Fix bug in LSTM layer initialization
 Commit at 2023-04-19T13:02:22: Update requirements for new dependencies
 Commit at 2023-04-19T16:43:52: Add examples for using the library
 Commit at 2023-04-19T14:47:12: Improve documentation for API reference
+Commit at 2023-04-19T13:36:04: Optimize inference speed for edge devices
