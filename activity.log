@@ -4359,3 +4359,4 @@ Commit at 2023-04-19T15:33:20: Add support for data augmentation
 Commit at 2023-04-19T20:57:57: Refactor model architecture for better performance
 Commit at 2023-04-20T11:06:15: Optimize inference speed for edge devices
 Commit at 2023-04-20T19:07:45: Add support for bidirectional RNNs
+Commit at 2023-04-20T20:14:23: Fix issue with model serialization
