@@ -4370,3 +4370,4 @@ Commit at 2023-04-24T09:06:42: Fix bug in LSTM layer initialization
 Commit at 2023-04-24T21:55:54: Update requirements for new dependencies
 Commit at 2023-04-25T20:57:56: Add support for Transformer-based models
 Commit at 2023-04-25T13:07:51: Update preprocessing pipeline to handle missing values
+Commit at 2023-04-25T14:53:18: Add support for pre-trained models
