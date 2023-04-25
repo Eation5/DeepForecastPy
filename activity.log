@@ -4367,3 +4367,4 @@ Commit at 2023-04-24T14:09:12: Add support for multiple output steps
 Commit at 2023-04-24T16:54:57: Refactor model architecture for better performance
 Commit at 2023-04-24T21:54:26: Add support for data augmentation
 Commit at 2023-04-24T09:06:42: Fix bug in LSTM layer initialization
+Commit at 2023-04-24T21:55:54: Update requirements for new dependencies
