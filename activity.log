@@ -4378,3 +4378,4 @@ Commit at 2023-04-25T18:49:03: Add unit tests for preprocessing utilities
 Commit at 2023-04-25T17:05:07: Add support for custom loss functions
 Commit at 2023-04-25T12:24:27: Fix issue with model serialization
 Commit at 2023-04-25T15:02:04: Improve error handling in model building
+Commit at 2023-04-25T17:13:58: Add support for custom loss functions
