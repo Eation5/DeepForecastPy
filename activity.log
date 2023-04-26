@@ -4383,3 +4383,4 @@ Commit at 2023-04-25T16:38:58: Update README with more detailed instructions
 Commit at 2023-04-26T10:39:31: Add support for multiple output steps
 Commit at 2023-04-26T09:41:11: Improve error handling in model building
 Commit at 2023-04-26T20:42:48: Improve visualization functions for predictions
+Commit at 2023-04-26T14:09:39: Optimize memory usage during training
