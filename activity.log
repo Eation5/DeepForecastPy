@@ -4397,3 +4397,4 @@ Commit at 2023-04-27T13:49:33: Fix issue with data normalization
 Commit at 2023-04-27T16:44:57: Fix issue with model serialization
 Commit at 2023-04-27T14:21:23: Optimize memory usage during training
 Commit at 2023-04-28T13:04:44: Update README with more detailed instructions
+Commit at 2023-04-28T15:54:52: Fix issue with data normalization
