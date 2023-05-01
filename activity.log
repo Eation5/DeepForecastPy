@@ -4402,3 +4402,4 @@ Commit at 2023-04-28T16:50:32: Add new evaluation metrics for time series foreca
 Commit at 2023-04-28T12:15:50: Optimize data loading for large datasets
 Commit at 2023-04-28T18:23:20: Add support for Transformer-based models
 Commit at 2023-04-28T21:18:19: Add support for custom loss functions
+Commit at 2023-05-01T12:06:09: Optimize inference speed for edge devices
