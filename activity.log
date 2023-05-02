@@ -4410,3 +4410,4 @@ Commit at 2023-05-01T21:05:00: Update requirements for new dependencies
 Commit at 2023-05-01T20:55:11: Optimize data loading for large datasets
 Commit at 2023-05-01T15:36:06: Add new evaluation metrics for time series forecasting
 Commit at 2023-05-01T10:53:23: Fix issue with model serialization
+Commit at 2023-05-02T15:18:44: Add support for bidirectional RNNs
