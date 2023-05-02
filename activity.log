@@ -4412,3 +4412,4 @@ Commit at 2023-05-01T15:36:06: Add new evaluation metrics for time series foreca
 Commit at 2023-05-01T10:53:23: Fix issue with model serialization
 Commit at 2023-05-02T15:18:44: Add support for bidirectional RNNs
 Commit at 2023-05-02T11:52:12: Add support for bidirectional RNNs
+Commit at 2023-05-02T18:55:46: Add new evaluation metrics for time series forecasting
