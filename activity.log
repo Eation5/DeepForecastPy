@@ -4415,3 +4415,4 @@ Commit at 2023-05-02T11:52:12: Add support for bidirectional RNNs
 Commit at 2023-05-02T18:55:46: Add new evaluation metrics for time series forecasting
 Commit at 2023-05-03T21:14:26: Update requirements for new dependencies
 Commit at 2023-05-03T16:50:29: Add examples for different use cases
+Commit at 2023-05-03T16:28:16: Update README with more detailed instructions
