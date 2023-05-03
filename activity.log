@@ -4418,3 +4418,4 @@ Commit at 2023-05-03T16:50:29: Add examples for different use cases
 Commit at 2023-05-03T16:28:16: Update README with more detailed instructions
 Commit at 2023-05-03T16:54:30: Optimize inference speed for edge devices
 Commit at 2023-05-03T19:37:48: Refactor utils for better code reuse
+Commit at 2023-05-03T13:07:00: Add support for custom loss functions
