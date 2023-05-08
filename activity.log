@@ -4436,3 +4436,4 @@ Commit at 2023-05-08T14:25:50: Fix issue with model serialization
 Commit at 2023-05-08T15:38:07: Add examples for using the library
 Commit at 2023-05-08T14:32:10: Optimize inference speed for edge devices
 Commit at 2023-05-08T15:54:02: Fix minor bug in data windowing
+Commit at 2023-05-08T12:17:19: Add support for data augmentation
