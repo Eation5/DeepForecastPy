@@ -4433,3 +4433,4 @@ Commit at 2023-05-05T19:54:37: Add examples for different use cases
 Commit at 2023-05-05T12:05:04: Add support for Transformer-based models
 Commit at 2023-05-05T10:27:09: Add support for Transformer-based models
 Commit at 2023-05-08T14:25:50: Fix issue with model serialization
+Commit at 2023-05-08T15:38:07: Add examples for using the library
