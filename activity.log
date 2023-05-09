@@ -4451,3 +4451,4 @@ Commit at 2023-05-09T16:11:35: Fix bug in LSTM layer initialization
 Commit at 2023-05-09T10:59:56: Improve documentation for API reference
 Commit at 2023-05-09T09:24:06: Fix bug in LSTM layer initialization
 Commit at 2023-05-09T16:22:57: Add support for bidirectional RNNs
+Commit at 2023-05-09T13:05:42: Refactor utils for better code reuse
