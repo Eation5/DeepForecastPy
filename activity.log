@@ -4460,3 +4460,4 @@ Commit at 2023-05-11T09:02:14: Add examples for using the library
 Commit at 2023-05-11T09:35:12: Refactor utils for better code reuse
 Commit at 2023-05-11T19:58:14: Optimize inference speed for edge devices
 Commit at 2023-05-11T20:08:12: Add support for multiple output steps
+Commit at 2023-05-11T13:03:20: Update README with more detailed instructions
