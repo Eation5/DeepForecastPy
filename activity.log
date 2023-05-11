@@ -4456,3 +4456,4 @@ Commit at 2023-05-09T11:43:40: Improve error handling in model building
 Commit at 2023-05-11T14:26:43: Improve logging during model training
 Commit at 2023-05-11T09:30:32: Fix minor bug in data windowing
 Commit at 2023-05-11T18:00:51: Optimize data loading for large datasets
+Commit at 2023-05-11T09:02:14: Add examples for using the library
