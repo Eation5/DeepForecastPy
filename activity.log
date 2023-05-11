@@ -4454,3 +4454,4 @@ Commit at 2023-05-09T16:22:57: Add support for bidirectional RNNs
 Commit at 2023-05-09T13:05:42: Refactor utils for better code reuse
 Commit at 2023-05-09T11:43:40: Improve error handling in model building
 Commit at 2023-05-11T14:26:43: Improve logging during model training
+Commit at 2023-05-11T09:30:32: Fix minor bug in data windowing
