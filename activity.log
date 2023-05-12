@@ -4464,3 +4464,4 @@ Commit at 2023-05-11T13:03:20: Update README with more detailed instructions
 Commit at 2023-05-12T10:50:34: Improve visualization functions for predictions
 Commit at 2023-05-12T21:07:50: Optimize memory usage during training
 Commit at 2023-05-12T10:19:20: Improve visualization functions for predictions
+Commit at 2023-05-12T19:28:12: Add new evaluation metrics for time series forecasting
