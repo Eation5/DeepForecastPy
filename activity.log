@@ -4466,3 +4466,4 @@ Commit at 2023-05-12T21:07:50: Optimize memory usage during training
 Commit at 2023-05-12T10:19:20: Improve visualization functions for predictions
 Commit at 2023-05-12T19:28:12: Add new evaluation metrics for time series forecasting
 Commit at 2023-05-12T14:14:19: Add support for pre-trained models
+Commit at 2023-05-12T13:26:37: Update project structure for better organization
