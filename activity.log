@@ -4462,3 +4462,4 @@ Commit at 2023-05-11T19:58:14: Optimize inference speed for edge devices
 Commit at 2023-05-11T20:08:12: Add support for multiple output steps
 Commit at 2023-05-11T13:03:20: Update README with more detailed instructions
 Commit at 2023-05-12T10:50:34: Improve visualization functions for predictions
+Commit at 2023-05-12T21:07:50: Optimize memory usage during training
