@@ -4472,3 +4472,4 @@ Commit at 2023-05-12T12:57:33: Add unit tests for preprocessing utilities
 Commit at 2023-05-12T10:18:15: Improve documentation for API reference
 Commit at 2023-05-12T21:30:24: Update preprocessing pipeline to handle missing values
 Commit at 2023-05-16T12:22:46: Add support for Transformer-based models
+Commit at 2023-05-16T15:15:07: Add support for bidirectional RNNs
