@@ -4482,3 +4482,4 @@ Commit at 2023-05-18T13:04:34: Add support for GRU models
 Commit at 2023-05-18T10:10:19: Add unit tests for preprocessing utilities
 Commit at 2023-05-18T12:47:49: Add support for data augmentation
 Commit at 2023-05-18T15:22:43: Add support for Transformer-based models
+Commit at 2023-05-18T17:16:51: Update documentation for new features
