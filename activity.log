@@ -4478,3 +4478,4 @@ Commit at 2023-05-17T09:59:44: Fix issue with model serialization
 Commit at 2023-05-17T20:51:30: Update README with more detailed instructions
 Commit at 2023-05-17T19:56:43: Fix minor bug in data windowing
 Commit at 2023-05-17T11:52:48: Refactor model architecture for better performance
+Commit at 2023-05-18T13:04:34: Add support for GRU models
