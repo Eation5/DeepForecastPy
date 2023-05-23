@@ -4503,3 +4503,4 @@ Commit at 2023-05-23T10:22:50: Add support for multiple output steps
 Commit at 2023-05-23T12:15:22: Update requirements for new dependencies
 Commit at 2023-05-23T10:05:10: Add support for Transformer-based models
 Commit at 2023-05-23T09:01:44: Improve documentation for API reference
+Commit at 2023-05-23T16:04:29: Add support for custom loss functions
