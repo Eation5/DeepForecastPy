@@ -4493,3 +4493,4 @@ Commit at 2023-05-22T12:47:14: Add examples for different use cases
 Commit at 2023-05-22T13:06:53: Update README with more detailed instructions
 Commit at 2023-05-22T21:22:31: Fix issue with data normalization
 Commit at 2023-05-22T18:32:18: Update project structure for better organization
+Commit at 2023-05-22T21:19:46: Add support for Transformer-based models
