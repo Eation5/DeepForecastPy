@@ -4500,3 +4500,4 @@ Commit at 2023-05-23T12:56:32: Add support for multiple output steps
 Commit at 2023-05-23T19:40:41: Add support for bidirectional RNNs
 Commit at 2023-05-23T11:59:03: Fix bug in LSTM layer initialization
 Commit at 2023-05-23T10:22:50: Add support for multiple output steps
+Commit at 2023-05-23T12:15:22: Update requirements for new dependencies
