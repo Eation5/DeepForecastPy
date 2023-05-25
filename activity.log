@@ -4510,3 +4510,4 @@ Commit at 2023-05-24T21:02:22: Add support for GRU models
 Commit at 2023-05-24T12:07:11: Add examples for using the library
 Commit at 2023-05-25T16:31:57: Refactor model architecture for better performance
 Commit at 2023-05-25T15:15:16: Add support for multiple output steps
+Commit at 2023-05-25T16:01:28: Optimize inference speed for edge devices
