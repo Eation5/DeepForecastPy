@@ -4512,3 +4512,4 @@ Commit at 2023-05-25T16:31:57: Refactor model architecture for better performanc
 Commit at 2023-05-25T15:15:16: Add support for multiple output steps
 Commit at 2023-05-25T16:01:28: Optimize inference speed for edge devices
 Commit at 2023-05-25T13:18:57: Update README with more detailed instructions
+Commit at 2023-05-25T19:14:55: Add new evaluation metrics for time series forecasting
