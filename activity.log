@@ -4506,3 +4506,4 @@ Commit at 2023-05-23T09:01:44: Improve documentation for API reference
 Commit at 2023-05-23T16:04:29: Add support for custom loss functions
 Commit at 2023-05-23T12:37:58: Fix bug in LSTM layer initialization
 Commit at 2023-05-24T15:43:21: Optimize memory usage during training
+Commit at 2023-05-24T21:02:22: Add support for GRU models
