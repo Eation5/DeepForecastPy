@@ -4508,3 +4508,4 @@ Commit at 2023-05-23T12:37:58: Fix bug in LSTM layer initialization
 Commit at 2023-05-24T15:43:21: Optimize memory usage during training
 Commit at 2023-05-24T21:02:22: Add support for GRU models
 Commit at 2023-05-24T12:07:11: Add examples for using the library
+Commit at 2023-05-25T16:31:57: Refactor model architecture for better performance
