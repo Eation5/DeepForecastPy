@@ -4520,3 +4520,4 @@ Commit at 2023-05-26T13:16:03: Add support for custom loss functions
 Commit at 2023-05-26T11:52:08: Update preprocessing pipeline to handle missing values
 Commit at 2023-05-26T16:25:12: Update project structure for better organization
 Commit at 2023-05-29T17:13:35: Fix issue with data normalization
+Commit at 2023-05-29T18:13:13: Improve documentation for API reference
