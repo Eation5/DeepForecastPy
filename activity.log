@@ -4525,3 +4525,4 @@ Commit at 2023-05-30T15:49:42: Add support for GRU models
 Commit at 2023-05-31T09:26:59: Add unit tests for preprocessing utilities
 Commit at 2023-05-31T09:23:09: Fix issue with data normalization
 Commit at 2023-06-02T16:01:32: Update documentation for new features
+Commit at 2023-06-02T17:07:07: Fix minor bug in data windowing
