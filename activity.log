@@ -4528,3 +4528,4 @@ Commit at 2023-06-02T16:01:32: Update documentation for new features
 Commit at 2023-06-02T17:07:07: Fix minor bug in data windowing
 Commit at 2023-06-02T12:51:33: Add support for GRU models
 Commit at 2023-06-02T19:04:15: Optimize memory usage during training
+Commit at 2023-06-02T17:45:32: Fix issue with model serialization
