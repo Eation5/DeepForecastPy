@@ -4530,3 +4530,4 @@ Commit at 2023-06-02T12:51:33: Add support for GRU models
 Commit at 2023-06-02T19:04:15: Optimize memory usage during training
 Commit at 2023-06-02T17:45:32: Fix issue with model serialization
 Commit at 2023-06-02T10:35:44: Add support for Transformer-based models
+Commit at 2023-06-02T21:34:04: Update project structure for better organization
