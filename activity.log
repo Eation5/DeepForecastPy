@@ -4540,3 +4540,4 @@ Commit at 2023-06-07T10:32:04: Update project structure for better organization
 Commit at 2023-06-07T13:12:02: Add support for data augmentation
 Commit at 2023-06-08T20:22:07: Update README with more detailed instructions
 Commit at 2023-06-08T10:07:42: Add support for GRU models
+Commit at 2023-06-08T09:00:47: Optimize memory usage during training
