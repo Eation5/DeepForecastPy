@@ -4554,3 +4554,4 @@ Commit at 2023-06-12T13:17:18: Add unit tests for preprocessing utilities
 Commit at 2023-06-12T12:23:54: Add support for data augmentation
 Commit at 2023-06-12T20:49:09: Add support for custom loss functions
 Commit at 2023-06-12T20:07:51: Optimize training loop for faster convergence
+Commit at 2023-06-12T15:44:48: Add support for bidirectional RNNs
