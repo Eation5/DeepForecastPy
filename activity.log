@@ -4563,3 +4563,4 @@ Commit at 2023-06-14T16:12:21: Add support for pre-trained models
 Commit at 2023-06-15T16:09:55: Improve error handling in model building
 Commit at 2023-06-15T17:50:32: Optimize training loop for faster convergence
 Commit at 2023-06-15T21:16:44: Add examples for using the library
+Commit at 2023-06-15T19:34:21: Improve documentation for API reference
