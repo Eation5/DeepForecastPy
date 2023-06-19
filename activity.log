@@ -4573,3 +4573,4 @@ Commit at 2023-06-16T09:47:19: Improve visualization functions for predictions
 Commit at 2023-06-16T09:00:38: Add support for GRU models
 Commit at 2023-06-16T21:56:21: Update preprocessing pipeline to handle missing values
 Commit at 2023-06-16T20:54:52: Optimize data loading for large datasets
+Commit at 2023-06-19T16:16:58: Add examples for using the library
