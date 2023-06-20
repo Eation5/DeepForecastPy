@@ -4585,3 +4585,4 @@ Commit at 2023-06-20T14:34:45: Update requirements for new dependencies
 Commit at 2023-06-20T17:51:20: Fix bug in LSTM layer initialization
 Commit at 2023-06-20T16:32:18: Optimize inference speed for edge devices
 Commit at 2023-06-20T11:55:49: Refactor utils for better code reuse
+Commit at 2023-06-20T17:58:33: Add support for multiple output steps
