@@ -4599,3 +4599,4 @@ Commit at 2023-06-23T16:53:38: Add support for bidirectional RNNs
 Commit at 2023-06-26T14:47:07: Update documentation for new features
 Commit at 2023-06-26T17:49:49: Fix minor bug in data windowing
 Commit at 2023-06-26T16:59:45: Improve logging during model training
+Commit at 2023-06-26T19:09:45: Fix issue with data normalization
