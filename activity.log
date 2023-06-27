@@ -4602,3 +4602,4 @@ Commit at 2023-06-26T16:59:45: Improve logging during model training
 Commit at 2023-06-26T19:09:45: Fix issue with data normalization
 Commit at 2023-06-26T19:52:21: Add support for Transformer-based models
 Commit at 2023-06-26T12:18:37: Add new evaluation metrics for time series forecasting
+Commit at 2023-06-26T20:46:01: Add support for multiple output steps
