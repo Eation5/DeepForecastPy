@@ -4605,3 +4605,4 @@ Commit at 2023-06-26T12:18:37: Add new evaluation metrics for time series foreca
 Commit at 2023-06-26T20:46:01: Add support for multiple output steps
 Commit at 2023-06-27T14:05:01: Add support for Transformer-based models
 Commit at 2023-06-27T21:48:13: Fix bug in LSTM layer initialization
+Commit at 2023-06-27T12:01:12: Improve logging during model training
