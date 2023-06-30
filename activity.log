@@ -4617,3 +4617,4 @@ Commit at 2023-06-28T21:05:42: Add support for pre-trained models
 Commit at 2023-06-29T11:37:19: Add examples for different use cases
 Commit at 2023-06-29T15:31:28: Add support for multiple output steps
 Commit at 2023-06-29T21:51:14: Refactor model architecture for better performance
+Commit at 2023-06-29T21:31:15: Fix minor bug in data windowing
