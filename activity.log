@@ -4631,3 +4631,4 @@ Commit at 2023-06-30T10:36:21: Add unit tests for preprocessing utilities
 Commit at 2023-06-30T16:22:03: Improve error handling in model building
 Commit at 2023-06-30T21:49:23: Fix bug in LSTM layer initialization
 Commit at 2023-06-30T14:53:12: Add support for custom loss functions
+Commit at 2023-06-30T17:01:11: Add new evaluation metrics for time series forecasting
