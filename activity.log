@@ -4625,3 +4625,4 @@ Commit at 2023-06-29T11:36:17: Fix bug in LSTM layer initialization
 Commit at 2023-06-30T17:31:57: Optimize memory usage during training
 Commit at 2023-06-30T14:16:44: Add unit tests for preprocessing utilities
 Commit at 2023-06-30T11:17:03: Update project structure for better organization
+Commit at 2023-06-30T15:03:19: Fix issue with model serialization
