@@ -4667,3 +4667,4 @@ Commit at 2023-07-07T21:28:20: Improve error handling in model building
 Commit at 2023-07-07T21:51:54: Add unit tests for preprocessing utilities
 Commit at 2023-07-07T12:31:42: Improve visualization functions for predictions
 Commit at 2023-07-07T13:03:48: Optimize training loop for faster convergence
+Commit at 2023-07-07T13:21:24: Fix issue with model serialization
