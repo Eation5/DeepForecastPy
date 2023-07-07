@@ -4662,3 +4662,4 @@ Commit at 2023-07-06T10:07:16: Improve documentation for API reference
 Commit at 2023-07-06T09:28:38: Improve documentation for API reference
 Commit at 2023-07-06T10:07:39: Update documentation for new features
 Commit at 2023-07-06T09:25:55: Add unit tests for preprocessing utilities
+Commit at 2023-07-07T18:10:11: Add new evaluation metrics for time series forecasting
