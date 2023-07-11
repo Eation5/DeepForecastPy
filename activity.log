@@ -4678,3 +4678,4 @@ Commit at 2023-07-11T17:02:58: Update documentation for new features
 Commit at 2023-07-11T12:25:57: Update preprocessing pipeline to handle missing values
 Commit at 2023-07-11T20:31:20: Update project structure for better organization
 Commit at 2023-07-11T10:18:54: Optimize data loading for large datasets
+Commit at 2023-07-11T14:50:53: Add support for Transformer-based models
