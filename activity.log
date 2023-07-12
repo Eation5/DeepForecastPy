@@ -4676,3 +4676,4 @@ Commit at 2023-07-11T13:11:14: Update preprocessing pipeline to handle missing v
 Commit at 2023-07-11T09:38:11: Improve logging during model training
 Commit at 2023-07-11T17:02:58: Update documentation for new features
 Commit at 2023-07-11T12:25:57: Update preprocessing pipeline to handle missing values
+Commit at 2023-07-11T20:31:20: Update project structure for better organization
