@@ -4694,3 +4694,4 @@ Commit at 2023-07-13T18:23:01: Optimize training loop for faster convergence
 Commit at 2023-07-13T15:33:57: Update documentation for new features
 Commit at 2023-07-13T21:38:16: Update README with more detailed instructions
 Commit at 2023-07-13T14:46:38: Refactor utils for better code reuse
+Commit at 2023-07-13T18:14:31: Fix issue with data normalization
