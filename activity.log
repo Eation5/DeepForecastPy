@@ -4697,3 +4697,4 @@ Commit at 2023-07-13T14:46:38: Refactor utils for better code reuse
 Commit at 2023-07-13T18:14:31: Fix issue with data normalization
 Commit at 2023-07-14T20:10:00: Add examples for using the library
 Commit at 2023-07-14T18:34:51: Refactor model architecture for better performance
+Commit at 2023-07-14T18:47:57: Update documentation for new features
