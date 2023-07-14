@@ -4702,3 +4702,4 @@ Commit at 2023-07-14T20:06:02: Improve documentation for API reference
 Commit at 2023-07-14T14:45:48: Add support for pre-trained models
 Commit at 2023-07-14T10:30:31: Refactor model architecture for better performance
 Commit at 2023-07-14T09:37:52: Fix minor bug in data windowing
+Commit at 2023-07-14T18:07:04: Update requirements for new dependencies
