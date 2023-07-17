@@ -4707,3 +4707,4 @@ Commit at 2023-07-14T19:31:52: Update requirements for new dependencies
 Commit at 2023-07-14T15:58:57: Update requirements for new dependencies
 Commit at 2023-07-17T16:06:53: Update requirements for new dependencies
 Commit at 2023-07-17T12:49:18: Add support for custom loss functions
+Commit at 2023-07-17T17:29:49: Add support for pre-trained models
