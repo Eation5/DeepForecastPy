@@ -4723,3 +4723,4 @@ Commit at 2023-07-19T15:49:27: Fix bug in LSTM layer initialization
 Commit at 2023-07-19T18:10:52: Improve documentation for API reference
 Commit at 2023-07-19T13:34:40: Improve documentation for API reference
 Commit at 2023-07-19T15:34:34: Add support for Transformer-based models
+Commit at 2023-07-19T16:13:19: Add new evaluation metrics for time series forecasting
