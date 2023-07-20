@@ -4727,3 +4727,4 @@ Commit at 2023-07-19T16:13:19: Add new evaluation metrics for time series foreca
 Commit at 2023-07-20T16:20:45: Add support for pre-trained models
 Commit at 2023-07-20T18:28:03: Add support for bidirectional RNNs
 Commit at 2023-07-20T15:23:30: Improve visualization functions for predictions
+Commit at 2023-07-20T10:28:34: Add support for pre-trained models
