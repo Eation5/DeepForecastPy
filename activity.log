@@ -4717,3 +4717,4 @@ Commit at 2023-07-18T14:22:02: Update preprocessing pipeline to handle missing v
 Commit at 2023-07-18T14:10:02: Add examples for using the library
 Commit at 2023-07-19T17:27:21: Add examples for using the library
 Commit at 2023-07-19T16:03:53: Improve error handling in model building
+Commit at 2023-07-19T21:43:27: Improve visualization functions for predictions
