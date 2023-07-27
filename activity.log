@@ -4749,3 +4749,4 @@ Commit at 2023-07-25T11:52:45: Update documentation for new features
 Commit at 2023-07-25T14:28:59: Refactor utils for better code reuse
 Commit at 2023-07-27T11:47:34: Optimize memory usage during training
 Commit at 2023-07-27T15:25:37: Refactor model architecture for better performance
+Commit at 2023-07-27T13:16:49: Refactor model architecture for better performance
