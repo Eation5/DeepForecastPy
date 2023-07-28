@@ -4759,3 +4759,4 @@ Commit at 2023-07-28T14:27:36: Add support for custom loss functions
 Commit at 2023-07-28T17:09:17: Add support for Transformer-based models
 Commit at 2023-07-28T20:38:13: Refactor utils for better code reuse
 Commit at 2023-07-28T12:11:56: Improve error handling in model building
+Commit at 2023-07-28T09:20:47: Fix bug in LSTM layer initialization
