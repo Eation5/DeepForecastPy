@@ -4754,3 +4754,4 @@ Commit at 2023-07-27T10:01:46: Add support for pre-trained models
 Commit at 2023-07-27T11:19:08: Add support for multiple output steps
 Commit at 2023-07-27T15:56:28: Refactor utils for better code reuse
 Commit at 2023-07-28T14:35:00: Update documentation for new features
+Commit at 2023-07-28T09:57:40: Fix issue with data normalization
