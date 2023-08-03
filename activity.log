@@ -4774,3 +4774,4 @@ Commit at 2023-08-02T16:44:37: Add support for GRU models
 Commit at 2023-08-02T14:32:26: Add unit tests for preprocessing utilities
 Commit at 2023-08-02T09:25:57: Update requirements for new dependencies
 Commit at 2023-08-03T20:50:05: Improve logging during model training
+Commit at 2023-08-03T18:42:32: Fix issue with data normalization
