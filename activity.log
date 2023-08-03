@@ -4776,3 +4776,4 @@ Commit at 2023-08-02T09:25:57: Update requirements for new dependencies
 Commit at 2023-08-03T20:50:05: Improve logging during model training
 Commit at 2023-08-03T18:42:32: Fix issue with data normalization
 Commit at 2023-08-03T10:23:45: Refactor model architecture for better performance
+Commit at 2023-08-03T18:51:04: Improve error handling in model building
