@@ -4783,3 +4783,4 @@ Commit at 2023-08-03T10:14:39: Optimize data loading for large datasets
 Commit at 2023-08-03T13:30:15: Improve documentation for API reference
 Commit at 2023-08-03T10:08:53: Update requirements for new dependencies
 Commit at 2023-08-04T21:50:56: Update requirements for new dependencies
+Commit at 2023-08-04T17:55:19: Fix issue with model serialization
