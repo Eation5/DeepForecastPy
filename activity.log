@@ -4786,3 +4786,4 @@ Commit at 2023-08-04T21:50:56: Update requirements for new dependencies
 Commit at 2023-08-04T17:55:19: Fix issue with model serialization
 Commit at 2023-08-04T16:11:50: Update requirements for new dependencies
 Commit at 2023-08-04T17:47:10: Add support for custom loss functions
+Commit at 2023-08-04T17:51:49: Add new evaluation metrics for time series forecasting
