@@ -4793,3 +4793,4 @@ Commit at 2023-08-07T13:43:29: Update project structure for better organization
 Commit at 2023-08-07T11:31:10: Improve error handling in model building
 Commit at 2023-08-07T09:45:44: Optimize data loading for large datasets
 Commit at 2023-08-07T18:49:36: Update preprocessing pipeline to handle missing values
+Commit at 2023-08-07T18:04:02: Fix issue with data normalization
