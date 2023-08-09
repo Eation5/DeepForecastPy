@@ -4807,3 +4807,4 @@ Commit at 2023-08-08T10:49:17: Fix minor bug in data windowing
 Commit at 2023-08-08T18:02:59: Add examples for using the library
 Commit at 2023-08-08T14:43:50: Improve error handling in model building
 Commit at 2023-08-08T09:28:53: Update requirements for new dependencies
+Commit at 2023-08-09T19:42:22: Improve error handling in model building
