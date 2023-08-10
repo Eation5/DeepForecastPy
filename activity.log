@@ -4813,3 +4813,4 @@ Commit at 2023-08-09T16:43:59: Optimize data loading for large datasets
 Commit at 2023-08-09T21:09:44: Improve visualization functions for predictions
 Commit at 2023-08-09T18:13:42: Update requirements for new dependencies
 Commit at 2023-08-10T10:49:29: Optimize memory usage during training
+Commit at 2023-08-10T14:26:39: Update project structure for better organization
