@@ -4834,3 +4834,4 @@ Commit at 2023-08-16T19:54:13: Optimize data loading for large datasets
 Commit at 2023-08-16T16:31:47: Update project structure for better organization
 Commit at 2023-08-16T14:18:44: Optimize data loading for large datasets
 Commit at 2023-08-16T20:13:48: Add support for bidirectional RNNs
+Commit at 2023-08-16T21:20:21: Add support for Transformer-based models
