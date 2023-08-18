@@ -4850,3 +4850,4 @@ Commit at 2023-08-18T19:24:00: Add support for multiple output steps
 Commit at 2023-08-18T12:23:44: Add support for data augmentation
 Commit at 2023-08-18T11:16:32: Improve visualization functions for predictions
 Commit at 2023-08-18T09:39:23: Add support for bidirectional RNNs
+Commit at 2023-08-18T10:33:10: Add support for custom loss functions
