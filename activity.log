@@ -4855,3 +4855,4 @@ Commit at 2023-08-18T18:24:05: Fix issue with data normalization
 Commit at 2023-08-21T15:36:47: Improve visualization functions for predictions
 Commit at 2023-08-21T19:53:50: Improve logging during model training
 Commit at 2023-08-22T21:35:54: Add support for data augmentation
+Commit at 2023-08-22T16:59:48: Fix minor bug in data windowing
