@@ -4857,3 +4857,4 @@ Commit at 2023-08-21T19:53:50: Improve logging during model training
 Commit at 2023-08-22T21:35:54: Add support for data augmentation
 Commit at 2023-08-22T16:59:48: Fix minor bug in data windowing
 Commit at 2023-08-22T17:26:43: Optimize inference speed for edge devices
+Commit at 2023-08-22T20:08:48: Add support for Transformer-based models
