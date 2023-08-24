@@ -4875,3 +4875,4 @@ Commit at 2023-08-24T15:44:07: Fix issue with model serialization
 Commit at 2023-08-24T11:47:13: Fix minor bug in data windowing
 Commit at 2023-08-24T21:49:15: Refactor model architecture for better performance
 Commit at 2023-08-24T19:09:54: Refactor model architecture for better performance
+Commit at 2023-08-24T11:50:42: Add support for GRU models
