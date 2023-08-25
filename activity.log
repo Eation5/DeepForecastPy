@@ -4882,3 +4882,4 @@ Commit at 2023-08-25T19:38:42: Fix minor bug in data windowing
 Commit at 2023-08-25T19:41:51: Add support for data augmentation
 Commit at 2023-08-25T13:42:59: Improve logging during model training
 Commit at 2023-08-25T12:21:14: Add support for Transformer-based models
+Commit at 2023-08-25T17:36:54: Add support for pre-trained models
