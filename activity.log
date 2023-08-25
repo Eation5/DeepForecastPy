@@ -4877,3 +4877,4 @@ Commit at 2023-08-24T21:49:15: Refactor model architecture for better performanc
 Commit at 2023-08-24T19:09:54: Refactor model architecture for better performance
 Commit at 2023-08-24T11:50:42: Add support for GRU models
 Commit at 2023-08-25T12:58:24: Optimize memory usage during training
+Commit at 2023-08-25T17:17:51: Update project structure for better organization
