@@ -4911,3 +4911,4 @@ Commit at 2023-08-31T21:21:09: Update README with more detailed instructions
 Commit at 2023-08-31T20:52:21: Add examples for using the library
 Commit at 2023-08-31T18:43:34: Optimize training loop for faster convergence
 Commit at 2023-08-31T16:05:08: Improve documentation for API reference
+Commit at 2023-08-31T11:06:00: Add support for multiple output steps
