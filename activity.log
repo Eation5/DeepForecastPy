@@ -4913,3 +4913,4 @@ Commit at 2023-08-31T18:43:34: Optimize training loop for faster convergence
 Commit at 2023-08-31T16:05:08: Improve documentation for API reference
 Commit at 2023-08-31T11:06:00: Add support for multiple output steps
 Commit at 2023-08-31T20:41:27: Update README with more detailed instructions
+Commit at 2023-08-31T09:49:21: Improve error handling in model building
