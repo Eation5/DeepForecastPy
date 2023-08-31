@@ -4915,3 +4915,4 @@ Commit at 2023-08-31T11:06:00: Add support for multiple output steps
 Commit at 2023-08-31T20:41:27: Update README with more detailed instructions
 Commit at 2023-08-31T09:49:21: Improve error handling in model building
 Commit at 2023-08-31T16:50:35: Improve documentation for API reference
+Commit at 2023-08-31T14:20:15: Fix bug in LSTM layer initialization
