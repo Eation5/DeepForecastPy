@@ -4906,3 +4906,4 @@ Commit at 2023-08-30T12:32:18: Add examples for using the library
 Commit at 2023-08-30T16:29:30: Update preprocessing pipeline to handle missing values
 Commit at 2023-08-30T13:57:25: Fix minor bug in data windowing
 Commit at 2023-08-30T20:53:26: Refactor model architecture for better performance
+Commit at 2023-08-31T18:10:07: Improve logging during model training
