@@ -4908,3 +4908,4 @@ Commit at 2023-08-30T13:57:25: Fix minor bug in data windowing
 Commit at 2023-08-30T20:53:26: Refactor model architecture for better performance
 Commit at 2023-08-31T18:10:07: Improve logging during model training
 Commit at 2023-08-31T21:21:09: Update README with more detailed instructions
+Commit at 2023-08-31T20:52:21: Add examples for using the library
