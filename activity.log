@@ -4929,3 +4929,4 @@ Commit at 2023-09-07T14:05:55: Add support for data augmentation
 Commit at 2023-09-07T14:34:24: Add support for custom loss functions
 Commit at 2023-09-07T15:24:21: Refactor model architecture for better performance
 Commit at 2023-09-07T20:58:47: Add examples for different use cases
+Commit at 2023-09-07T12:56:54: Add examples for using the library
