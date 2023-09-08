@@ -4936,3 +4936,4 @@ Commit at 2023-09-08T11:26:40: Improve documentation for API reference
 Commit at 2023-09-08T15:31:01: Add support for data augmentation
 Commit at 2023-09-08T18:41:39: Add support for Transformer-based models
 Commit at 2023-09-08T10:39:43: Improve logging during model training
+Commit at 2023-09-08T11:31:15: Add support for GRU models
