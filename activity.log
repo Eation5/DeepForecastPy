@@ -4938,3 +4938,4 @@ Commit at 2023-09-08T18:41:39: Add support for Transformer-based models
 Commit at 2023-09-08T10:39:43: Improve logging during model training
 Commit at 2023-09-08T11:31:15: Add support for GRU models
 Commit at 2023-09-08T15:29:09: Optimize memory usage during training
+Commit at 2023-09-13T20:23:09: Add examples for different use cases
