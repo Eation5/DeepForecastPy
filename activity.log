@@ -4957,3 +4957,4 @@ Commit at 2023-09-15T11:06:39: Refactor model architecture for better performanc
 Commit at 2023-09-15T20:50:43: Fix minor bug in data windowing
 Commit at 2023-09-15T09:07:06: Fix bug in LSTM layer initialization
 Commit at 2023-09-18T15:06:08: Update documentation for new features
+Commit at 2023-09-18T12:30:52: Add examples for different use cases
