@@ -4956,3 +4956,4 @@ Commit at 2023-09-15T18:17:15: Add support for multiple output steps
 Commit at 2023-09-15T11:06:39: Refactor model architecture for better performance
 Commit at 2023-09-15T20:50:43: Fix minor bug in data windowing
 Commit at 2023-09-15T09:07:06: Fix bug in LSTM layer initialization
+Commit at 2023-09-18T15:06:08: Update documentation for new features
