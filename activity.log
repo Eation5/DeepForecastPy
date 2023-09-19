@@ -4968,3 +4968,4 @@ Commit at 2023-09-18T10:06:16: Add examples for using the library
 Commit at 2023-09-18T15:04:07: Fix bug in LSTM layer initialization
 Commit at 2023-09-18T18:34:55: Optimize memory usage during training
 Commit at 2023-09-18T11:15:37: Optimize memory usage during training
+Commit at 2023-09-19T16:53:13: Fix issue with model serialization
