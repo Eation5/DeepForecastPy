@@ -4973,3 +4973,4 @@ Commit at 2023-09-19T19:21:16: Fix issue with model serialization
 Commit at 2023-09-19T16:52:12: Add support for Transformer-based models
 Commit at 2023-09-19T12:37:30: Add unit tests for preprocessing utilities
 Commit at 2023-09-19T13:10:24: Add support for GRU models
+Commit at 2023-09-19T14:00:23: Improve documentation for API reference
