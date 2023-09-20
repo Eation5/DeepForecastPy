@@ -4981,3 +4981,4 @@ Commit at 2023-09-20T20:06:39: Add support for data augmentation
 Commit at 2023-09-20T18:03:06: Optimize training loop for faster convergence
 Commit at 2023-09-20T12:47:30: Improve visualization functions for predictions
 Commit at 2023-09-20T12:05:36: Improve error handling in model building
+Commit at 2023-09-20T13:31:27: Fix minor bug in data windowing
