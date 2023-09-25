@@ -4992,3 +4992,4 @@ Commit at 2023-09-25T17:16:35: Update documentation for new features
 Commit at 2023-09-25T10:28:04: Add support for pre-trained models
 Commit at 2023-09-25T20:53:06: Optimize inference speed for edge devices
 Commit at 2023-09-25T18:03:21: Optimize inference speed for edge devices
+Commit at 2023-09-25T11:51:18: Fix issue with data normalization
