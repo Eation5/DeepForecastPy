@@ -4989,3 +4989,4 @@ Commit at 2023-09-25T21:34:00: Add support for GRU models
 Commit at 2023-09-25T10:17:36: Refactor utils for better code reuse
 Commit at 2023-09-25T21:40:49: Fix bug in LSTM layer initialization
 Commit at 2023-09-25T17:16:35: Update documentation for new features
+Commit at 2023-09-25T10:28:04: Add support for pre-trained models
