@@ -4985,3 +4985,4 @@ Commit at 2023-09-20T13:31:27: Fix minor bug in data windowing
 Commit at 2023-09-21T17:21:40: Update requirements for new dependencies
 Commit at 2023-09-21T09:18:45: Improve logging during model training
 Commit at 2023-09-22T20:55:53: Update requirements for new dependencies
+Commit at 2023-09-25T21:34:00: Add support for GRU models
