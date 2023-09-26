@@ -4987,3 +4987,4 @@ Commit at 2023-09-21T09:18:45: Improve logging during model training
 Commit at 2023-09-22T20:55:53: Update requirements for new dependencies
 Commit at 2023-09-25T21:34:00: Add support for GRU models
 Commit at 2023-09-25T10:17:36: Refactor utils for better code reuse
+Commit at 2023-09-25T21:40:49: Fix bug in LSTM layer initialization
