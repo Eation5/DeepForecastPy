@@ -5007,3 +5007,4 @@ Commit at 2023-09-29T11:26:56: Improve documentation for API reference
 Commit at 2023-09-29T21:37:40: Fix minor bug in data windowing
 Commit at 2023-09-29T19:17:36: Fix bug in LSTM layer initialization
 Commit at 2023-09-29T20:55:25: Add support for data augmentation
+Commit at 2023-09-29T12:49:25: Update project structure for better organization
