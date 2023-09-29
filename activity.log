@@ -5005,3 +5005,4 @@ Commit at 2023-09-28T17:39:08: Add support for Transformer-based models
 Commit at 2023-09-28T20:36:33: Refactor utils for better code reuse
 Commit at 2023-09-29T11:26:56: Improve documentation for API reference
 Commit at 2023-09-29T21:37:40: Fix minor bug in data windowing
+Commit at 2023-09-29T19:17:36: Fix bug in LSTM layer initialization
