@@ -5015,3 +5015,4 @@ Commit at 2023-10-03T15:48:36: Add support for multiple output steps
 Commit at 2023-10-03T15:37:34: Update preprocessing pipeline to handle missing values
 Commit at 2023-10-03T20:20:03: Fix issue with model serialization
 Commit at 2023-10-03T19:48:25: Improve visualization functions for predictions
+Commit at 2023-10-03T17:58:42: Fix bug in LSTM layer initialization
