@@ -5016,3 +5016,4 @@ Commit at 2023-10-03T15:37:34: Update preprocessing pipeline to handle missing v
 Commit at 2023-10-03T20:20:03: Fix issue with model serialization
 Commit at 2023-10-03T19:48:25: Improve visualization functions for predictions
 Commit at 2023-10-03T17:58:42: Fix bug in LSTM layer initialization
+Commit at 2023-10-05T16:42:48: Add new evaluation metrics for time series forecasting
