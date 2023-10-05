@@ -5022,3 +5022,4 @@ Commit at 2023-10-05T20:23:44: Update requirements for new dependencies
 Commit at 2023-10-05T12:14:20: Add support for bidirectional RNNs
 Commit at 2023-10-05T17:20:46: Optimize training loop for faster convergence
 Commit at 2023-10-05T12:24:06: Optimize memory usage during training
+Commit at 2023-10-05T11:19:16: Optimize memory usage during training
