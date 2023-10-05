@@ -5019,3 +5019,4 @@ Commit at 2023-10-03T17:58:42: Fix bug in LSTM layer initialization
 Commit at 2023-10-05T16:42:48: Add new evaluation metrics for time series forecasting
 Commit at 2023-10-05T20:14:44: Fix minor bug in data windowing
 Commit at 2023-10-05T20:23:44: Update requirements for new dependencies
+Commit at 2023-10-05T12:14:20: Add support for bidirectional RNNs
