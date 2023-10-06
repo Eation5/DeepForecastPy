@@ -5032,3 +5032,4 @@ Commit at 2023-10-06T18:50:51: Update requirements for new dependencies
 Commit at 2023-10-06T12:14:01: Add support for multiple output steps
 Commit at 2023-10-06T17:37:56: Add new evaluation metrics for time series forecasting
 Commit at 2023-10-06T11:08:03: Add examples for different use cases
+Commit at 2023-10-06T13:40:53: Improve logging during model training
