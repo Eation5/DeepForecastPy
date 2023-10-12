@@ -5060,3 +5060,4 @@ Commit at 2023-10-12T17:38:52: Fix issue with data normalization
 Commit at 2023-10-12T09:20:36: Improve visualization functions for predictions
 Commit at 2023-10-12T12:16:03: Add support for multiple output steps
 Commit at 2023-10-12T20:24:30: Add new evaluation metrics for time series forecasting
+Commit at 2023-10-12T10:39:58: Fix minor bug in data windowing
