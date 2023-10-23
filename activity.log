@@ -5086,3 +5086,4 @@ Commit at 2023-10-23T21:00:29: Add new evaluation metrics for time series foreca
 Commit at 2023-10-23T19:01:35: Add support for custom loss functions
 Commit at 2023-10-23T21:44:53: Fix minor bug in data windowing
 Commit at 2023-10-23T14:15:26: Update requirements for new dependencies
+Commit at 2023-10-23T13:11:14: Update documentation for new features
