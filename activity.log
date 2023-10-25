@@ -5097,3 +5097,4 @@ Commit at 2023-10-24T11:00:07: Add support for custom loss functions
 Commit at 2023-10-24T13:29:21: Update preprocessing pipeline to handle missing values
 Commit at 2023-10-24T16:19:33: Add examples for different use cases
 Commit at 2023-10-24T19:46:15: Fix issue with model serialization
+Commit at 2023-10-25T16:31:00: Add support for Transformer-based models
