@@ -5101,3 +5101,4 @@ Commit at 2023-10-25T16:31:00: Add support for Transformer-based models
 Commit at 2023-10-26T11:48:15: Optimize inference speed for edge devices
 Commit at 2023-10-26T09:03:14: Add examples for different use cases
 Commit at 2023-10-26T16:40:26: Improve documentation for API reference
+Commit at 2023-10-26T09:17:02: Add examples for using the library
