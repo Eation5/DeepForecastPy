@@ -5129,3 +5129,4 @@ Commit at 2023-10-30T19:03:20: Fix minor bug in data windowing
 Commit at 2023-10-30T14:19:04: Add new evaluation metrics for time series forecasting
 Commit at 2023-10-31T11:43:06: Add new evaluation metrics for time series forecasting
 Commit at 2023-10-31T15:46:17: Add support for Transformer-based models
+Commit at 2023-10-31T16:20:02: Update README with more detailed instructions
