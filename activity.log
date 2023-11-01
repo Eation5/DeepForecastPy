@@ -5133,3 +5133,4 @@ Commit at 2023-10-31T16:20:02: Update README with more detailed instructions
 Commit at 2023-10-31T21:50:46: Add support for GRU models
 Commit at 2023-11-01T13:10:32: Improve error handling in model building
 Commit at 2023-11-01T11:20:25: Add support for bidirectional RNNs
+Commit at 2023-11-01T10:34:22: Improve visualization functions for predictions
