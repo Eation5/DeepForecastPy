@@ -5130,3 +5130,4 @@ Commit at 2023-10-30T14:19:04: Add new evaluation metrics for time series foreca
 Commit at 2023-10-31T11:43:06: Add new evaluation metrics for time series forecasting
 Commit at 2023-10-31T15:46:17: Add support for Transformer-based models
 Commit at 2023-10-31T16:20:02: Update README with more detailed instructions
+Commit at 2023-10-31T21:50:46: Add support for GRU models
