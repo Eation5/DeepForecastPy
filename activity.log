@@ -5139,3 +5139,4 @@ Commit at 2023-11-01T16:11:55: Add support for custom loss functions
 Commit at 2023-11-03T13:34:34: Add support for custom loss functions
 Commit at 2023-11-03T15:57:25: Improve visualization functions for predictions
 Commit at 2023-11-03T18:13:46: Optimize inference speed for edge devices
+Commit at 2023-11-03T14:06:26: Fix minor bug in data windowing
