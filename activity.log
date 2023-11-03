@@ -5145,3 +5145,4 @@ Commit at 2023-11-03T15:01:32: Add support for custom loss functions
 Commit at 2023-11-03T13:50:28: Update requirements for new dependencies
 Commit at 2023-11-03T12:08:49: Refactor utils for better code reuse
 Commit at 2023-11-03T12:00:40: Fix issue with model serialization
+Commit at 2023-11-03T15:39:04: Add support for GRU models
