@@ -5158,3 +5158,4 @@ Commit at 2023-11-09T19:33:12: Add support for multiple output steps
 Commit at 2023-11-09T13:12:52: Fix issue with model serialization
 Commit at 2023-11-09T15:47:27: Fix minor bug in data windowing
 Commit at 2023-11-09T11:26:41: Add support for custom loss functions
+Commit at 2023-11-09T10:24:46: Fix issue with data normalization
