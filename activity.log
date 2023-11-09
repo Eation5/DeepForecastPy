@@ -5160,3 +5160,4 @@ Commit at 2023-11-09T15:47:27: Fix minor bug in data windowing
 Commit at 2023-11-09T11:26:41: Add support for custom loss functions
 Commit at 2023-11-09T10:24:46: Fix issue with data normalization
 Commit at 2023-11-09T13:29:41: Optimize inference speed for edge devices
+Commit at 2023-11-09T09:54:49: Add support for multiple output steps
