@@ -5152,3 +5152,4 @@ Commit at 2023-11-06T18:48:03: Optimize data loading for large datasets
 Commit at 2023-11-06T12:33:21: Update requirements for new dependencies
 Commit at 2023-11-07T09:07:41: Add examples for different use cases
 Commit at 2023-11-07T18:57:42: Fix minor bug in data windowing
+Commit at 2023-11-09T14:09:23: Fix issue with model serialization
