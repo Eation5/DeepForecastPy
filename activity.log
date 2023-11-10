@@ -5168,3 +5168,4 @@ Commit at 2023-11-10T16:16:53: Add support for bidirectional RNNs
 Commit at 2023-11-10T21:50:43: Add support for bidirectional RNNs
 Commit at 2023-11-10T11:54:15: Fix bug in LSTM layer initialization
 Commit at 2023-11-10T13:45:25: Add unit tests for preprocessing utilities
+Commit at 2023-11-10T13:05:38: Add new evaluation metrics for time series forecasting
