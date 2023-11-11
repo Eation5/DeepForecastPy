@@ -5165,3 +5165,4 @@ Commit at 2023-11-09T14:41:57: Update README with more detailed instructions
 Commit at 2023-11-09T17:33:40: Update preprocessing pipeline to handle missing values
 Commit at 2023-11-09T19:37:17: Improve visualization functions for predictions
 Commit at 2023-11-10T16:16:53: Add support for bidirectional RNNs
+Commit at 2023-11-10T21:50:43: Add support for bidirectional RNNs
