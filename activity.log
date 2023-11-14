@@ -5171,3 +5171,4 @@ Commit at 2023-11-10T13:45:25: Add unit tests for preprocessing utilities
 Commit at 2023-11-10T13:05:38: Add new evaluation metrics for time series forecasting
 Commit at 2023-11-13T11:02:49: Improve error handling in model building
 Commit at 2023-11-13T09:51:47: Add examples for using the library
+Commit at 2023-11-13T20:16:53: Update README with more detailed instructions
