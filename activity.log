@@ -5191,3 +5191,4 @@ Commit at 2023-11-15T16:25:36: Optimize training loop for faster convergence
 Commit at 2023-11-15T15:54:05: Fix bug in LSTM layer initialization
 Commit at 2023-11-16T18:21:18: Refactor utils for better code reuse
 Commit at 2023-11-16T15:24:46: Improve logging during model training
+Commit at 2023-11-16T15:43:32: Add support for custom loss functions
