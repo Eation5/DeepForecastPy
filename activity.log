@@ -5189,3 +5189,4 @@ Commit at 2023-11-15T19:40:14: Update documentation for new features
 Commit at 2023-11-15T09:06:06: Update documentation for new features
 Commit at 2023-11-15T16:25:36: Optimize training loop for faster convergence
 Commit at 2023-11-15T15:54:05: Fix bug in LSTM layer initialization
+Commit at 2023-11-16T18:21:18: Refactor utils for better code reuse
