@@ -5207,3 +5207,4 @@ Commit at 2023-11-20T16:00:06: Add examples for using the library
 Commit at 2023-11-20T12:19:25: Update requirements for new dependencies
 Commit at 2023-11-20T18:41:41: Add support for pre-trained models
 Commit at 2023-11-20T20:43:38: Optimize memory usage during training
+Commit at 2023-11-20T11:37:32: Update README with more detailed instructions
