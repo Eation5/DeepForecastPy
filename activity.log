@@ -5213,3 +5213,4 @@ Commit at 2023-11-21T16:48:38: Add support for bidirectional RNNs
 Commit at 2023-11-21T19:22:06: Improve logging during model training
 Commit at 2023-11-21T16:21:30: Update project structure for better organization
 Commit at 2023-11-21T09:19:05: Update documentation for new features
+Commit at 2023-11-21T16:11:50: Fix bug in LSTM layer initialization
