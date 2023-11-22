@@ -5221,3 +5221,4 @@ Commit at 2023-11-21T11:19:50: Update project structure for better organization
 Commit at 2023-11-21T18:53:28: Add support for bidirectional RNNs
 Commit at 2023-11-21T10:53:04: Optimize inference speed for edge devices
 Commit at 2023-11-21T10:55:17: Fix bug in LSTM layer initialization
+Commit at 2023-11-22T12:24:58: Update documentation for new features
