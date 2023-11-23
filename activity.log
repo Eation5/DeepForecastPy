@@ -5232,3 +5232,4 @@ Commit at 2023-11-22T14:33:03: Fix minor bug in data windowing
 Commit at 2023-11-23T21:43:10: Add examples for different use cases
 Commit at 2023-11-23T20:43:36: Add support for GRU models
 Commit at 2023-11-23T15:52:30: Add unit tests for preprocessing utilities
+Commit at 2023-11-23T16:00:12: Add support for multiple output steps
