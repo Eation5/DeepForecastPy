@@ -5230,3 +5230,4 @@ Commit at 2023-11-22T18:54:35: Improve documentation for API reference
 Commit at 2023-11-22T14:59:31: Improve logging during model training
 Commit at 2023-11-22T14:33:03: Fix minor bug in data windowing
 Commit at 2023-11-23T21:43:10: Add examples for different use cases
+Commit at 2023-11-23T20:43:36: Add support for GRU models
