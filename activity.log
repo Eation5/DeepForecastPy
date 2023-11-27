@@ -5234,3 +5234,4 @@ Commit at 2023-11-23T20:43:36: Add support for GRU models
 Commit at 2023-11-23T15:52:30: Add unit tests for preprocessing utilities
 Commit at 2023-11-23T16:00:12: Add support for multiple output steps
 Commit at 2023-11-27T14:09:28: Refactor utils for better code reuse
+Commit at 2023-11-27T13:42:45: Add support for GRU models
