@@ -5239,3 +5239,4 @@ Commit at 2023-11-27T11:07:20: Optimize inference speed for edge devices
 Commit at 2023-11-27T10:44:24: Add examples for different use cases
 Commit at 2023-11-27T15:18:32: Add support for Transformer-based models
 Commit at 2023-11-27T13:06:31: Update preprocessing pipeline to handle missing values
+Commit at 2023-11-28T10:27:47: Add examples for using the library
