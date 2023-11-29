@@ -5244,3 +5244,4 @@ Commit at 2023-11-28T14:02:20: Add support for bidirectional RNNs
 Commit at 2023-11-28T14:55:35: Add support for custom loss functions
 Commit at 2023-11-29T10:10:17: Add support for data augmentation
 Commit at 2023-11-29T09:18:27: Refactor utils for better code reuse
+Commit at 2023-11-29T13:57:53: Add support for Transformer-based models
