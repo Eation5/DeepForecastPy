@@ -5252,3 +5252,4 @@ Commit at 2023-11-30T19:21:23: Fix bug in LSTM layer initialization
 Commit at 2023-11-30T13:14:35: Fix bug in LSTM layer initialization
 Commit at 2023-11-30T16:34:23: Improve logging during model training
 Commit at 2023-11-30T21:35:44: Add support for GRU models
+Commit at 2023-11-30T13:36:36: Update documentation for new features
