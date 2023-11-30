@@ -5255,3 +5255,4 @@ Commit at 2023-11-30T21:35:44: Add support for GRU models
 Commit at 2023-11-30T13:36:36: Update documentation for new features
 Commit at 2023-11-30T09:57:14: Fix issue with data normalization
 Commit at 2023-11-30T18:59:58: Improve documentation for API reference
+Commit at 2023-11-30T14:23:16: Fix issue with model serialization
