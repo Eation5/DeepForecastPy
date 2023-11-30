@@ -5250,3 +5250,4 @@ Commit at 2023-11-29T20:03:20: Refactor utils for better code reuse
 Commit at 2023-11-29T20:52:21: Update project structure for better organization
 Commit at 2023-11-30T19:21:23: Fix bug in LSTM layer initialization
 Commit at 2023-11-30T13:14:35: Fix bug in LSTM layer initialization
+Commit at 2023-11-30T16:34:23: Improve logging during model training
