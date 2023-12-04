@@ -5263,3 +5263,4 @@ Commit at 2023-12-01T21:49:05: Improve visualization functions for predictions
 Commit at 2023-12-04T16:50:19: Improve visualization functions for predictions
 Commit at 2023-12-04T15:10:13: Fix issue with model serialization
 Commit at 2023-12-04T11:13:15: Optimize memory usage during training
+Commit at 2023-12-04T15:55:46: Add new evaluation metrics for time series forecasting
