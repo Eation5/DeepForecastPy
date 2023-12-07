@@ -5280,3 +5280,4 @@ Commit at 2023-12-06T13:23:47: Add examples for using the library
 Commit at 2023-12-06T16:21:09: Add new evaluation metrics for time series forecasting
 Commit at 2023-12-06T11:26:53: Add support for data augmentation
 Commit at 2023-12-06T17:25:04: Add support for Transformer-based models
+Commit at 2023-12-06T21:16:37: Add support for multiple output steps
