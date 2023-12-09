@@ -5286,3 +5286,4 @@ Commit at 2023-12-08T18:01:52: Update preprocessing pipeline to handle missing v
 Commit at 2023-12-08T15:18:06: Fix issue with data normalization
 Commit at 2023-12-08T20:44:32: Improve error handling in model building
 Commit at 2023-12-08T19:28:06: Optimize inference speed for edge devices
+Commit at 2023-12-08T21:16:23: Improve documentation for API reference
