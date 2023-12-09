@@ -5284,3 +5284,4 @@ Commit at 2023-12-06T21:16:37: Add support for multiple output steps
 Commit at 2023-12-07T10:36:32: Add support for data augmentation
 Commit at 2023-12-08T18:01:52: Update preprocessing pipeline to handle missing values
 Commit at 2023-12-08T15:18:06: Fix issue with data normalization
+Commit at 2023-12-08T20:44:32: Improve error handling in model building
