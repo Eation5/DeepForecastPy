@@ -5295,3 +5295,4 @@ Commit at 2023-12-11T14:12:18: Update preprocessing pipeline to handle missing v
 Commit at 2023-12-12T17:59:12: Add support for Transformer-based models
 Commit at 2023-12-12T15:26:17: Add examples for using the library
 Commit at 2023-12-12T21:27:05: Optimize inference speed for edge devices
+Commit at 2023-12-12T09:22:28: Update project structure for better organization
