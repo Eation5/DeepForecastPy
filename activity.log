@@ -5292,3 +5292,4 @@ Commit at 2023-12-08T19:09:04: Refactor model architecture for better performanc
 Commit at 2023-12-08T20:50:59: Fix bug in LSTM layer initialization
 Commit at 2023-12-08T17:42:49: Update documentation for new features
 Commit at 2023-12-11T14:12:18: Update preprocessing pipeline to handle missing values
+Commit at 2023-12-12T17:59:12: Add support for Transformer-based models
