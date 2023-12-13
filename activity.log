@@ -5300,3 +5300,4 @@ Commit at 2023-12-12T19:30:53: Add new evaluation metrics for time series foreca
 Commit at 2023-12-13T13:07:49: Add support for pre-trained models
 Commit at 2023-12-13T21:43:14: Fix bug in LSTM layer initialization
 Commit at 2023-12-13T18:19:09: Fix bug in LSTM layer initialization
+Commit at 2023-12-13T09:24:50: Fix issue with data normalization
