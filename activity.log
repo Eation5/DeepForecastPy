@@ -5298,3 +5298,4 @@ Commit at 2023-12-12T21:27:05: Optimize inference speed for edge devices
 Commit at 2023-12-12T09:22:28: Update project structure for better organization
 Commit at 2023-12-12T19:30:53: Add new evaluation metrics for time series forecasting
 Commit at 2023-12-13T13:07:49: Add support for pre-trained models
+Commit at 2023-12-13T21:43:14: Fix bug in LSTM layer initialization
