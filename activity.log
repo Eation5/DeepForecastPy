@@ -5305,3 +5305,4 @@ Commit at 2023-12-13T11:40:47: Add support for multiple output steps
 Commit at 2023-12-13T17:43:11: Fix issue with data normalization
 Commit at 2023-12-14T21:02:21: Fix issue with data normalization
 Commit at 2023-12-14T19:58:46: Add support for data augmentation
+Commit at 2023-12-15T18:47:56: Add support for pre-trained models
