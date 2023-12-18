@@ -5312,3 +5312,4 @@ Commit at 2023-12-15T20:53:35: Add support for data augmentation
 Commit at 2023-12-15T16:50:36: Fix bug in LSTM layer initialization
 Commit at 2023-12-15T20:40:16: Improve error handling in model building
 Commit at 2023-12-18T20:36:55: Optimize memory usage during training
+Commit at 2023-12-18T17:18:04: Fix issue with data normalization
