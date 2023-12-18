@@ -5314,3 +5314,4 @@ Commit at 2023-12-15T20:40:16: Improve error handling in model building
 Commit at 2023-12-18T20:36:55: Optimize memory usage during training
 Commit at 2023-12-18T17:18:04: Fix issue with data normalization
 Commit at 2023-12-18T17:53:28: Fix issue with model serialization
+Commit at 2023-12-18T11:38:18: Update requirements for new dependencies
