@@ -5323,3 +5323,4 @@ Commit at 2023-12-19T21:55:41: Refactor model architecture for better performanc
 Commit at 2023-12-19T10:59:50: Improve visualization functions for predictions
 Commit at 2023-12-19T13:37:59: Add support for Transformer-based models
 Commit at 2023-12-19T15:41:29: Improve logging during model training
+Commit at 2023-12-19T14:26:52: Add new evaluation metrics for time series forecasting
