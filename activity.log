@@ -5325,3 +5325,4 @@ Commit at 2023-12-19T13:37:59: Add support for Transformer-based models
 Commit at 2023-12-19T15:41:29: Improve logging during model training
 Commit at 2023-12-19T14:26:52: Add new evaluation metrics for time series forecasting
 Commit at 2023-12-21T13:23:38: Improve logging during model training
+Commit at 2023-12-21T19:50:59: Add support for pre-trained models
