@@ -5342,3 +5342,4 @@ Commit at 2023-12-25T14:13:49: Update project structure for better organization
 Commit at 2023-12-25T17:11:38: Add support for pre-trained models
 Commit at 2023-12-26T13:54:39: Optimize inference speed for edge devices
 Commit at 2023-12-27T14:01:05: Update documentation for new features
+Commit at 2023-12-27T14:56:11: Fix issue with data normalization
