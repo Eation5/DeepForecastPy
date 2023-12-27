@@ -5349,3 +5349,4 @@ Commit at 2023-12-27T11:06:18: Update preprocessing pipeline to handle missing v
 Commit at 2023-12-27T11:24:00: Add new evaluation metrics for time series forecasting
 Commit at 2023-12-27T17:38:57: Improve logging during model training
 Commit at 2023-12-27T11:18:58: Update preprocessing pipeline to handle missing values
+Commit at 2023-12-27T12:53:18: Fix bug in LSTM layer initialization
