@@ -5353,3 +5353,4 @@ Commit at 2023-12-27T12:53:18: Fix bug in LSTM layer initialization
 Commit at 2023-12-28T21:14:53: Refactor utils for better code reuse
 Commit at 2023-12-28T09:58:01: Improve visualization functions for predictions
 Commit at 2023-12-28T16:51:53: Add examples for using the library
+Commit at 2023-12-29T20:20:21: Optimize inference speed for edge devices
