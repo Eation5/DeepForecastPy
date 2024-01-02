@@ -2594,3 +2594,4 @@ Commit at 2024-01-02T09:15:27: Add support for GRU models
 Commit at 2024-01-02T10:59:57: Update preprocessing pipeline to handle missing values
 Commit at 2024-01-02T14:45:18: Add support for multiple output steps
 Commit at 2024-01-02T10:02:25: Optimize inference speed for edge devices
+Commit at 2024-01-02T11:00:16: Update requirements for new dependencies
