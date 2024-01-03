@@ -2597,3 +2597,4 @@ Commit at 2024-01-02T10:02:25: Optimize inference speed for edge devices
 Commit at 2024-01-02T11:00:16: Update requirements for new dependencies
 Commit at 2024-01-02T12:15:38: Optimize inference speed for edge devices
 Commit at 2024-01-02T11:24:10: Add examples for different use cases
+Commit at 2024-01-03T14:02:12: Fix issue with model serialization
