@@ -2604,3 +2604,4 @@ Commit at 2024-01-03T12:11:01: Optimize inference speed for edge devices
 Commit at 2024-01-04T13:41:15: Improve logging during model training
 Commit at 2024-01-04T20:18:44: Optimize data loading for large datasets
 Commit at 2024-01-04T15:28:47: Optimize inference speed for edge devices
+Commit at 2024-01-04T11:33:27: Fix issue with data normalization
