@@ -2609,3 +2609,4 @@ Commit at 2024-01-04T21:33:30: Update requirements for new dependencies
 Commit at 2024-01-05T12:57:57: Fix issue with model serialization
 Commit at 2024-01-05T14:43:04: Refactor utils for better code reuse
 Commit at 2024-01-05T11:11:42: Add support for Transformer-based models
+Commit at 2024-01-05T17:48:37: Fix issue with data normalization
