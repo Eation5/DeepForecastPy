@@ -2617,3 +2617,4 @@ Commit at 2024-01-05T16:31:07: Fix issue with model serialization
 Commit at 2024-01-05T13:13:13: Optimize inference speed for edge devices
 Commit at 2024-01-05T21:00:53: Add examples for different use cases
 Commit at 2024-01-05T12:36:40: Add unit tests for preprocessing utilities
+Commit at 2024-01-05T14:54:00: Fix bug in LSTM layer initialization
