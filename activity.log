@@ -2622,3 +2622,4 @@ Commit at 2024-01-08T17:17:15: Refactor model architecture for better performanc
 Commit at 2024-01-08T11:23:06: Add support for Transformer-based models
 Commit at 2024-01-08T15:31:21: Add unit tests for preprocessing utilities
 Commit at 2024-01-09T20:59:56: Add support for bidirectional RNNs
+Commit at 2024-01-09T14:53:03: Fix bug in LSTM layer initialization
