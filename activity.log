@@ -2623,3 +2623,4 @@ Commit at 2024-01-08T11:23:06: Add support for Transformer-based models
 Commit at 2024-01-08T15:31:21: Add unit tests for preprocessing utilities
 Commit at 2024-01-09T20:59:56: Add support for bidirectional RNNs
 Commit at 2024-01-09T14:53:03: Fix bug in LSTM layer initialization
+Commit at 2024-01-09T10:47:21: Add examples for different use cases
