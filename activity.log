@@ -2630,3 +2630,4 @@ Commit at 2024-01-09T18:00:02: Fix minor bug in data windowing
 Commit at 2024-01-09T15:10:53: Add new evaluation metrics for time series forecasting
 Commit at 2024-01-09T09:10:16: Optimize data loading for large datasets
 Commit at 2024-01-09T13:39:21: Optimize memory usage during training
+Commit at 2024-01-09T14:55:16: Update README with more detailed instructions
