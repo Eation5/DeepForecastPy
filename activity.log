@@ -2644,3 +2644,4 @@ Commit at 2024-01-11T21:12:17: Add new evaluation metrics for time series foreca
 Commit at 2024-01-11T11:16:11: Optimize memory usage during training
 Commit at 2024-01-11T09:21:14: Update preprocessing pipeline to handle missing values
 Commit at 2024-01-11T14:11:56: Add support for bidirectional RNNs
+Commit at 2024-01-12T14:59:06: Fix issue with model serialization
