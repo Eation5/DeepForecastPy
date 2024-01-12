@@ -2649,3 +2649,4 @@ Commit at 2024-01-12T10:08:25: Update requirements for new dependencies
 Commit at 2024-01-12T21:55:23: Improve documentation for API reference
 Commit at 2024-01-12T19:06:51: Improve error handling in model building
 Commit at 2024-01-12T12:59:51: Improve documentation for API reference
+Commit at 2024-01-12T13:31:47: Add new evaluation metrics for time series forecasting
