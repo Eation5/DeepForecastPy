@@ -2660,3 +2660,4 @@ Commit at 2024-01-15T12:35:41: Fix issue with model serialization
 Commit at 2024-01-15T12:35:21: Improve logging during model training
 Commit at 2024-01-15T10:18:13: Update requirements for new dependencies
 Commit at 2024-01-15T20:02:51: Add support for GRU models
+Commit at 2024-01-15T15:48:07: Fix issue with model serialization
