@@ -2658,3 +2658,4 @@ Commit at 2024-01-12T17:15:21: Add support for custom loss functions
 Commit at 2024-01-15T19:15:27: Add unit tests for preprocessing utilities
 Commit at 2024-01-15T12:35:41: Fix issue with model serialization
 Commit at 2024-01-15T12:35:21: Improve logging during model training
+Commit at 2024-01-15T10:18:13: Update requirements for new dependencies
