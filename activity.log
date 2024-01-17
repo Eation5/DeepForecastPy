@@ -2666,3 +2666,4 @@ Commit at 2024-01-15T09:00:51: Add new evaluation metrics for time series foreca
 Commit at 2024-01-15T20:30:51: Update README with more detailed instructions
 Commit at 2024-01-15T12:08:44: Fix bug in LSTM layer initialization
 Commit at 2024-01-16T13:09:14: Improve documentation for API reference
+Commit at 2024-01-16T21:15:29: Update project structure for better organization
