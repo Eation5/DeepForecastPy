@@ -2668,3 +2668,4 @@ Commit at 2024-01-15T12:08:44: Fix bug in LSTM layer initialization
 Commit at 2024-01-16T13:09:14: Improve documentation for API reference
 Commit at 2024-01-16T21:15:29: Update project structure for better organization
 Commit at 2024-01-16T12:55:38: Fix issue with data normalization
+Commit at 2024-01-16T20:38:56: Fix minor bug in data windowing
