@@ -2673,3 +2673,4 @@ Commit at 2024-01-17T10:06:17: Update README with more detailed instructions
 Commit at 2024-01-17T14:54:18: Update documentation for new features
 Commit at 2024-01-17T21:14:13: Update requirements for new dependencies
 Commit at 2024-01-17T15:56:16: Add new evaluation metrics for time series forecasting
+Commit at 2024-01-17T21:04:07: Improve error handling in model building
