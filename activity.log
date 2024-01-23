@@ -2677,3 +2677,4 @@ Commit at 2024-01-17T21:04:07: Improve error handling in model building
 Commit at 2024-01-19T13:20:22: Fix issue with data normalization
 Commit at 2024-01-19T13:44:45: Update README with more detailed instructions
 Commit at 2024-01-22T18:28:37: Improve error handling in model building
+Commit at 2024-01-22T19:25:45: Optimize memory usage during training
