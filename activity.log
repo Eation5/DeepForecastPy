@@ -2682,3 +2682,4 @@ Commit at 2024-01-24T11:21:41: Add support for data augmentation
 Commit at 2024-01-24T20:51:23: Add support for custom loss functions
 Commit at 2024-01-24T14:23:58: Add examples for using the library
 Commit at 2024-01-24T10:47:14: Add support for GRU models
+Commit at 2024-01-24T13:41:52: Refactor model architecture for better performance
