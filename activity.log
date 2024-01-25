@@ -2679,3 +2679,4 @@ Commit at 2024-01-19T13:44:45: Update README with more detailed instructions
 Commit at 2024-01-22T18:28:37: Improve error handling in model building
 Commit at 2024-01-22T19:25:45: Optimize memory usage during training
 Commit at 2024-01-24T11:21:41: Add support for data augmentation
+Commit at 2024-01-24T20:51:23: Add support for custom loss functions
