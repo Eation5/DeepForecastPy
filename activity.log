@@ -2692,3 +2692,4 @@ Commit at 2024-01-26T16:25:01: Fix issue with model serialization
 Commit at 2024-01-26T09:03:03: Fix issue with data normalization
 Commit at 2024-01-26T20:38:47: Refactor utils for better code reuse
 Commit at 2024-01-26T15:55:54: Update requirements for new dependencies
+Commit at 2024-01-26T14:41:03: Add support for multiple output steps
