@@ -2696,3 +2696,4 @@ Commit at 2024-01-26T14:41:03: Add support for multiple output steps
 Commit at 2024-01-29T20:34:46: Fix bug in LSTM layer initialization
 Commit at 2024-01-30T19:31:50: Add support for Transformer-based models
 Commit at 2024-01-30T21:43:35: Update project structure for better organization
+Commit at 2024-01-30T18:01:42: Improve visualization functions for predictions
