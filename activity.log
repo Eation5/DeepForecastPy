@@ -2704,3 +2704,4 @@ Commit at 2024-01-30T20:18:15: Update documentation for new features
 Commit at 2024-01-30T10:09:45: Add support for multiple output steps
 Commit at 2024-01-30T15:29:23: Update requirements for new dependencies
 Commit at 2024-02-01T09:33:34: Improve error handling in model building
+Commit at 2024-02-01T14:30:47: Fix bug in LSTM layer initialization
