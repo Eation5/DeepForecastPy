@@ -2709,3 +2709,4 @@ Commit at 2024-02-02T15:36:55: Add support for bidirectional RNNs
 Commit at 2024-02-02T17:50:11: Improve documentation for API reference
 Commit at 2024-02-02T18:03:44: Add new evaluation metrics for time series forecasting
 Commit at 2024-02-02T15:22:04: Optimize data loading for large datasets
+Commit at 2024-02-02T12:01:41: Fix issue with data normalization
