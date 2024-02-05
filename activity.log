@@ -2718,3 +2718,4 @@ Commit at 2024-02-05T09:14:00: Add support for custom loss functions
 Commit at 2024-02-05T10:52:35: Add support for bidirectional RNNs
 Commit at 2024-02-05T17:38:32: Add support for data augmentation
 Commit at 2024-02-05T09:40:50: Add examples for different use cases
+Commit at 2024-02-05T15:04:30: Fix minor bug in data windowing
