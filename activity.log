@@ -2712,3 +2712,4 @@ Commit at 2024-02-02T15:22:04: Optimize data loading for large datasets
 Commit at 2024-02-02T12:01:41: Fix issue with data normalization
 Commit at 2024-02-05T11:17:35: Add unit tests for preprocessing utilities
 Commit at 2024-02-05T11:16:31: Add support for bidirectional RNNs
+Commit at 2024-02-05T15:23:38: Optimize memory usage during training
