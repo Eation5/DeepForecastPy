@@ -2714,3 +2714,4 @@ Commit at 2024-02-05T11:17:35: Add unit tests for preprocessing utilities
 Commit at 2024-02-05T11:16:31: Add support for bidirectional RNNs
 Commit at 2024-02-05T15:23:38: Optimize memory usage during training
 Commit at 2024-02-05T14:09:49: Update documentation for new features
+Commit at 2024-02-05T09:14:00: Add support for custom loss functions
