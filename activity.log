@@ -2731,3 +2731,4 @@ Commit at 2024-02-06T10:05:23: Optimize inference speed for edge devices
 Commit at 2024-02-07T20:34:25: Update project structure for better organization
 Commit at 2024-02-07T21:00:05: Fix bug in LSTM layer initialization
 Commit at 2024-02-07T16:10:27: Add support for bidirectional RNNs
+Commit at 2024-02-07T14:21:06: Update documentation for new features
