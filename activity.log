@@ -2745,3 +2745,4 @@ Commit at 2024-02-12T19:22:26: Fix issue with model serialization
 Commit at 2024-02-12T20:37:01: Improve visualization functions for predictions
 Commit at 2024-02-12T14:31:55: Refactor utils for better code reuse
 Commit at 2024-02-12T21:50:33: Add unit tests for preprocessing utilities
+Commit at 2024-02-12T10:34:35: Update requirements for new dependencies
