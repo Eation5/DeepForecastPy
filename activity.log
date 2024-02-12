@@ -2736,3 +2736,4 @@ Commit at 2024-02-07T19:51:48: Fix bug in LSTM layer initialization
 Commit at 2024-02-07T09:02:47: Add support for pre-trained models
 Commit at 2024-02-08T13:03:38: Update requirements for new dependencies
 Commit at 2024-02-12T14:26:44: Add support for Transformer-based models
+Commit at 2024-02-12T17:11:22: Update README with more detailed instructions
