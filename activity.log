@@ -2739,3 +2739,4 @@ Commit at 2024-02-12T14:26:44: Add support for Transformer-based models
 Commit at 2024-02-12T17:11:22: Update README with more detailed instructions
 Commit at 2024-02-12T11:05:14: Update requirements for new dependencies
 Commit at 2024-02-12T21:18:08: Fix minor bug in data windowing
+Commit at 2024-02-12T11:46:15: Refactor model architecture for better performance
