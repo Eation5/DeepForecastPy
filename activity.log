@@ -2747,3 +2747,4 @@ Commit at 2024-02-12T14:31:55: Refactor utils for better code reuse
 Commit at 2024-02-12T21:50:33: Add unit tests for preprocessing utilities
 Commit at 2024-02-12T10:34:35: Update requirements for new dependencies
 Commit at 2024-02-12T09:41:25: Improve logging during model training
+Commit at 2024-02-13T09:58:00: Fix issue with data normalization
