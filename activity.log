@@ -2754,3 +2754,4 @@ Commit at 2024-02-14T10:08:15: Optimize data loading for large datasets
 Commit at 2024-02-14T15:47:09: Add support for GRU models
 Commit at 2024-02-14T14:18:30: Improve visualization functions for predictions
 Commit at 2024-02-14T20:20:17: Add new evaluation metrics for time series forecasting
+Commit at 2024-02-14T14:10:30: Add new evaluation metrics for time series forecasting
