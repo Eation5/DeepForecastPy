@@ -2757,3 +2757,4 @@ Commit at 2024-02-14T20:20:17: Add new evaluation metrics for time series foreca
 Commit at 2024-02-14T14:10:30: Add new evaluation metrics for time series forecasting
 Commit at 2024-02-15T18:21:37: Add unit tests for preprocessing utilities
 Commit at 2024-02-15T09:09:49: Add support for multiple output steps
+Commit at 2024-02-15T09:58:17: Fix bug in LSTM layer initialization
