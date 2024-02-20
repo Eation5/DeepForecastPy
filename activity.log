@@ -2766,3 +2766,4 @@ Commit at 2024-02-16T09:11:11: Update preprocessing pipeline to handle missing v
 Commit at 2024-02-19T21:00:02: Add new evaluation metrics for time series forecasting
 Commit at 2024-02-19T20:09:53: Fix minor bug in data windowing
 Commit at 2024-02-19T09:43:04: Add support for pre-trained models
+Commit at 2024-02-19T21:26:44: Improve documentation for API reference
