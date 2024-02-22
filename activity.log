@@ -2771,3 +2771,4 @@ Commit at 2024-02-21T16:53:01: Add support for GRU models
 Commit at 2024-02-21T11:27:26: Add examples for different use cases
 Commit at 2024-02-21T19:30:19: Add support for GRU models
 Commit at 2024-02-21T17:28:02: Update documentation for new features
+Commit at 2024-02-21T21:31:00: Improve error handling in model building
