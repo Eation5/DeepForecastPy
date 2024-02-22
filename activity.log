@@ -2778,3 +2778,4 @@ Commit at 2024-02-21T17:16:13: Add support for GRU models
 Commit at 2024-02-21T18:25:51: Add unit tests for preprocessing utilities
 Commit at 2024-02-22T09:46:07: Refactor model architecture for better performance
 Commit at 2024-02-22T18:32:08: Fix minor bug in data windowing
+Commit at 2024-02-22T15:36:37: Add support for custom loss functions
