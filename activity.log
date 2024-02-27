@@ -2793,3 +2793,4 @@ Commit at 2024-02-27T13:38:08: Update README with more detailed instructions
 Commit at 2024-02-27T16:28:41: Add examples for different use cases
 Commit at 2024-02-27T17:48:53: Optimize training loop for faster convergence
 Commit at 2024-02-27T18:44:45: Optimize training loop for faster convergence
+Commit at 2024-02-27T11:17:37: Fix issue with model serialization
