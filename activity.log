@@ -2800,3 +2800,4 @@ Commit at 2024-02-28T13:44:07: Optimize training loop for faster convergence
 Commit at 2024-02-28T21:26:37: Fix issue with data normalization
 Commit at 2024-02-28T09:49:33: Add support for GRU models
 Commit at 2024-02-28T15:08:37: Fix minor bug in data windowing
+Commit at 2024-02-28T15:37:53: Update documentation for new features
