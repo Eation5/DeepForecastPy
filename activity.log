@@ -2798,3 +2798,4 @@ Commit at 2024-02-28T20:49:13: Update preprocessing pipeline to handle missing v
 Commit at 2024-02-28T19:46:44: Optimize data loading for large datasets
 Commit at 2024-02-28T13:44:07: Optimize training loop for faster convergence
 Commit at 2024-02-28T21:26:37: Fix issue with data normalization
+Commit at 2024-02-28T09:49:33: Add support for GRU models
