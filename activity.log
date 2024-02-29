@@ -2803,3 +2803,4 @@ Commit at 2024-02-28T15:08:37: Fix minor bug in data windowing
 Commit at 2024-02-28T15:37:53: Update documentation for new features
 Commit at 2024-02-29T10:20:19: Update README with more detailed instructions
 Commit at 2024-02-29T11:40:36: Optimize training loop for faster convergence
+Commit at 2024-02-29T18:59:51: Add new evaluation metrics for time series forecasting
