@@ -2797,3 +2797,4 @@ Commit at 2024-02-27T11:17:37: Fix issue with model serialization
 Commit at 2024-02-28T20:49:13: Update preprocessing pipeline to handle missing values
 Commit at 2024-02-28T19:46:44: Optimize data loading for large datasets
 Commit at 2024-02-28T13:44:07: Optimize training loop for faster convergence
+Commit at 2024-02-28T21:26:37: Fix issue with data normalization
