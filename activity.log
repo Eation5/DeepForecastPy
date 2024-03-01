@@ -2813,3 +2813,4 @@ Commit at 2024-02-29T20:55:20: Update requirements for new dependencies
 Commit at 2024-02-29T17:09:06: Optimize inference speed for edge devices
 Commit at 2024-03-01T20:16:05: Improve logging during model training
 Commit at 2024-03-01T09:26:44: Add support for custom loss functions
+Commit at 2024-03-01T10:19:20: Add support for GRU models
