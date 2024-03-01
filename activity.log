@@ -2815,3 +2815,4 @@ Commit at 2024-03-01T20:16:05: Improve logging during model training
 Commit at 2024-03-01T09:26:44: Add support for custom loss functions
 Commit at 2024-03-01T10:19:20: Add support for GRU models
 Commit at 2024-03-01T11:41:19: Fix minor bug in data windowing
+Commit at 2024-03-01T10:41:15: Fix minor bug in data windowing
