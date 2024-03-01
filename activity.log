@@ -2820,3 +2820,4 @@ Commit at 2024-03-01T12:34:50: Improve logging during model training
 Commit at 2024-03-01T11:34:47: Fix minor bug in data windowing
 Commit at 2024-03-01T20:24:12: Optimize inference speed for edge devices
 Commit at 2024-03-01T10:57:18: Update project structure for better organization
+Commit at 2024-03-01T16:21:31: Update README with more detailed instructions
