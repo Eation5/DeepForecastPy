@@ -2829,3 +2829,4 @@ Commit at 2024-03-04T17:44:13: Add unit tests for preprocessing utilities
 Commit at 2024-03-04T16:42:59: Optimize training loop for faster convergence
 Commit at 2024-03-04T21:39:48: Update preprocessing pipeline to handle missing values
 Commit at 2024-03-04T15:15:42: Update preprocessing pipeline to handle missing values
+Commit at 2024-03-04T15:23:12: Update documentation for new features
