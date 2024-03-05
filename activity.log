@@ -2839,3 +2839,4 @@ Commit at 2024-03-05T14:24:30: Add support for GRU models
 Commit at 2024-03-05T16:40:26: Improve error handling in model building
 Commit at 2024-03-05T11:04:32: Improve documentation for API reference
 Commit at 2024-03-05T16:21:22: Update preprocessing pipeline to handle missing values
+Commit at 2024-03-05T11:35:16: Improve logging during model training
