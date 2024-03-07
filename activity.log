@@ -2849,3 +2849,4 @@ Commit at 2024-03-07T20:16:06: Improve logging during model training
 Commit at 2024-03-07T19:30:50: Add examples for different use cases
 Commit at 2024-03-07T18:43:28: Improve visualization functions for predictions
 Commit at 2024-03-07T11:07:34: Update project structure for better organization
+Commit at 2024-03-07T15:10:32: Add support for Transformer-based models
