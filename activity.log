@@ -2846,3 +2846,4 @@ Commit at 2024-03-06T10:15:02: Update requirements for new dependencies
 Commit at 2024-03-07T16:51:46: Add examples for using the library
 Commit at 2024-03-07T18:49:08: Fix bug in LSTM layer initialization
 Commit at 2024-03-07T20:16:06: Improve logging during model training
+Commit at 2024-03-07T19:30:50: Add examples for different use cases
