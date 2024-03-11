@@ -2853,3 +2853,4 @@ Commit at 2024-03-07T15:10:32: Add support for Transformer-based models
 Commit at 2024-03-07T09:28:19: Improve visualization functions for predictions
 Commit at 2024-03-11T21:45:14: Update project structure for better organization
 Commit at 2024-03-11T14:57:41: Optimize inference speed for edge devices
+Commit at 2024-03-11T12:33:37: Refactor model architecture for better performance
