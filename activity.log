@@ -2872,3 +2872,4 @@ Commit at 2024-03-12T17:00:55: Improve error handling in model building
 Commit at 2024-03-13T19:05:27: Update README with more detailed instructions
 Commit at 2024-03-13T09:29:00: Optimize inference speed for edge devices
 Commit at 2024-03-13T13:25:39: Optimize inference speed for edge devices
+Commit at 2024-03-13T19:07:27: Update project structure for better organization
