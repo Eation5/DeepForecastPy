@@ -2882,3 +2882,4 @@ Commit at 2024-03-14T09:36:30: Add support for multiple output steps
 Commit at 2024-03-14T12:46:06: Refactor model architecture for better performance
 Commit at 2024-03-14T10:29:13: Refactor utils for better code reuse
 Commit at 2024-03-14T15:15:50: Improve visualization functions for predictions
+Commit at 2024-03-14T20:47:06: Fix issue with data normalization
