@@ -2884,3 +2884,4 @@ Commit at 2024-03-14T10:29:13: Refactor utils for better code reuse
 Commit at 2024-03-14T15:15:50: Improve visualization functions for predictions
 Commit at 2024-03-14T20:47:06: Fix issue with data normalization
 Commit at 2024-03-14T18:28:22: Add support for custom loss functions
+Commit at 2024-03-15T20:24:18: Add support for pre-trained models
