@@ -2898,3 +2898,4 @@ Commit at 2024-03-18T17:52:52: Improve error handling in model building
 Commit at 2024-03-19T10:02:20: Optimize memory usage during training
 Commit at 2024-03-19T20:40:36: Update requirements for new dependencies
 Commit at 2024-03-19T10:20:33: Update README with more detailed instructions
+Commit at 2024-03-19T13:24:25: Fix issue with model serialization
