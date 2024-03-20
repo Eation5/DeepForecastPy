@@ -2902,3 +2902,4 @@ Commit at 2024-03-19T13:24:25: Fix issue with model serialization
 Commit at 2024-03-19T17:43:12: Update preprocessing pipeline to handle missing values
 Commit at 2024-03-19T18:08:12: Update README with more detailed instructions
 Commit at 2024-03-19T21:27:26: Fix bug in LSTM layer initialization
+Commit at 2024-03-20T10:03:49: Update README with more detailed instructions
