@@ -2904,3 +2904,4 @@ Commit at 2024-03-19T18:08:12: Update README with more detailed instructions
 Commit at 2024-03-19T21:27:26: Fix bug in LSTM layer initialization
 Commit at 2024-03-20T10:03:49: Update README with more detailed instructions
 Commit at 2024-03-20T12:44:03: Add support for bidirectional RNNs
+Commit at 2024-03-20T20:10:27: Fix issue with data normalization
