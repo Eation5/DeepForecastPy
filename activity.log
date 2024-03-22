@@ -2914,3 +2914,4 @@ Commit at 2024-03-20T13:57:58: Fix bug in LSTM layer initialization
 Commit at 2024-03-20T11:50:28: Refactor model architecture for better performance
 Commit at 2024-03-20T13:17:21: Add support for multiple output steps
 Commit at 2024-03-21T21:41:32: Add support for Transformer-based models
+Commit at 2024-03-21T20:14:16: Improve visualization functions for predictions
