@@ -2934,3 +2934,4 @@ Commit at 2024-03-26T18:27:25: Update README with more detailed instructions
 Commit at 2024-03-27T10:05:15: Fix issue with model serialization
 Commit at 2024-03-27T12:54:07: Update requirements for new dependencies
 Commit at 2024-03-27T09:07:18: Add support for multiple output steps
+Commit at 2024-03-27T11:59:20: Add new evaluation metrics for time series forecasting
