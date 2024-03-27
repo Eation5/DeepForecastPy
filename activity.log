@@ -2937,3 +2937,4 @@ Commit at 2024-03-27T09:07:18: Add support for multiple output steps
 Commit at 2024-03-27T11:59:20: Add new evaluation metrics for time series forecasting
 Commit at 2024-03-27T09:40:42: Add support for pre-trained models
 Commit at 2024-03-27T09:03:03: Improve visualization functions for predictions
+Commit at 2024-03-27T18:06:04: Fix bug in LSTM layer initialization
