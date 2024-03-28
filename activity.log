@@ -2940,3 +2940,4 @@ Commit at 2024-03-27T09:03:03: Improve visualization functions for predictions
 Commit at 2024-03-27T18:06:04: Fix bug in LSTM layer initialization
 Commit at 2024-03-28T18:56:42: Improve documentation for API reference
 Commit at 2024-03-28T12:32:54: Update documentation for new features
+Commit at 2024-03-28T15:42:16: Add support for Transformer-based models
