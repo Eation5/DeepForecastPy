@@ -2950,3 +2950,4 @@ Commit at 2024-03-28T19:03:21: Optimize training loop for faster convergence
 Commit at 2024-03-29T15:18:15: Fix bug in LSTM layer initialization
 Commit at 2024-03-29T17:20:24: Improve error handling in model building
 Commit at 2024-03-29T16:25:29: Optimize memory usage during training
+Commit at 2024-03-29T21:46:28: Improve documentation for API reference
