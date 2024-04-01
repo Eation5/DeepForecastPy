@@ -2954,3 +2954,4 @@ Commit at 2024-03-29T21:46:28: Improve documentation for API reference
 Commit at 2024-03-29T10:58:04: Add support for GRU models
 Commit at 2024-04-01T20:39:36: Refactor model architecture for better performance
 Commit at 2024-04-01T20:29:00: Improve documentation for API reference
+Commit at 2024-04-01T18:52:39: Improve logging during model training
