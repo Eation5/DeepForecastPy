@@ -2961,3 +2961,4 @@ Commit at 2024-04-01T17:32:16: Optimize inference speed for edge devices
 Commit at 2024-04-01T10:42:06: Optimize inference speed for edge devices
 Commit at 2024-04-01T14:09:15: Optimize data loading for large datasets
 Commit at 2024-04-01T18:21:18: Add examples for different use cases
+Commit at 2024-04-02T11:11:20: Add support for Transformer-based models
