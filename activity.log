@@ -2963,3 +2963,4 @@ Commit at 2024-04-01T14:09:15: Optimize data loading for large datasets
 Commit at 2024-04-01T18:21:18: Add examples for different use cases
 Commit at 2024-04-02T11:11:20: Add support for Transformer-based models
 Commit at 2024-04-02T12:31:45: Update README with more detailed instructions
+Commit at 2024-04-02T10:50:26: Add support for GRU models
