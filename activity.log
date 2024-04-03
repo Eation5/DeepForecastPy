@@ -2968,3 +2968,4 @@ Commit at 2024-04-02T10:00:59: Add support for multiple output steps
 Commit at 2024-04-03T14:42:51: Improve documentation for API reference
 Commit at 2024-04-03T16:47:47: Add new evaluation metrics for time series forecasting
 Commit at 2024-04-03T19:26:10: Add support for pre-trained models
+Commit at 2024-04-03T10:28:15: Update requirements for new dependencies
