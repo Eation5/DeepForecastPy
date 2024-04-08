@@ -2986,3 +2986,4 @@ Commit at 2024-04-08T17:59:06: Optimize data loading for large datasets
 Commit at 2024-04-08T21:15:08: Fix minor bug in data windowing
 Commit at 2024-04-08T16:00:08: Improve error handling in model building
 Commit at 2024-04-08T16:06:45: Add support for data augmentation
+Commit at 2024-04-08T13:51:53: Add support for Transformer-based models
