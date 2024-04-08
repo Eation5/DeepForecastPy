@@ -2984,3 +2984,4 @@ Commit at 2024-04-08T11:27:23: Fix bug in LSTM layer initialization
 Commit at 2024-04-08T10:42:01: Refactor model architecture for better performance
 Commit at 2024-04-08T17:59:06: Optimize data loading for large datasets
 Commit at 2024-04-08T21:15:08: Fix minor bug in data windowing
+Commit at 2024-04-08T16:00:08: Improve error handling in model building
