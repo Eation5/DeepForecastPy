@@ -2994,3 +2994,4 @@ Commit at 2024-04-09T21:40:14: Update documentation for new features
 Commit at 2024-04-09T10:10:09: Fix bug in LSTM layer initialization
 Commit at 2024-04-09T13:34:03: Improve visualization functions for predictions
 Commit at 2024-04-09T17:27:45: Optimize memory usage during training
+Commit at 2024-04-09T11:33:57: Fix issue with data normalization
