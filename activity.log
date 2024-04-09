@@ -2991,3 +2991,4 @@ Commit at 2024-04-08T16:52:27: Refactor utils for better code reuse
 Commit at 2024-04-09T20:43:35: Update project structure for better organization
 Commit at 2024-04-09T17:53:36: Fix bug in LSTM layer initialization
 Commit at 2024-04-09T21:40:14: Update documentation for new features
+Commit at 2024-04-09T10:10:09: Fix bug in LSTM layer initialization
