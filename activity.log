@@ -2999,3 +2999,4 @@ Commit at 2024-04-10T11:32:54: Fix issue with model serialization
 Commit at 2024-04-10T14:20:15: Fix bug in LSTM layer initialization
 Commit at 2024-04-10T12:11:07: Fix bug in LSTM layer initialization
 Commit at 2024-04-10T10:48:35: Fix issue with data normalization
+Commit at 2024-04-10T19:27:11: Add support for custom loss functions
