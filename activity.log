@@ -2988,3 +2988,4 @@ Commit at 2024-04-08T16:00:08: Improve error handling in model building
 Commit at 2024-04-08T16:06:45: Add support for data augmentation
 Commit at 2024-04-08T13:51:53: Add support for Transformer-based models
 Commit at 2024-04-08T16:52:27: Refactor utils for better code reuse
+Commit at 2024-04-09T20:43:35: Update project structure for better organization
