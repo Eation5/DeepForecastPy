@@ -3009,3 +3009,4 @@ Commit at 2024-04-12T10:00:59: Update README with more detailed instructions
 Commit at 2024-04-12T18:49:11: Fix bug in LSTM layer initialization
 Commit at 2024-04-12T18:56:49: Update documentation for new features
 Commit at 2024-04-12T20:25:11: Refactor model architecture for better performance
+Commit at 2024-04-15T11:09:32: Add support for Transformer-based models
