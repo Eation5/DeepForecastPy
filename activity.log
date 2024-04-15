@@ -3012,3 +3012,4 @@ Commit at 2024-04-12T20:25:11: Refactor model architecture for better performanc
 Commit at 2024-04-15T11:09:32: Add support for Transformer-based models
 Commit at 2024-04-15T16:31:01: Add support for custom loss functions
 Commit at 2024-04-15T11:50:02: Fix issue with model serialization
+Commit at 2024-04-15T12:09:52: Improve error handling in model building
