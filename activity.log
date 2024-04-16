@@ -3016,3 +3016,4 @@ Commit at 2024-04-15T12:09:52: Improve error handling in model building
 Commit at 2024-04-16T13:00:00: Fix bug in LSTM layer initialization
 Commit at 2024-04-16T09:50:03: Refactor utils for better code reuse
 Commit at 2024-04-16T11:51:03: Add examples for using the library
+Commit at 2024-04-16T15:19:36: Add support for data augmentation
