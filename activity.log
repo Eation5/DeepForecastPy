@@ -3026,3 +3026,4 @@ Commit at 2024-04-17T18:50:21: Update project structure for better organization
 Commit at 2024-04-17T09:40:46: Optimize training loop for faster convergence
 Commit at 2024-04-17T16:08:07: Add support for multiple output steps
 Commit at 2024-04-17T11:49:36: Update project structure for better organization
+Commit at 2024-04-17T09:34:58: Fix issue with model serialization
