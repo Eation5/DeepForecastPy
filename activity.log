@@ -3022,3 +3022,4 @@ Commit at 2024-04-17T15:03:25: Fix issue with data normalization
 Commit at 2024-04-17T17:36:43: Optimize inference speed for edge devices
 Commit at 2024-04-17T21:11:10: Fix bug in LSTM layer initialization
 Commit at 2024-04-17T21:45:40: Improve visualization functions for predictions
+Commit at 2024-04-17T18:50:21: Update project structure for better organization
