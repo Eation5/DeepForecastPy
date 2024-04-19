@@ -3039,3 +3039,4 @@ Commit at 2024-04-18T17:26:04: Add support for pre-trained models
 Commit at 2024-04-18T18:18:22: Fix bug in LSTM layer initialization
 Commit at 2024-04-18T16:26:55: Update preprocessing pipeline to handle missing values
 Commit at 2024-04-18T21:34:00: Add support for bidirectional RNNs
+Commit at 2024-04-19T14:11:12: Update documentation for new features
