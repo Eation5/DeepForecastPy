@@ -3030,3 +3030,4 @@ Commit at 2024-04-17T09:34:58: Fix issue with model serialization
 Commit at 2024-04-17T18:59:03: Add support for pre-trained models
 Commit at 2024-04-18T14:56:53: Optimize training loop for faster convergence
 Commit at 2024-04-18T15:30:42: Add support for custom loss functions
+Commit at 2024-04-18T20:11:36: Add support for GRU models
