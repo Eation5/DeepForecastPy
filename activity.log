@@ -3041,3 +3041,4 @@ Commit at 2024-04-18T16:26:55: Update preprocessing pipeline to handle missing v
 Commit at 2024-04-18T21:34:00: Add support for bidirectional RNNs
 Commit at 2024-04-19T14:11:12: Update documentation for new features
 Commit at 2024-04-19T10:39:23: Optimize inference speed for edge devices
+Commit at 2024-04-22T14:27:22: Optimize memory usage during training
