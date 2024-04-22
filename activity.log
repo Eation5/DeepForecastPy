@@ -3044,3 +3044,4 @@ Commit at 2024-04-19T10:39:23: Optimize inference speed for edge devices
 Commit at 2024-04-22T14:27:22: Optimize memory usage during training
 Commit at 2024-04-22T16:36:59: Fix bug in LSTM layer initialization
 Commit at 2024-04-22T19:28:11: Add support for pre-trained models
+Commit at 2024-04-22T18:02:30: Fix minor bug in data windowing
