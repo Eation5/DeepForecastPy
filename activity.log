@@ -3055,3 +3055,4 @@ Commit at 2024-04-24T16:59:02: Add new evaluation metrics for time series foreca
 Commit at 2024-04-24T11:03:19: Fix bug in LSTM layer initialization
 Commit at 2024-04-24T16:59:12: Improve documentation for API reference
 Commit at 2024-04-24T11:18:19: Update documentation for new features
+Commit at 2024-04-24T10:39:53: Update requirements for new dependencies
