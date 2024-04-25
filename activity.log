@@ -3070,3 +3070,4 @@ Commit at 2024-04-25T10:33:07: Improve documentation for API reference
 Commit at 2024-04-25T21:31:05: Add support for multiple output steps
 Commit at 2024-04-25T21:05:24: Refactor utils for better code reuse
 Commit at 2024-04-25T11:49:00: Add examples for using the library
+Commit at 2024-04-25T16:52:30: Add support for Transformer-based models
