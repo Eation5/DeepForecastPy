@@ -3072,3 +3072,4 @@ Commit at 2024-04-25T21:05:24: Refactor utils for better code reuse
 Commit at 2024-04-25T11:49:00: Add examples for using the library
 Commit at 2024-04-25T16:52:30: Add support for Transformer-based models
 Commit at 2024-04-26T11:43:12: Add support for custom loss functions
+Commit at 2024-04-26T13:24:55: Add support for data augmentation
