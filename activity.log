@@ -3074,3 +3074,4 @@ Commit at 2024-04-25T16:52:30: Add support for Transformer-based models
 Commit at 2024-04-26T11:43:12: Add support for custom loss functions
 Commit at 2024-04-26T13:24:55: Add support for data augmentation
 Commit at 2024-04-26T20:26:43: Optimize memory usage during training
+Commit at 2024-04-26T19:20:43: Update requirements for new dependencies
