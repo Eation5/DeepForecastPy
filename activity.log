@@ -3083,3 +3083,4 @@ Commit at 2024-04-26T14:40:23: Add support for pre-trained models
 Commit at 2024-04-29T20:02:03: Optimize memory usage during training
 Commit at 2024-04-29T13:07:46: Update requirements for new dependencies
 Commit at 2024-04-29T18:30:14: Add support for custom loss functions
+Commit at 2024-04-29T12:18:07: Add support for pre-trained models
