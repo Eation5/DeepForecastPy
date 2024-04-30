@@ -3086,3 +3086,4 @@ Commit at 2024-04-29T18:30:14: Add support for custom loss functions
 Commit at 2024-04-29T12:18:07: Add support for pre-trained models
 Commit at 2024-04-29T15:28:09: Optimize data loading for large datasets
 Commit at 2024-04-29T09:22:16: Update README with more detailed instructions
+Commit at 2024-04-29T21:39:04: Fix bug in LSTM layer initialization
