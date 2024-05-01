@@ -3092,3 +3092,4 @@ Commit at 2024-04-30T12:48:04: Optimize training loop for faster convergence
 Commit at 2024-04-30T19:19:41: Update preprocessing pipeline to handle missing values
 Commit at 2024-04-30T21:37:40: Add examples for different use cases
 Commit at 2024-05-01T16:28:39: Improve logging during model training
+Commit at 2024-05-01T18:28:52: Add support for custom loss functions
