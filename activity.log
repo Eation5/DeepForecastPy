@@ -3098,3 +3098,4 @@ Commit at 2024-05-01T09:04:49: Add support for bidirectional RNNs
 Commit at 2024-05-01T18:30:54: Add support for Transformer-based models
 Commit at 2024-05-02T11:06:20: Add support for Transformer-based models
 Commit at 2024-05-02T21:26:57: Optimize memory usage during training
+Commit at 2024-05-02T09:00:12: Add support for Transformer-based models
