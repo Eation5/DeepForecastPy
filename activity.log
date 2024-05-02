@@ -3101,3 +3101,4 @@ Commit at 2024-05-02T21:26:57: Optimize memory usage during training
 Commit at 2024-05-02T09:00:12: Add support for Transformer-based models
 Commit at 2024-05-02T14:57:46: Add support for data augmentation
 Commit at 2024-05-02T14:57:54: Fix minor bug in data windowing
+Commit at 2024-05-02T17:54:00: Improve visualization functions for predictions
