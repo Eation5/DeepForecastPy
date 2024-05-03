@@ -3107,3 +3107,4 @@ Commit at 2024-05-03T18:17:01: Add new evaluation metrics for time series foreca
 Commit at 2024-05-03T14:03:05: Optimize training loop for faster convergence
 Commit at 2024-05-03T12:13:38: Optimize data loading for large datasets
 Commit at 2024-05-03T21:27:41: Add support for GRU models
+Commit at 2024-05-03T09:07:55: Improve documentation for API reference
