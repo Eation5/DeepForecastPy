@@ -3104,3 +3104,4 @@ Commit at 2024-05-02T14:57:54: Fix minor bug in data windowing
 Commit at 2024-05-02T17:54:00: Improve visualization functions for predictions
 Commit at 2024-05-02T20:53:32: Add support for Transformer-based models
 Commit at 2024-05-03T18:17:01: Add new evaluation metrics for time series forecasting
+Commit at 2024-05-03T14:03:05: Optimize training loop for faster convergence
