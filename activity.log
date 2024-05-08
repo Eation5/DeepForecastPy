@@ -3126,3 +3126,4 @@ Commit at 2024-05-07T11:10:19: Update preprocessing pipeline to handle missing v
 Commit at 2024-05-07T19:25:00: Optimize memory usage during training
 Commit at 2024-05-07T18:38:34: Update preprocessing pipeline to handle missing values
 Commit at 2024-05-07T09:32:17: Fix issue with data normalization
+Commit at 2024-05-08T17:17:41: Update project structure for better organization
