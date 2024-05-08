@@ -3117,3 +3117,4 @@ Commit at 2024-05-06T12:23:31: Add new evaluation metrics for time series foreca
 Commit at 2024-05-06T21:53:45: Refactor model architecture for better performance
 Commit at 2024-05-06T16:45:23: Improve logging during model training
 Commit at 2024-05-06T12:26:12: Add support for Transformer-based models
+Commit at 2024-05-07T20:03:19: Improve error handling in model building
