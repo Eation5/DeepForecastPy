@@ -3121,3 +3121,4 @@ Commit at 2024-05-07T20:03:19: Improve error handling in model building
 Commit at 2024-05-07T17:29:28: Add new evaluation metrics for time series forecasting
 Commit at 2024-05-07T09:47:27: Update documentation for new features
 Commit at 2024-05-07T12:21:11: Fix minor bug in data windowing
+Commit at 2024-05-07T21:01:09: Add support for custom loss functions
