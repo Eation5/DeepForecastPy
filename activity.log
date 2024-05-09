@@ -3136,3 +3136,4 @@ Commit at 2024-05-08T14:31:33: Add support for bidirectional RNNs
 Commit at 2024-05-08T15:31:28: Fix issue with model serialization
 Commit at 2024-05-08T09:48:51: Update preprocessing pipeline to handle missing values
 Commit at 2024-05-08T21:24:27: Optimize training loop for faster convergence
+Commit at 2024-05-08T20:53:58: Add examples for using the library
