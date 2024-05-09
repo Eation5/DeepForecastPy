@@ -3145,3 +3145,4 @@ Commit at 2024-05-09T17:12:29: Improve visualization functions for predictions
 Commit at 2024-05-09T11:55:48: Add support for custom loss functions
 Commit at 2024-05-09T14:28:00: Add support for data augmentation
 Commit at 2024-05-09T09:45:59: Refactor utils for better code reuse
+Commit at 2024-05-09T18:19:33: Add support for GRU models
