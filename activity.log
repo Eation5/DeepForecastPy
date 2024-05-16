@@ -3167,3 +3167,4 @@ Commit at 2024-05-14T17:13:07: Update project structure for better organization
 Commit at 2024-05-14T14:49:45: Update documentation for new features
 Commit at 2024-05-14T13:42:33: Add new evaluation metrics for time series forecasting
 Commit at 2024-05-15T14:04:32: Refactor utils for better code reuse
+Commit at 2024-05-16T13:17:55: Improve error handling in model building
