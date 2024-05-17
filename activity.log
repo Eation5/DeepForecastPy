@@ -3183,3 +3183,4 @@ Commit at 2024-05-17T14:45:49: Add support for GRU models
 Commit at 2024-05-17T13:05:09: Optimize data loading for large datasets
 Commit at 2024-05-17T21:12:18: Update requirements for new dependencies
 Commit at 2024-05-17T16:06:55: Add examples for using the library
+Commit at 2024-05-17T13:07:41: Add support for GRU models
