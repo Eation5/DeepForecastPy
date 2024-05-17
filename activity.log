@@ -3179,3 +3179,4 @@ Commit at 2024-05-17T15:26:16: Update README with more detailed instructions
 Commit at 2024-05-17T12:25:33: Update requirements for new dependencies
 Commit at 2024-05-17T21:42:15: Refactor model architecture for better performance
 Commit at 2024-05-17T19:54:13: Update README with more detailed instructions
+Commit at 2024-05-17T14:45:49: Add support for GRU models
