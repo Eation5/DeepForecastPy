@@ -3181,3 +3181,4 @@ Commit at 2024-05-17T21:42:15: Refactor model architecture for better performanc
 Commit at 2024-05-17T19:54:13: Update README with more detailed instructions
 Commit at 2024-05-17T14:45:49: Add support for GRU models
 Commit at 2024-05-17T13:05:09: Optimize data loading for large datasets
+Commit at 2024-05-17T21:12:18: Update requirements for new dependencies
