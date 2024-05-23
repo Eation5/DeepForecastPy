@@ -3214,3 +3214,4 @@ Commit at 2024-05-23T14:10:13: Refactor utils for better code reuse
 Commit at 2024-05-23T14:44:43: Add support for custom loss functions
 Commit at 2024-05-23T12:06:02: Refactor model architecture for better performance
 Commit at 2024-05-23T13:56:33: Update preprocessing pipeline to handle missing values
+Commit at 2024-05-23T18:15:55: Fix bug in LSTM layer initialization
