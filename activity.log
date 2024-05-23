@@ -3212,3 +3212,4 @@ Commit at 2024-05-23T14:15:29: Add support for GRU models
 Commit at 2024-05-23T09:19:22: Add examples for different use cases
 Commit at 2024-05-23T14:10:13: Refactor utils for better code reuse
 Commit at 2024-05-23T14:44:43: Add support for custom loss functions
+Commit at 2024-05-23T12:06:02: Refactor model architecture for better performance
