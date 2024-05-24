@@ -3216,3 +3216,4 @@ Commit at 2024-05-23T12:06:02: Refactor model architecture for better performanc
 Commit at 2024-05-23T13:56:33: Update preprocessing pipeline to handle missing values
 Commit at 2024-05-23T18:15:55: Fix bug in LSTM layer initialization
 Commit at 2024-05-23T18:07:50: Update preprocessing pipeline to handle missing values
+Commit at 2024-05-24T12:26:28: Add support for custom loss functions
