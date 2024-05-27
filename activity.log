@@ -3225,3 +3225,4 @@ Commit at 2024-05-27T16:00:13: Add support for GRU models
 Commit at 2024-05-27T16:33:26: Add support for Transformer-based models
 Commit at 2024-05-27T11:05:05: Improve logging during model training
 Commit at 2024-05-27T18:57:31: Add support for multiple output steps
+Commit at 2024-05-27T10:45:56: Update requirements for new dependencies
