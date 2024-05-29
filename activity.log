@@ -3233,3 +3233,4 @@ Commit at 2024-05-29T16:55:19: Optimize inference speed for edge devices
 Commit at 2024-05-29T17:02:07: Add support for pre-trained models
 Commit at 2024-05-29T21:35:22: Add support for GRU models
 Commit at 2024-05-29T15:54:50: Add support for data augmentation
+Commit at 2024-05-29T15:31:34: Update project structure for better organization
