@@ -3230,3 +3230,4 @@ Commit at 2024-05-27T16:13:41: Add new evaluation metrics for time series foreca
 Commit at 2024-05-28T09:19:42: Refactor utils for better code reuse
 Commit at 2024-05-28T11:51:10: Fix minor bug in data windowing
 Commit at 2024-05-29T16:55:19: Optimize inference speed for edge devices
+Commit at 2024-05-29T17:02:07: Add support for pre-trained models
