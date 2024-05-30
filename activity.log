@@ -3240,3 +3240,4 @@ Commit at 2024-05-29T16:55:49: Add support for Transformer-based models
 Commit at 2024-05-29T19:40:48: Add support for pre-trained models
 Commit at 2024-05-29T15:36:29: Update README with more detailed instructions
 Commit at 2024-05-30T20:36:50: Optimize memory usage during training
+Commit at 2024-05-30T17:10:31: Optimize training loop for faster convergence
