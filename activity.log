@@ -3250,3 +3250,4 @@ Commit at 2024-05-31T20:57:04: Fix bug in LSTM layer initialization
 Commit at 2024-05-31T12:24:20: Add support for pre-trained models
 Commit at 2024-05-31T20:28:58: Add support for data augmentation
 Commit at 2024-05-31T17:22:40: Optimize inference speed for edge devices
+Commit at 2024-05-31T15:26:49: Add support for custom loss functions
