@@ -3246,3 +3246,4 @@ Commit at 2024-05-31T16:33:50: Improve logging during model training
 Commit at 2024-05-31T14:23:23: Add support for GRU models
 Commit at 2024-05-31T19:05:46: Fix bug in LSTM layer initialization
 Commit at 2024-05-31T11:40:54: Optimize data loading for large datasets
+Commit at 2024-05-31T20:57:04: Fix bug in LSTM layer initialization
