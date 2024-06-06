@@ -3254,3 +3254,4 @@ Commit at 2024-05-31T15:26:49: Add support for custom loss functions
 Commit at 2024-06-04T20:26:48: Update requirements for new dependencies
 Commit at 2024-06-05T18:53:08: Add support for GRU models
 Commit at 2024-06-06T10:22:03: Fix issue with data normalization
+Commit at 2024-06-06T12:59:55: Optimize training loop for faster convergence
