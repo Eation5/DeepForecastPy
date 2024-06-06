@@ -3260,3 +3260,4 @@ Commit at 2024-06-06T21:42:56: Optimize memory usage during training
 Commit at 2024-06-06T12:53:09: Update documentation for new features
 Commit at 2024-06-06T14:24:40: Add support for pre-trained models
 Commit at 2024-06-06T19:28:43: Fix minor bug in data windowing
+Commit at 2024-06-06T19:48:57: Fix bug in LSTM layer initialization
