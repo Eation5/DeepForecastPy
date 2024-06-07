@@ -3256,3 +3256,4 @@ Commit at 2024-06-05T18:53:08: Add support for GRU models
 Commit at 2024-06-06T10:22:03: Fix issue with data normalization
 Commit at 2024-06-06T12:59:55: Optimize training loop for faster convergence
 Commit at 2024-06-06T21:09:32: Update project structure for better organization
+Commit at 2024-06-06T21:42:56: Optimize memory usage during training
