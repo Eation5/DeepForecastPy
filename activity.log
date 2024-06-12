@@ -3278,3 +3278,4 @@ Commit at 2024-06-12T10:39:10: Refactor model architecture for better performanc
 Commit at 2024-06-12T20:46:19: Add support for Transformer-based models
 Commit at 2024-06-12T14:15:09: Add support for GRU models
 Commit at 2024-06-12T20:25:37: Improve error handling in model building
+Commit at 2024-06-12T17:02:23: Add support for Transformer-based models
