@@ -3276,3 +3276,4 @@ Commit at 2024-06-11T14:13:33: Add examples for different use cases
 Commit at 2024-06-11T21:08:58: Update documentation for new features
 Commit at 2024-06-12T10:39:10: Refactor model architecture for better performance
 Commit at 2024-06-12T20:46:19: Add support for Transformer-based models
+Commit at 2024-06-12T14:15:09: Add support for GRU models
