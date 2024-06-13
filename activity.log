@@ -3290,3 +3290,4 @@ Commit at 2024-06-13T12:28:06: Add examples for using the library
 Commit at 2024-06-13T10:09:20: Add examples for using the library
 Commit at 2024-06-13T15:06:45: Add support for Transformer-based models
 Commit at 2024-06-13T20:13:05: Add support for data augmentation
+Commit at 2024-06-13T10:56:59: Improve error handling in model building
