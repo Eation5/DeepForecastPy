@@ -3283,3 +3283,4 @@ Commit at 2024-06-12T18:41:53: Add support for data augmentation
 Commit at 2024-06-12T20:04:25: Optimize memory usage during training
 Commit at 2024-06-12T10:09:08: Add support for custom loss functions
 Commit at 2024-06-12T11:48:14: Fix issue with data normalization
+Commit at 2024-06-12T21:08:52: Fix minor bug in data windowing
