@@ -3280,3 +3280,4 @@ Commit at 2024-06-12T14:15:09: Add support for GRU models
 Commit at 2024-06-12T20:25:37: Improve error handling in model building
 Commit at 2024-06-12T17:02:23: Add support for Transformer-based models
 Commit at 2024-06-12T18:41:53: Add support for data augmentation
+Commit at 2024-06-12T20:04:25: Optimize memory usage during training
