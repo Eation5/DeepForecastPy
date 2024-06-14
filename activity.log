@@ -3284,3 +3284,4 @@ Commit at 2024-06-12T20:04:25: Optimize memory usage during training
 Commit at 2024-06-12T10:09:08: Add support for custom loss functions
 Commit at 2024-06-12T11:48:14: Fix issue with data normalization
 Commit at 2024-06-12T21:08:52: Fix minor bug in data windowing
+Commit at 2024-06-13T21:54:41: Refactor model architecture for better performance
