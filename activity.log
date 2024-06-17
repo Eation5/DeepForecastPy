@@ -3296,3 +3296,4 @@ Commit at 2024-06-14T17:13:18: Add examples for different use cases
 Commit at 2024-06-17T20:31:19: Improve documentation for API reference
 Commit at 2024-06-17T14:51:17: Optimize inference speed for edge devices
 Commit at 2024-06-17T19:45:40: Add examples for using the library
+Commit at 2024-06-17T19:59:31: Add support for bidirectional RNNs
