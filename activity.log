@@ -3310,3 +3310,4 @@ Commit at 2024-06-18T17:05:57: Add unit tests for preprocessing utilities
 Commit at 2024-06-18T11:49:17: Fix issue with model serialization
 Commit at 2024-06-18T19:08:07: Refactor utils for better code reuse
 Commit at 2024-06-18T11:33:14: Improve documentation for API reference
+Commit at 2024-06-18T11:23:15: Fix bug in LSTM layer initialization
