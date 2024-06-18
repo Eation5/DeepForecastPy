@@ -3303,3 +3303,4 @@ Commit at 2024-06-17T16:32:17: Add support for custom loss functions
 Commit at 2024-06-17T15:48:39: Improve error handling in model building
 Commit at 2024-06-18T12:36:42: Refactor utils for better code reuse
 Commit at 2024-06-18T18:48:19: Add support for multiple output steps
+Commit at 2024-06-18T09:03:20: Add new evaluation metrics for time series forecasting
