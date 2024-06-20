@@ -3315,3 +3315,4 @@ Commit at 2024-06-18T09:59:56: Update requirements for new dependencies
 Commit at 2024-06-20T19:03:28: Add examples for different use cases
 Commit at 2024-06-20T19:01:22: Update documentation for new features
 Commit at 2024-06-20T18:49:58: Update preprocessing pipeline to handle missing values
+Commit at 2024-06-20T15:56:44: Fix bug in LSTM layer initialization
