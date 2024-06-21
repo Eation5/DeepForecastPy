@@ -3324,3 +3324,4 @@ Commit at 2024-06-21T17:25:09: Fix issue with data normalization
 Commit at 2024-06-21T14:44:09: Optimize training loop for faster convergence
 Commit at 2024-06-21T15:15:42: Fix minor bug in data windowing
 Commit at 2024-06-21T21:22:18: Add support for custom loss functions
+Commit at 2024-06-21T12:48:22: Improve visualization functions for predictions
