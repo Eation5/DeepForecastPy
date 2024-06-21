@@ -3329,3 +3329,4 @@ Commit at 2024-06-21T13:33:06: Fix issue with model serialization
 Commit at 2024-06-21T09:53:25: Add support for data augmentation
 Commit at 2024-06-21T12:46:34: Fix minor bug in data windowing
 Commit at 2024-06-21T15:54:10: Refactor model architecture for better performance
+Commit at 2024-06-21T13:53:28: Add new evaluation metrics for time series forecasting
