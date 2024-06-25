@@ -3333,3 +3333,4 @@ Commit at 2024-06-21T13:53:28: Add new evaluation metrics for time series foreca
 Commit at 2024-06-21T15:33:27: Improve documentation for API reference
 Commit at 2024-06-24T09:38:52: Add unit tests for preprocessing utilities
 Commit at 2024-06-24T14:03:31: Improve documentation for API reference
+Commit at 2024-06-25T13:04:32: Add support for custom loss functions
