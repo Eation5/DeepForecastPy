@@ -3342,3 +3342,4 @@ Commit at 2024-06-27T13:47:03: Add support for data augmentation
 Commit at 2024-06-27T20:26:31: Update preprocessing pipeline to handle missing values
 Commit at 2024-06-27T15:15:06: Refactor model architecture for better performance
 Commit at 2024-06-27T20:38:44: Add new evaluation metrics for time series forecasting
+Commit at 2024-06-27T17:53:57: Update README with more detailed instructions
