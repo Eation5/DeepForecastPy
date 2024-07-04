@@ -3360,3 +3360,4 @@ Commit at 2024-07-03T14:10:26: Add support for pre-trained models
 Commit at 2024-07-04T11:13:39: Add examples for using the library
 Commit at 2024-07-04T21:46:29: Add support for data augmentation
 Commit at 2024-07-04T11:37:09: Add support for multiple output steps
+Commit at 2024-07-04T10:10:50: Add support for Transformer-based models
