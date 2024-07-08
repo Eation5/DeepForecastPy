@@ -3370,3 +3370,4 @@ Commit at 2024-07-08T14:29:46: Add support for custom loss functions
 Commit at 2024-07-08T11:39:10: Add support for GRU models
 Commit at 2024-07-08T20:42:55: Improve error handling in model building
 Commit at 2024-07-08T14:09:45: Optimize memory usage during training
+Commit at 2024-07-08T10:30:31: Refactor model architecture for better performance
