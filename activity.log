@@ -3367,3 +3367,4 @@ Commit at 2024-07-08T14:37:15: Improve documentation for API reference
 Commit at 2024-07-08T12:55:52: Add examples for different use cases
 Commit at 2024-07-08T21:08:26: Improve error handling in model building
 Commit at 2024-07-08T14:29:46: Add support for custom loss functions
+Commit at 2024-07-08T11:39:10: Add support for GRU models
