@@ -3368,3 +3368,4 @@ Commit at 2024-07-08T12:55:52: Add examples for different use cases
 Commit at 2024-07-08T21:08:26: Improve error handling in model building
 Commit at 2024-07-08T14:29:46: Add support for custom loss functions
 Commit at 2024-07-08T11:39:10: Add support for GRU models
+Commit at 2024-07-08T20:42:55: Improve error handling in model building
