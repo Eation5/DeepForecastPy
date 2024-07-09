@@ -3365,3 +3365,4 @@ Commit at 2024-07-08T20:04:11: Optimize memory usage during training
 Commit at 2024-07-08T14:58:25: Improve logging during model training
 Commit at 2024-07-08T14:37:15: Improve documentation for API reference
 Commit at 2024-07-08T12:55:52: Add examples for different use cases
+Commit at 2024-07-08T21:08:26: Improve error handling in model building
