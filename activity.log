@@ -3385,3 +3385,4 @@ Commit at 2024-07-12T10:20:56: Add unit tests for preprocessing utilities
 Commit at 2024-07-12T19:21:36: Improve error handling in model building
 Commit at 2024-07-15T21:57:24: Add support for custom loss functions
 Commit at 2024-07-15T11:55:33: Add support for data augmentation
+Commit at 2024-07-15T18:58:37: Update project structure for better organization
