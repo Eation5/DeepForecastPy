@@ -3389,3 +3389,4 @@ Commit at 2024-07-15T18:58:37: Update project structure for better organization
 Commit at 2024-07-15T09:06:12: Add support for pre-trained models
 Commit at 2024-07-15T15:57:32: Update documentation for new features
 Commit at 2024-07-15T11:21:35: Improve documentation for API reference
+Commit at 2024-07-15T11:14:38: Fix minor bug in data windowing
