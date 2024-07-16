@@ -3399,3 +3399,4 @@ Commit at 2024-07-16T12:37:16: Add support for bidirectional RNNs
 Commit at 2024-07-16T11:18:36: Update README with more detailed instructions
 Commit at 2024-07-16T20:24:12: Optimize memory usage during training
 Commit at 2024-07-16T09:51:43: Update preprocessing pipeline to handle missing values
+Commit at 2024-07-16T18:46:47: Fix bug in LSTM layer initialization
