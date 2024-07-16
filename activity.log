@@ -3395,3 +3395,4 @@ Commit at 2024-07-15T17:15:57: Update documentation for new features
 Commit at 2024-07-15T13:05:09: Add unit tests for preprocessing utilities
 Commit at 2024-07-15T09:40:59: Optimize memory usage during training
 Commit at 2024-07-16T15:38:17: Fix minor bug in data windowing
+Commit at 2024-07-16T12:37:16: Add support for bidirectional RNNs
