@@ -3402,3 +3402,4 @@ Commit at 2024-07-16T09:51:43: Update preprocessing pipeline to handle missing v
 Commit at 2024-07-16T18:46:47: Fix bug in LSTM layer initialization
 Commit at 2024-07-16T18:29:33: Refactor utils for better code reuse
 Commit at 2024-07-16T13:35:23: Add new evaluation metrics for time series forecasting
+Commit at 2024-07-16T14:16:37: Fix issue with data normalization
