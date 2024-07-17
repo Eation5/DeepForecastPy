@@ -3408,3 +3408,4 @@ Commit at 2024-07-16T11:30:44: Update preprocessing pipeline to handle missing v
 Commit at 2024-07-16T12:34:46: Update project structure for better organization
 Commit at 2024-07-17T20:58:03: Optimize inference speed for edge devices
 Commit at 2024-07-17T09:17:58: Update requirements for new dependencies
+Commit at 2024-07-17T13:49:47: Add examples for using the library
