@@ -3412,3 +3412,4 @@ Commit at 2024-07-17T13:49:47: Add examples for using the library
 Commit at 2024-07-17T10:29:40: Update preprocessing pipeline to handle missing values
 Commit at 2024-07-17T14:38:06: Add examples for different use cases
 Commit at 2024-07-17T12:06:55: Add examples for using the library
+Commit at 2024-07-17T19:07:57: Add support for custom loss functions
