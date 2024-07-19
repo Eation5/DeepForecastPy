@@ -3428,3 +3428,4 @@ Commit at 2024-07-19T16:52:15: Improve visualization functions for predictions
 Commit at 2024-07-19T16:45:33: Update documentation for new features
 Commit at 2024-07-19T17:25:01: Add support for bidirectional RNNs
 Commit at 2024-07-19T17:46:24: Add support for pre-trained models
+Commit at 2024-07-19T11:47:47: Add support for Transformer-based models
