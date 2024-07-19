@@ -3421,3 +3421,4 @@ Commit at 2024-07-18T11:44:20: Add support for pre-trained models
 Commit at 2024-07-18T09:09:08: Update requirements for new dependencies
 Commit at 2024-07-18T13:29:15: Fix issue with model serialization
 Commit at 2024-07-19T18:52:23: Refactor model architecture for better performance
+Commit at 2024-07-19T19:00:15: Update project structure for better organization
