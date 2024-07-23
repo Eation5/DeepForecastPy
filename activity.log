@@ -3431,3 +3431,4 @@ Commit at 2024-07-19T17:46:24: Add support for pre-trained models
 Commit at 2024-07-19T11:47:47: Add support for Transformer-based models
 Commit at 2024-07-19T20:20:35: Improve visualization functions for predictions
 Commit at 2024-07-23T18:52:53: Update documentation for new features
+Commit at 2024-07-23T15:21:37: Improve error handling in model building
