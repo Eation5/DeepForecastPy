@@ -3439,3 +3439,4 @@ Commit at 2024-07-23T16:12:26: Add support for GRU models
 Commit at 2024-07-24T18:28:20: Update documentation for new features
 Commit at 2024-07-24T18:28:50: Add unit tests for preprocessing utilities
 Commit at 2024-07-24T17:13:07: Add support for custom loss functions
+Commit at 2024-07-24T11:09:57: Add support for GRU models
