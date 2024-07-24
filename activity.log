@@ -3443,3 +3443,4 @@ Commit at 2024-07-24T11:09:57: Add support for GRU models
 Commit at 2024-07-24T11:59:29: Add support for multiple output steps
 Commit at 2024-07-24T13:26:15: Fix issue with data normalization
 Commit at 2024-07-24T09:10:17: Improve error handling in model building
+Commit at 2024-07-24T11:22:09: Improve logging during model training
