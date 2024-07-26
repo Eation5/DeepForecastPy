@@ -3452,3 +3452,4 @@ Commit at 2024-07-26T11:21:33: Fix issue with model serialization
 Commit at 2024-07-26T17:30:25: Add support for multiple output steps
 Commit at 2024-07-26T13:09:45: Fix bug in LSTM layer initialization
 Commit at 2024-07-26T16:55:57: Fix issue with data normalization
+Commit at 2024-07-26T09:20:36: Update requirements for new dependencies
