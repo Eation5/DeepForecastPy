@@ -3445,3 +3445,4 @@ Commit at 2024-07-24T13:26:15: Fix issue with data normalization
 Commit at 2024-07-24T09:10:17: Improve error handling in model building
 Commit at 2024-07-24T11:22:09: Improve logging during model training
 Commit at 2024-07-24T17:16:33: Update documentation for new features
+Commit at 2024-07-26T17:51:53: Update project structure for better organization
