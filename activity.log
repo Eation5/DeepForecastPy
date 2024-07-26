@@ -3450,3 +3450,4 @@ Commit at 2024-07-26T19:21:39: Improve error handling in model building
 Commit at 2024-07-26T13:51:00: Refactor utils for better code reuse
 Commit at 2024-07-26T11:21:33: Fix issue with model serialization
 Commit at 2024-07-26T17:30:25: Add support for multiple output steps
+Commit at 2024-07-26T13:09:45: Fix bug in LSTM layer initialization
