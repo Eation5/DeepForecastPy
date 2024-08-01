@@ -3474,3 +3474,4 @@ Commit at 2024-07-31T21:59:11: Update requirements for new dependencies
 Commit at 2024-07-31T17:00:31: Add examples for different use cases
 Commit at 2024-07-31T09:08:29: Update documentation for new features
 Commit at 2024-08-01T19:24:18: Update README with more detailed instructions
+Commit at 2024-08-01T09:15:14: Fix issue with data normalization
