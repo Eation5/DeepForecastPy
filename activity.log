@@ -3478,3 +3478,4 @@ Commit at 2024-08-01T09:15:14: Fix issue with data normalization
 Commit at 2024-08-01T13:33:31: Improve visualization functions for predictions
 Commit at 2024-08-01T16:49:35: Improve error handling in model building
 Commit at 2024-08-01T16:40:39: Fix issue with model serialization
+Commit at 2024-08-02T20:24:44: Improve error handling in model building
