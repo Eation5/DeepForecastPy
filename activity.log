@@ -3487,3 +3487,4 @@ Commit at 2024-08-05T14:06:45: Refactor model architecture for better performanc
 Commit at 2024-08-05T21:43:32: Fix minor bug in data windowing
 Commit at 2024-08-05T19:04:07: Optimize training loop for faster convergence
 Commit at 2024-08-05T12:42:13: Update README with more detailed instructions
+Commit at 2024-08-05T15:27:11: Refactor model architecture for better performance
