@@ -3498,3 +3498,4 @@ Commit at 2024-08-05T20:32:18: Fix bug in LSTM layer initialization
 Commit at 2024-08-06T18:20:06: Improve error handling in model building
 Commit at 2024-08-06T16:28:03: Fix minor bug in data windowing
 Commit at 2024-08-06T20:02:17: Add support for data augmentation
+Commit at 2024-08-06T18:56:36: Fix minor bug in data windowing
