@@ -3496,3 +3496,4 @@ Commit at 2024-08-05T13:53:38: Improve visualization functions for predictions
 Commit at 2024-08-05T20:19:39: Add support for pre-trained models
 Commit at 2024-08-05T20:32:18: Fix bug in LSTM layer initialization
 Commit at 2024-08-06T18:20:06: Improve error handling in model building
+Commit at 2024-08-06T16:28:03: Fix minor bug in data windowing
