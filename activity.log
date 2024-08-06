@@ -3491,3 +3491,4 @@ Commit at 2024-08-05T15:27:11: Refactor model architecture for better performanc
 Commit at 2024-08-05T18:06:54: Improve visualization functions for predictions
 Commit at 2024-08-05T14:41:02: Fix issue with data normalization
 Commit at 2024-08-05T12:31:53: Fix bug in LSTM layer initialization
+Commit at 2024-08-05T21:18:45: Update requirements for new dependencies
