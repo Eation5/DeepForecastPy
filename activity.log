@@ -3512,3 +3512,4 @@ Commit at 2024-08-08T20:40:12: Optimize data loading for large datasets
 Commit at 2024-08-08T21:02:03: Add support for custom loss functions
 Commit at 2024-08-08T10:26:15: Add support for custom loss functions
 Commit at 2024-08-08T20:52:50: Add examples for using the library
+Commit at 2024-08-08T14:33:32: Optimize memory usage during training
