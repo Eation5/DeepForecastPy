@@ -3514,3 +3514,4 @@ Commit at 2024-08-08T10:26:15: Add support for custom loss functions
 Commit at 2024-08-08T20:52:50: Add examples for using the library
 Commit at 2024-08-08T14:33:32: Optimize memory usage during training
 Commit at 2024-08-08T20:35:13: Add new evaluation metrics for time series forecasting
+Commit at 2024-08-08T21:39:42: Fix minor bug in data windowing
