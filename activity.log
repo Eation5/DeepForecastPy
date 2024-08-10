@@ -3521,3 +3521,4 @@ Commit at 2024-08-08T20:55:20: Fix minor bug in data windowing
 Commit at 2024-08-09T09:29:53: Optimize training loop for faster convergence
 Commit at 2024-08-09T12:23:53: Refactor utils for better code reuse
 Commit at 2024-08-09T13:27:16: Improve logging during model training
+Commit at 2024-08-09T20:05:07: Update documentation for new features
