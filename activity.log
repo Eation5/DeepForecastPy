@@ -3534,3 +3534,4 @@ Commit at 2024-08-12T18:37:26: Add support for pre-trained models
 Commit at 2024-08-13T10:22:12: Fix issue with model serialization
 Commit at 2024-08-13T15:10:07: Refactor utils for better code reuse
 Commit at 2024-08-13T11:34:23: Add support for GRU models
+Commit at 2024-08-13T14:29:12: Add examples for different use cases
