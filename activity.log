@@ -3536,3 +3536,4 @@ Commit at 2024-08-13T15:10:07: Refactor utils for better code reuse
 Commit at 2024-08-13T11:34:23: Add support for GRU models
 Commit at 2024-08-13T14:29:12: Add examples for different use cases
 Commit at 2024-08-13T12:58:42: Add new evaluation metrics for time series forecasting
+Commit at 2024-08-13T15:40:53: Update project structure for better organization
