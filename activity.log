@@ -3544,3 +3544,4 @@ Commit at 2024-08-14T15:59:12: Update documentation for new features
 Commit at 2024-08-14T21:35:31: Fix bug in LSTM layer initialization
 Commit at 2024-08-14T15:12:00: Refactor utils for better code reuse
 Commit at 2024-08-14T14:10:44: Optimize memory usage during training
+Commit at 2024-08-14T19:42:51: Add support for multiple output steps
