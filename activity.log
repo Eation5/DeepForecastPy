@@ -3548,3 +3548,4 @@ Commit at 2024-08-14T19:42:51: Add support for multiple output steps
 Commit at 2024-08-14T12:02:52: Add support for bidirectional RNNs
 Commit at 2024-08-14T20:24:44: Update documentation for new features
 Commit at 2024-08-14T12:06:37: Fix minor bug in data windowing
+Commit at 2024-08-14T17:31:54: Add new evaluation metrics for time series forecasting
