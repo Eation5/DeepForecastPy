@@ -3542,3 +3542,4 @@ Commit at 2024-08-13T19:20:10: Add new evaluation metrics for time series foreca
 Commit at 2024-08-14T18:25:59: Add examples for using the library
 Commit at 2024-08-14T15:59:12: Update documentation for new features
 Commit at 2024-08-14T21:35:31: Fix bug in LSTM layer initialization
+Commit at 2024-08-14T15:12:00: Refactor utils for better code reuse
