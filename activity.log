@@ -3555,3 +3555,4 @@ Commit at 2024-08-15T09:39:17: Refactor model architecture for better performanc
 Commit at 2024-08-15T10:52:46: Add new evaluation metrics for time series forecasting
 Commit at 2024-08-15T09:50:07: Optimize training loop for faster convergence
 Commit at 2024-08-15T18:17:32: Improve error handling in model building
+Commit at 2024-08-15T10:08:13: Add support for GRU models
