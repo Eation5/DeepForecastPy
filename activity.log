@@ -3564,3 +3564,4 @@ Commit at 2024-08-16T15:45:27: Add examples for using the library
 Commit at 2024-08-16T13:31:56: Improve visualization functions for predictions
 Commit at 2024-08-16T17:26:21: Refactor utils for better code reuse
 Commit at 2024-08-19T21:30:20: Add unit tests for preprocessing utilities
+Commit at 2024-08-19T10:40:27: Update requirements for new dependencies
