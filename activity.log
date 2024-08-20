@@ -3574,3 +3574,4 @@ Commit at 2024-08-20T15:11:56: Update README with more detailed instructions
 Commit at 2024-08-20T11:35:27: Optimize memory usage during training
 Commit at 2024-08-20T12:12:38: Add examples for using the library
 Commit at 2024-08-20T17:46:46: Optimize inference speed for edge devices
+Commit at 2024-08-20T11:41:58: Fix issue with data normalization
