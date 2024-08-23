@@ -3583,3 +3583,4 @@ Commit at 2024-08-21T12:11:36: Add support for multiple output steps
 Commit at 2024-08-21T14:58:52: Add support for pre-trained models
 Commit at 2024-08-22T17:56:53: Add examples for different use cases
 Commit at 2024-08-23T10:52:51: Fix minor bug in data windowing
+Commit at 2024-08-23T09:09:45: Add support for custom loss functions
