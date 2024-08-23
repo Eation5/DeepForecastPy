@@ -3588,3 +3588,4 @@ Commit at 2024-08-23T14:40:54: Fix minor bug in data windowing
 Commit at 2024-08-23T09:58:34: Fix issue with model serialization
 Commit at 2024-08-23T17:04:26: Add support for bidirectional RNNs
 Commit at 2024-08-23T18:59:01: Add support for Transformer-based models
+Commit at 2024-08-23T15:07:17: Add support for bidirectional RNNs
