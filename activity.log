@@ -3586,3 +3586,4 @@ Commit at 2024-08-23T10:52:51: Fix minor bug in data windowing
 Commit at 2024-08-23T09:09:45: Add support for custom loss functions
 Commit at 2024-08-23T14:40:54: Fix minor bug in data windowing
 Commit at 2024-08-23T09:58:34: Fix issue with model serialization
+Commit at 2024-08-23T17:04:26: Add support for bidirectional RNNs
