@@ -3592,3 +3592,4 @@ Commit at 2024-08-23T15:07:17: Add support for bidirectional RNNs
 Commit at 2024-08-26T16:04:11: Improve error handling in model building
 Commit at 2024-08-27T17:49:09: Fix minor bug in data windowing
 Commit at 2024-08-27T15:47:21: Update documentation for new features
+Commit at 2024-08-27T09:51:02: Add new evaluation metrics for time series forecasting
