@@ -3597,3 +3597,4 @@ Commit at 2024-08-27T14:33:43: Optimize training loop for faster convergence
 Commit at 2024-08-27T17:50:06: Add support for data augmentation
 Commit at 2024-08-28T19:20:45: Add support for Transformer-based models
 Commit at 2024-08-28T17:10:37: Optimize training loop for faster convergence
+Commit at 2024-08-28T14:50:57: Add support for Transformer-based models
