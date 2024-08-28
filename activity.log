@@ -3603,3 +3603,4 @@ Commit at 2024-08-28T12:48:03: Optimize memory usage during training
 Commit at 2024-08-28T11:21:57: Refactor utils for better code reuse
 Commit at 2024-08-28T09:31:22: Optimize memory usage during training
 Commit at 2024-08-28T16:14:07: Refactor utils for better code reuse
+Commit at 2024-08-28T16:23:39: Optimize inference speed for edge devices
