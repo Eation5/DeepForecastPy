@@ -3622,3 +3622,4 @@ Commit at 2024-08-30T09:46:02: Add new evaluation metrics for time series foreca
 Commit at 2024-08-30T13:13:04: Improve error handling in model building
 Commit at 2024-08-30T19:46:56: Add support for bidirectional RNNs
 Commit at 2024-08-30T16:35:16: Improve logging during model training
+Commit at 2024-08-30T13:14:48: Add support for bidirectional RNNs
