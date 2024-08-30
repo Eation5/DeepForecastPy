@@ -3615,3 +3615,4 @@ Commit at 2024-08-29T20:58:07: Update requirements for new dependencies
 Commit at 2024-08-29T20:01:45: Optimize training loop for faster convergence
 Commit at 2024-08-30T11:51:01: Add support for bidirectional RNNs
 Commit at 2024-08-30T13:58:10: Optimize training loop for faster convergence
+Commit at 2024-08-30T16:15:27: Improve visualization functions for predictions
