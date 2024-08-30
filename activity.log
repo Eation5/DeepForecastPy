@@ -3619,3 +3619,4 @@ Commit at 2024-08-30T16:15:27: Improve visualization functions for predictions
 Commit at 2024-08-30T16:04:09: Add support for multiple output steps
 Commit at 2024-08-30T13:37:47: Add support for bidirectional RNNs
 Commit at 2024-08-30T09:46:02: Add new evaluation metrics for time series forecasting
+Commit at 2024-08-30T13:13:04: Improve error handling in model building
