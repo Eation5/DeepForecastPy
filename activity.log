@@ -3611,3 +3611,4 @@ Commit at 2024-08-29T09:56:58: Add support for custom loss functions
 Commit at 2024-08-29T15:22:28: Add support for GRU models
 Commit at 2024-08-29T17:22:11: Add support for custom loss functions
 Commit at 2024-08-29T19:01:42: Improve error handling in model building
+Commit at 2024-08-29T20:58:07: Update requirements for new dependencies
