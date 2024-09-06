@@ -3642,3 +3642,4 @@ Commit at 2024-09-05T11:47:41: Improve error handling in model building
 Commit at 2024-09-05T11:42:39: Add support for Transformer-based models
 Commit at 2024-09-05T11:57:48: Improve error handling in model building
 Commit at 2024-09-05T14:35:22: Optimize memory usage during training
+Commit at 2024-09-05T20:18:51: Add support for Transformer-based models
