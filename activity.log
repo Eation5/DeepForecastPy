@@ -3647,3 +3647,4 @@ Commit at 2024-09-05T20:34:23: Fix bug in LSTM layer initialization
 Commit at 2024-09-05T20:19:14: Add examples for using the library
 Commit at 2024-09-06T20:02:17: Update project structure for better organization
 Commit at 2024-09-06T09:52:38: Optimize data loading for large datasets
+Commit at 2024-09-06T09:19:29: Fix issue with model serialization
