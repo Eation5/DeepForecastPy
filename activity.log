@@ -3653,3 +3653,4 @@ Commit at 2024-09-06T10:57:29: Optimize data loading for large datasets
 Commit at 2024-09-06T21:37:54: Add new evaluation metrics for time series forecasting
 Commit at 2024-09-06T10:30:00: Add examples for using the library
 Commit at 2024-09-06T20:10:13: Fix minor bug in data windowing
+Commit at 2024-09-06T10:07:04: Update requirements for new dependencies
