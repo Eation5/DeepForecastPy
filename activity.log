@@ -3650,3 +3650,4 @@ Commit at 2024-09-06T09:52:38: Optimize data loading for large datasets
 Commit at 2024-09-06T09:19:29: Fix issue with model serialization
 Commit at 2024-09-06T10:40:47: Optimize training loop for faster convergence
 Commit at 2024-09-06T10:57:29: Optimize data loading for large datasets
+Commit at 2024-09-06T21:37:54: Add new evaluation metrics for time series forecasting
