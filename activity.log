@@ -3645,3 +3645,4 @@ Commit at 2024-09-05T14:35:22: Optimize memory usage during training
 Commit at 2024-09-05T20:18:51: Add support for Transformer-based models
 Commit at 2024-09-05T20:34:23: Fix bug in LSTM layer initialization
 Commit at 2024-09-05T20:19:14: Add examples for using the library
+Commit at 2024-09-06T20:02:17: Update project structure for better organization
