@@ -3667,3 +3667,4 @@ Commit at 2024-09-09T12:15:54: Add support for custom loss functions
 Commit at 2024-09-09T16:05:53: Add support for bidirectional RNNs
 Commit at 2024-09-09T14:43:44: Add support for multiple output steps
 Commit at 2024-09-09T20:30:29: Optimize data loading for large datasets
+Commit at 2024-09-09T11:35:39: Fix issue with data normalization
