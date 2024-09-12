@@ -3684,3 +3684,4 @@ Commit at 2024-09-12T13:01:51: Fix bug in LSTM layer initialization
 Commit at 2024-09-12T17:33:13: Improve documentation for API reference
 Commit at 2024-09-12T14:10:02: Add examples for using the library
 Commit at 2024-09-12T11:18:56: Update preprocessing pipeline to handle missing values
+Commit at 2024-09-12T10:34:22: Add examples for different use cases
