@@ -3682,3 +3682,4 @@ Commit at 2024-09-12T19:00:07: Update preprocessing pipeline to handle missing v
 Commit at 2024-09-12T11:28:25: Update project structure for better organization
 Commit at 2024-09-12T13:01:51: Fix bug in LSTM layer initialization
 Commit at 2024-09-12T17:33:13: Improve documentation for API reference
+Commit at 2024-09-12T14:10:02: Add examples for using the library
