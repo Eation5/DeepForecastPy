@@ -3704,3 +3704,4 @@ Commit at 2024-09-16T17:12:29: Update README with more detailed instructions
 Commit at 2024-09-16T11:53:00: Update preprocessing pipeline to handle missing values
 Commit at 2024-09-17T21:44:38: Optimize inference speed for edge devices
 Commit at 2024-09-17T10:30:24: Add support for GRU models
+Commit at 2024-09-17T09:08:05: Improve documentation for API reference
