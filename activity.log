@@ -3710,3 +3710,4 @@ Commit at 2024-09-18T18:57:08: Add support for Transformer-based models
 Commit at 2024-09-18T13:05:37: Optimize training loop for faster convergence
 Commit at 2024-09-18T16:57:31: Improve visualization functions for predictions
 Commit at 2024-09-18T16:06:49: Improve error handling in model building
+Commit at 2024-09-18T10:32:15: Fix issue with model serialization
