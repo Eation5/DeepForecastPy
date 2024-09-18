@@ -3707,3 +3707,4 @@ Commit at 2024-09-17T10:30:24: Add support for GRU models
 Commit at 2024-09-17T09:08:05: Improve documentation for API reference
 Commit at 2024-09-18T11:36:23: Refactor utils for better code reuse
 Commit at 2024-09-18T18:57:08: Add support for Transformer-based models
+Commit at 2024-09-18T13:05:37: Optimize training loop for faster convergence
