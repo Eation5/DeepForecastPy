@@ -3709,3 +3709,4 @@ Commit at 2024-09-18T11:36:23: Refactor utils for better code reuse
 Commit at 2024-09-18T18:57:08: Add support for Transformer-based models
 Commit at 2024-09-18T13:05:37: Optimize training loop for faster convergence
 Commit at 2024-09-18T16:57:31: Improve visualization functions for predictions
+Commit at 2024-09-18T16:06:49: Improve error handling in model building
