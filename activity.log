@@ -3712,3 +3712,4 @@ Commit at 2024-09-18T16:57:31: Improve visualization functions for predictions
 Commit at 2024-09-18T16:06:49: Improve error handling in model building
 Commit at 2024-09-18T10:32:15: Fix issue with model serialization
 Commit at 2024-09-18T14:59:31: Fix issue with model serialization
+Commit at 2024-09-18T18:40:19: Update requirements for new dependencies
