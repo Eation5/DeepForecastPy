@@ -3732,3 +3732,4 @@ Commit at 2024-09-20T15:32:00: Refactor model architecture for better performanc
 Commit at 2024-09-23T14:09:46: Update preprocessing pipeline to handle missing values
 Commit at 2024-09-23T18:14:58: Improve documentation for API reference
 Commit at 2024-09-23T09:33:15: Add examples for different use cases
+Commit at 2024-09-24T11:29:05: Add examples for using the library
