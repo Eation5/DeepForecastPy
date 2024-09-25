@@ -3733,3 +3733,4 @@ Commit at 2024-09-23T14:09:46: Update preprocessing pipeline to handle missing v
 Commit at 2024-09-23T18:14:58: Improve documentation for API reference
 Commit at 2024-09-23T09:33:15: Add examples for different use cases
 Commit at 2024-09-24T11:29:05: Add examples for using the library
+Commit at 2024-09-24T21:52:58: Optimize training loop for faster convergence
