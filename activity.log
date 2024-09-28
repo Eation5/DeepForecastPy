@@ -3754,3 +3754,4 @@ Commit at 2024-09-27T13:28:44: Fix bug in LSTM layer initialization
 Commit at 2024-09-27T09:39:44: Optimize inference speed for edge devices
 Commit at 2024-09-27T13:00:16: Add unit tests for preprocessing utilities
 Commit at 2024-09-27T10:08:02: Add support for bidirectional RNNs
+Commit at 2024-09-27T20:28:06: Improve logging during model training
