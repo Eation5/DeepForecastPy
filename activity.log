@@ -3764,3 +3764,4 @@ Commit at 2024-09-30T11:25:03: Update README with more detailed instructions
 Commit at 2024-09-30T10:26:17: Optimize training loop for faster convergence
 Commit at 2024-09-30T10:36:53: Add support for custom loss functions
 Commit at 2024-09-30T17:27:51: Add support for GRU models
+Commit at 2024-09-30T15:00:57: Update README with more detailed instructions
