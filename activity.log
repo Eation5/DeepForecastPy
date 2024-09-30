@@ -3759,3 +3759,4 @@ Commit at 2024-09-27T15:50:04: Add support for multiple output steps
 Commit at 2024-09-30T12:23:31: Add support for Transformer-based models
 Commit at 2024-09-30T18:40:02: Optimize memory usage during training
 Commit at 2024-09-30T18:01:11: Improve logging during model training
+Commit at 2024-09-30T14:16:44: Refactor model architecture for better performance
