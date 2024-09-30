@@ -3756,3 +3756,4 @@ Commit at 2024-09-27T13:00:16: Add unit tests for preprocessing utilities
 Commit at 2024-09-27T10:08:02: Add support for bidirectional RNNs
 Commit at 2024-09-27T20:28:06: Improve logging during model training
 Commit at 2024-09-27T15:50:04: Add support for multiple output steps
+Commit at 2024-09-30T12:23:31: Add support for Transformer-based models
