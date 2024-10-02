@@ -3768,3 +3768,4 @@ Commit at 2024-09-30T15:00:57: Update README with more detailed instructions
 Commit at 2024-09-30T11:54:10: Optimize training loop for faster convergence
 Commit at 2024-10-01T18:21:07: Add examples for different use cases
 Commit at 2024-10-02T17:54:47: Improve documentation for API reference
+Commit at 2024-10-02T16:43:55: Fix minor bug in data windowing
