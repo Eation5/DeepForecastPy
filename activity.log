@@ -3775,3 +3775,4 @@ Commit at 2024-10-02T09:34:29: Refactor utils for better code reuse
 Commit at 2024-10-03T20:54:18: Add support for pre-trained models
 Commit at 2024-10-03T15:00:27: Refactor model architecture for better performance
 Commit at 2024-10-03T15:48:06: Add new evaluation metrics for time series forecasting
+Commit at 2024-10-03T18:33:26: Improve logging during model training
