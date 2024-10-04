@@ -3779,3 +3779,4 @@ Commit at 2024-10-03T18:33:26: Improve logging during model training
 Commit at 2024-10-03T20:51:57: Add examples for using the library
 Commit at 2024-10-03T21:27:36: Fix minor bug in data windowing
 Commit at 2024-10-03T21:16:05: Improve documentation for API reference
+Commit at 2024-10-03T21:37:46: Refactor utils for better code reuse
