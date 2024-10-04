@@ -3772,3 +3772,4 @@ Commit at 2024-10-02T16:43:55: Fix minor bug in data windowing
 Commit at 2024-10-02T20:37:39: Improve visualization functions for predictions
 Commit at 2024-10-02T13:00:16: Improve logging during model training
 Commit at 2024-10-02T09:34:29: Refactor utils for better code reuse
+Commit at 2024-10-03T20:54:18: Add support for pre-trained models
