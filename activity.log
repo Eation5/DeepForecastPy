@@ -3792,3 +3792,4 @@ Commit at 2024-10-04T19:23:08: Fix minor bug in data windowing
 Commit at 2024-10-04T10:53:50: Add support for Transformer-based models
 Commit at 2024-10-07T09:13:49: Improve visualization functions for predictions
 Commit at 2024-10-07T14:16:06: Refactor utils for better code reuse
+Commit at 2024-10-07T14:32:16: Add examples for using the library
