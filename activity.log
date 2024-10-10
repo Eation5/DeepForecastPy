@@ -3804,3 +3804,4 @@ Commit at 2024-10-08T19:31:30: Optimize inference speed for edge devices
 Commit at 2024-10-08T15:53:19: Fix bug in LSTM layer initialization
 Commit at 2024-10-08T19:16:26: Improve documentation for API reference
 Commit at 2024-10-09T11:34:14: Fix bug in LSTM layer initialization
+Commit at 2024-10-09T21:38:31: Improve error handling in model building
