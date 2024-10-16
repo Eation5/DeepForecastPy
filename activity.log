@@ -3829,3 +3829,4 @@ Commit at 2024-10-14T11:16:32: Fix issue with model serialization
 Commit at 2024-10-14T13:20:44: Fix issue with model serialization
 Commit at 2024-10-16T09:37:34: Improve documentation for API reference
 Commit at 2024-10-16T12:46:03: Improve documentation for API reference
+Commit at 2024-10-16T16:13:02: Add support for custom loss functions
