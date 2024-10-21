@@ -3841,3 +3841,4 @@ Commit at 2024-10-17T19:56:18: Improve logging during model training
 Commit at 2024-10-17T20:40:39: Update preprocessing pipeline to handle missing values
 Commit at 2024-10-21T14:27:00: Fix issue with model serialization
 Commit at 2024-10-21T19:45:35: Fix bug in LSTM layer initialization
+Commit at 2024-10-21T17:03:45: Update README with more detailed instructions
