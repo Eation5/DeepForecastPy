@@ -3849,3 +3849,4 @@ Commit at 2024-10-21T14:09:52: Refactor model architecture for better performanc
 Commit at 2024-10-21T16:21:38: Fix bug in LSTM layer initialization
 Commit at 2024-10-21T16:23:50: Update preprocessing pipeline to handle missing values
 Commit at 2024-10-21T15:32:37: Add support for bidirectional RNNs
+Commit at 2024-10-21T17:51:16: Add support for Transformer-based models
