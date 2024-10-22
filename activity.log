@@ -3855,3 +3855,4 @@ Commit at 2024-10-22T20:47:30: Improve logging during model training
 Commit at 2024-10-22T19:18:05: Fix bug in LSTM layer initialization
 Commit at 2024-10-22T21:35:06: Update project structure for better organization
 Commit at 2024-10-22T19:26:41: Update documentation for new features
+Commit at 2024-10-22T15:40:45: Add support for custom loss functions
