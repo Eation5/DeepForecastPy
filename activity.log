@@ -3860,3 +3860,4 @@ Commit at 2024-10-22T14:26:02: Add support for custom loss functions
 Commit at 2024-10-22T09:56:41: Update README with more detailed instructions
 Commit at 2024-10-23T17:38:25: Update requirements for new dependencies
 Commit at 2024-10-23T10:35:40: Optimize training loop for faster convergence
+Commit at 2024-10-24T19:37:50: Fix issue with model serialization
