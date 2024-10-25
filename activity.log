@@ -3869,3 +3869,4 @@ Commit at 2024-10-25T09:43:30: Refactor utils for better code reuse
 Commit at 2024-10-25T20:19:40: Improve visualization functions for predictions
 Commit at 2024-10-25T14:11:03: Optimize memory usage during training
 Commit at 2024-10-25T19:21:41: Update requirements for new dependencies
+Commit at 2024-10-25T14:41:37: Fix bug in LSTM layer initialization
