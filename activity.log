@@ -3873,3 +3873,4 @@ Commit at 2024-10-25T14:41:37: Fix bug in LSTM layer initialization
 Commit at 2024-10-28T14:01:10: Improve documentation for API reference
 Commit at 2024-10-28T11:12:50: Refactor utils for better code reuse
 Commit at 2024-10-29T14:00:16: Add support for multiple output steps
+Commit at 2024-10-29T16:02:22: Add support for multiple output steps
