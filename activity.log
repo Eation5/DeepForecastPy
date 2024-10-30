@@ -3878,3 +3878,4 @@ Commit at 2024-10-29T13:50:41: Add support for multiple output steps
 Commit at 2024-10-29T18:40:59: Fix issue with model serialization
 Commit at 2024-10-29T16:27:29: Fix issue with model serialization
 Commit at 2024-10-29T10:03:18: Add support for custom loss functions
+Commit at 2024-10-29T21:16:01: Add examples for using the library
