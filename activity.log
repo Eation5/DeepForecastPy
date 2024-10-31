@@ -3883,3 +3883,4 @@ Commit at 2024-10-30T16:23:41: Improve logging during model training
 Commit at 2024-10-31T10:34:06: Improve logging during model training
 Commit at 2024-10-31T11:50:14: Fix bug in LSTM layer initialization
 Commit at 2024-10-31T18:42:37: Update requirements for new dependencies
+Commit at 2024-10-31T09:57:31: Update documentation for new features
