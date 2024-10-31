@@ -3880,3 +3880,4 @@ Commit at 2024-10-29T16:27:29: Fix issue with model serialization
 Commit at 2024-10-29T10:03:18: Add support for custom loss functions
 Commit at 2024-10-29T21:16:01: Add examples for using the library
 Commit at 2024-10-30T16:23:41: Improve logging during model training
+Commit at 2024-10-31T10:34:06: Improve logging during model training
