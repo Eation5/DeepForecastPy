@@ -2,3 +2,4 @@ Commit at 2024-11-01T16:23:58: Add support for pre-trained models
 Commit at 2024-11-01T21:59:42: Improve error handling in model building
 Commit at 2024-11-04T20:44:16: Add unit tests for preprocessing utilities
 Commit at 2024-11-04T20:22:35: Improve logging during model training
+Commit at 2024-11-04T11:05:55: Improve visualization functions for predictions
