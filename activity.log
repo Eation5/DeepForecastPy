@@ -9,3 +9,4 @@ Commit at 2024-11-05T12:25:00: Add support for Transformer-based models
 Commit at 2024-11-05T11:37:15: Add support for multiple output steps
 Commit at 2024-11-05T15:52:49: Improve logging during model training
 Commit at 2024-11-05T12:30:05: Update README with more detailed instructions
+Commit at 2024-11-05T10:17:58: Improve logging during model training
