@@ -24,3 +24,4 @@ Commit at 2024-11-07T14:08:22: Optimize inference speed for edge devices
 Commit at 2024-11-07T17:24:49: Improve documentation for API reference
 Commit at 2024-11-07T15:30:35: Add examples for different use cases
 Commit at 2024-11-07T09:37:11: Fix issue with model serialization
+Commit at 2024-11-07T18:31:51: Add support for bidirectional RNNs
