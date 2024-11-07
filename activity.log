@@ -17,3 +17,4 @@ Commit at 2024-11-06T18:47:11: Fix bug in LSTM layer initialization
 Commit at 2024-11-06T20:07:43: Improve logging during model training
 Commit at 2024-11-06T16:47:51: Fix minor bug in data windowing
 Commit at 2024-11-06T15:41:40: Fix issue with model serialization
+Commit at 2024-11-07T18:15:48: Update requirements for new dependencies
