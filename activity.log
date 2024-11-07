@@ -21,3 +21,4 @@ Commit at 2024-11-07T18:15:48: Update requirements for new dependencies
 Commit at 2024-11-07T13:48:13: Update preprocessing pipeline to handle missing values
 Commit at 2024-11-07T13:37:18: Add support for bidirectional RNNs
 Commit at 2024-11-07T14:08:22: Optimize inference speed for edge devices
+Commit at 2024-11-07T17:24:49: Improve documentation for API reference
