@@ -26,3 +26,4 @@ Commit at 2024-11-07T15:30:35: Add examples for different use cases
 Commit at 2024-11-07T09:37:11: Fix issue with model serialization
 Commit at 2024-11-07T18:31:51: Add support for bidirectional RNNs
 Commit at 2024-11-08T13:13:13: Add support for Transformer-based models
+Commit at 2024-11-08T21:30:52: Optimize training loop for faster convergence
