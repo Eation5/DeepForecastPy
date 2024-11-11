@@ -31,3 +31,4 @@ Commit at 2024-11-11T19:41:03: Improve documentation for API reference
 Commit at 2024-11-11T13:28:27: Add unit tests for preprocessing utilities
 Commit at 2024-11-11T21:13:18: Fix minor bug in data windowing
 Commit at 2024-11-11T18:40:02: Fix issue with data normalization
+Commit at 2024-11-11T10:01:31: Optimize memory usage during training
