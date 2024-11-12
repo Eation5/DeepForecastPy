@@ -34,3 +34,4 @@ Commit at 2024-11-11T18:40:02: Fix issue with data normalization
 Commit at 2024-11-11T10:01:31: Optimize memory usage during training
 Commit at 2024-11-11T12:25:22: Fix minor bug in data windowing
 Commit at 2024-11-11T21:11:20: Add support for Transformer-based models
+Commit at 2024-11-11T19:56:43: Improve visualization functions for predictions
