@@ -39,3 +39,4 @@ Commit at 2024-11-11T11:47:27: Update project structure for better organization
 Commit at 2024-11-12T18:06:53: Fix issue with data normalization
 Commit at 2024-11-12T14:04:49: Optimize training loop for faster convergence
 Commit at 2024-11-12T17:38:45: Add support for custom loss functions
+Commit at 2024-11-12T18:16:29: Update requirements for new dependencies
