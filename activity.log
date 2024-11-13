@@ -43,3 +43,4 @@ Commit at 2024-11-12T18:16:29: Update requirements for new dependencies
 Commit at 2024-11-12T15:46:49: Update project structure for better organization
 Commit at 2024-11-12T21:31:09: Add support for pre-trained models
 Commit at 2024-11-13T16:38:49: Optimize data loading for large datasets
+Commit at 2024-11-13T10:10:26: Add support for custom loss functions
