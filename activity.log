@@ -53,3 +53,4 @@ Commit at 2024-11-14T12:20:38: Improve visualization functions for predictions
 Commit at 2024-11-14T12:51:49: Add support for GRU models
 Commit at 2024-11-14T14:26:02: Add support for custom loss functions
 Commit at 2024-11-14T19:36:39: Fix issue with data normalization
+Commit at 2024-11-14T12:27:56: Add examples for using the library
