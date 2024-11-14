@@ -48,3 +48,4 @@ Commit at 2024-11-13T12:49:16: Fix issue with data normalization
 Commit at 2024-11-13T16:30:14: Update project structure for better organization
 Commit at 2024-11-13T09:19:44: Improve logging during model training
 Commit at 2024-11-14T16:48:39: Improve visualization functions for predictions
+Commit at 2024-11-14T16:43:12: Fix issue with data normalization
