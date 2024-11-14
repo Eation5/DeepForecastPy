@@ -50,3 +50,4 @@ Commit at 2024-11-13T09:19:44: Improve logging during model training
 Commit at 2024-11-14T16:48:39: Improve visualization functions for predictions
 Commit at 2024-11-14T16:43:12: Fix issue with data normalization
 Commit at 2024-11-14T12:20:38: Improve visualization functions for predictions
+Commit at 2024-11-14T12:51:49: Add support for GRU models
