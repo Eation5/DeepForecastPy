@@ -60,3 +60,4 @@ Commit at 2024-11-14T12:49:29: Update project structure for better organization
 Commit at 2024-11-14T13:11:21: Update README with more detailed instructions
 Commit at 2024-11-14T10:55:57: Update README with more detailed instructions
 Commit at 2024-11-14T13:08:11: Add support for bidirectional RNNs
+Commit at 2024-11-14T09:49:37: Optimize data loading for large datasets
