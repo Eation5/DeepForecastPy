@@ -66,3 +66,4 @@ Commit at 2024-11-15T14:52:56: Refactor utils for better code reuse
 Commit at 2024-11-15T15:29:54: Fix issue with model serialization
 Commit at 2024-11-15T12:49:04: Add support for bidirectional RNNs
 Commit at 2024-11-15T17:30:43: Add support for Transformer-based models
+Commit at 2024-11-15T15:44:06: Add support for Transformer-based models
