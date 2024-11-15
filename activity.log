@@ -68,3 +68,4 @@ Commit at 2024-11-15T12:49:04: Add support for bidirectional RNNs
 Commit at 2024-11-15T17:30:43: Add support for Transformer-based models
 Commit at 2024-11-15T15:44:06: Add support for Transformer-based models
 Commit at 2024-11-15T21:15:35: Add unit tests for preprocessing utilities
+Commit at 2024-11-15T14:15:27: Fix issue with data normalization
