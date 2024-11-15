@@ -64,3 +64,4 @@ Commit at 2024-11-14T09:49:37: Optimize data loading for large datasets
 Commit at 2024-11-14T09:58:43: Add support for multiple output steps
 Commit at 2024-11-15T14:52:56: Refactor utils for better code reuse
 Commit at 2024-11-15T15:29:54: Fix issue with model serialization
+Commit at 2024-11-15T12:49:04: Add support for bidirectional RNNs
