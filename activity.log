@@ -79,3 +79,4 @@ Commit at 2024-11-18T12:59:01: Add support for custom loss functions
 Commit at 2024-11-18T21:41:19: Add new evaluation metrics for time series forecasting
 Commit at 2024-11-18T21:38:30: Update documentation for new features
 Commit at 2024-11-18T20:52:00: Add support for pre-trained models
+Commit at 2024-11-18T14:55:41: Add examples for different use cases
