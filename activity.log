@@ -77,3 +77,4 @@ Commit at 2024-11-18T18:17:43: Add examples for using the library
 Commit at 2024-11-18T09:21:33: Improve visualization functions for predictions
 Commit at 2024-11-18T12:59:01: Add support for custom loss functions
 Commit at 2024-11-18T21:41:19: Add new evaluation metrics for time series forecasting
+Commit at 2024-11-18T21:38:30: Update documentation for new features
