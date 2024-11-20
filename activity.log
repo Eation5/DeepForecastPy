@@ -84,3 +84,4 @@ Commit at 2024-11-18T19:16:40: Fix issue with data normalization
 Commit at 2024-11-20T15:06:52: Fix issue with data normalization
 Commit at 2024-11-20T11:32:25: Fix minor bug in data windowing
 Commit at 2024-11-20T14:10:24: Improve logging during model training
+Commit at 2024-11-20T11:22:30: Refactor utils for better code reuse
