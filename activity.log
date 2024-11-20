@@ -89,3 +89,4 @@ Commit at 2024-11-20T18:33:19: Update preprocessing pipeline to handle missing v
 Commit at 2024-11-20T15:20:14: Add examples for using the library
 Commit at 2024-11-20T17:13:15: Add examples for using the library
 Commit at 2024-11-20T18:43:25: Improve documentation for API reference
+Commit at 2024-11-20T18:04:56: Add support for GRU models
