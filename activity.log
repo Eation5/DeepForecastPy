@@ -86,3 +86,4 @@ Commit at 2024-11-20T11:32:25: Fix minor bug in data windowing
 Commit at 2024-11-20T14:10:24: Improve logging during model training
 Commit at 2024-11-20T11:22:30: Refactor utils for better code reuse
 Commit at 2024-11-20T18:33:19: Update preprocessing pipeline to handle missing values
+Commit at 2024-11-20T15:20:14: Add examples for using the library
