@@ -82,3 +82,4 @@ Commit at 2024-11-18T20:52:00: Add support for pre-trained models
 Commit at 2024-11-18T14:55:41: Add examples for different use cases
 Commit at 2024-11-18T19:16:40: Fix issue with data normalization
 Commit at 2024-11-20T15:06:52: Fix issue with data normalization
+Commit at 2024-11-20T11:32:25: Fix minor bug in data windowing
