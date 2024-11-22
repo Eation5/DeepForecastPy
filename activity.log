@@ -94,3 +94,4 @@ Commit at 2024-11-21T13:55:33: Refactor utils for better code reuse
 Commit at 2024-11-22T20:23:40: Add examples for different use cases
 Commit at 2024-11-22T16:08:24: Optimize data loading for large datasets
 Commit at 2024-11-22T09:03:17: Fix minor bug in data windowing
+Commit at 2024-11-22T12:26:57: Fix issue with model serialization
