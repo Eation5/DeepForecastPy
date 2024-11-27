@@ -98,3 +98,4 @@ Commit at 2024-11-22T12:26:57: Fix issue with model serialization
 Commit at 2024-11-25T16:31:29: Update preprocessing pipeline to handle missing values
 Commit at 2024-11-26T16:25:52: Add support for GRU models
 Commit at 2024-11-26T19:37:12: Add unit tests for preprocessing utilities
+Commit at 2024-11-26T19:29:57: Update project structure for better organization
