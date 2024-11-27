@@ -101,3 +101,4 @@ Commit at 2024-11-26T19:37:12: Add unit tests for preprocessing utilities
 Commit at 2024-11-26T19:29:57: Update project structure for better organization
 Commit at 2024-11-26T10:21:13: Optimize training loop for faster convergence
 Commit at 2024-11-27T15:59:54: Add support for Transformer-based models
+Commit at 2024-11-27T10:47:28: Add support for pre-trained models
