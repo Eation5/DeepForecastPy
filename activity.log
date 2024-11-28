@@ -103,3 +103,4 @@ Commit at 2024-11-26T10:21:13: Optimize training loop for faster convergence
 Commit at 2024-11-27T15:59:54: Add support for Transformer-based models
 Commit at 2024-11-27T10:47:28: Add support for pre-trained models
 Commit at 2024-11-27T11:34:09: Optimize inference speed for edge devices
+Commit at 2024-11-28T09:16:19: Add support for bidirectional RNNs
