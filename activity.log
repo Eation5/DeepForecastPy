@@ -108,3 +108,4 @@ Commit at 2024-11-28T21:34:58: Improve documentation for API reference
 Commit at 2024-11-28T14:46:52: Optimize data loading for large datasets
 Commit at 2024-12-02T12:03:22: Optimize data loading for large datasets
 Commit at 2024-12-02T10:43:13: Fix minor bug in data windowing
+Commit at 2024-12-02T12:56:13: Add support for custom loss functions
