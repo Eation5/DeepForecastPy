@@ -112,3 +112,4 @@ Commit at 2024-12-02T12:56:13: Add support for custom loss functions
 Commit at 2024-12-02T17:45:52: Optimize training loop for faster convergence
 Commit at 2024-12-02T11:43:29: Update documentation for new features
 Commit at 2024-12-02T12:57:46: Add support for custom loss functions
+Commit at 2024-12-02T12:29:43: Add examples for using the library
