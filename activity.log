@@ -128,3 +128,4 @@ Commit at 2024-12-03T10:49:30: Add unit tests for preprocessing utilities
 Commit at 2024-12-03T16:45:36: Add support for custom loss functions
 Commit at 2024-12-03T16:04:26: Add support for multiple output steps
 Commit at 2024-12-03T15:01:56: Fix bug in LSTM layer initialization
+Commit at 2024-12-03T10:25:30: Optimize inference speed for edge devices
