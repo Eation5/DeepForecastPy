@@ -142,3 +142,4 @@ Commit at 2024-12-04T16:24:20: Optimize data loading for large datasets
 Commit at 2024-12-04T14:32:05: Update documentation for new features
 Commit at 2024-12-04T16:28:00: Add support for pre-trained models
 Commit at 2024-12-04T16:26:26: Fix minor bug in data windowing
+Commit at 2024-12-04T15:43:13: Update project structure for better organization
