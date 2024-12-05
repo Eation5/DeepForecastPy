@@ -147,3 +147,4 @@ Commit at 2024-12-04T15:13:55: Add examples for using the library
 Commit at 2024-12-04T21:59:47: Add support for multiple output steps
 Commit at 2024-12-04T12:25:04: Fix issue with data normalization
 Commit at 2024-12-04T18:41:03: Update preprocessing pipeline to handle missing values
+Commit at 2024-12-05T09:41:13: Add support for pre-trained models
