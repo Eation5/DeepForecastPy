@@ -144,3 +144,4 @@ Commit at 2024-12-04T16:28:00: Add support for pre-trained models
 Commit at 2024-12-04T16:26:26: Fix minor bug in data windowing
 Commit at 2024-12-04T15:43:13: Update project structure for better organization
 Commit at 2024-12-04T15:13:55: Add examples for using the library
+Commit at 2024-12-04T21:59:47: Add support for multiple output steps
