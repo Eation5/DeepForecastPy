@@ -159,3 +159,4 @@ Commit at 2024-12-06T12:44:47: Optimize memory usage during training
 Commit at 2024-12-06T18:47:13: Add support for GRU models
 Commit at 2024-12-06T14:25:43: Add support for Transformer-based models
 Commit at 2024-12-06T19:18:58: Improve visualization functions for predictions
+Commit at 2024-12-06T17:41:48: Refactor utils for better code reuse
