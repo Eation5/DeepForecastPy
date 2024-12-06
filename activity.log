@@ -157,3 +157,4 @@ Commit at 2024-12-06T15:59:31: Improve documentation for API reference
 Commit at 2024-12-06T10:24:40: Add new evaluation metrics for time series forecasting
 Commit at 2024-12-06T12:44:47: Optimize memory usage during training
 Commit at 2024-12-06T18:47:13: Add support for GRU models
+Commit at 2024-12-06T14:25:43: Add support for Transformer-based models
