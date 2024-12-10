@@ -163,3 +163,4 @@ Commit at 2024-12-06T17:41:48: Refactor utils for better code reuse
 Commit at 2024-12-06T15:05:50: Fix minor bug in data windowing
 Commit at 2024-12-10T15:03:19: Improve logging during model training
 Commit at 2024-12-10T15:46:11: Update requirements for new dependencies
+Commit at 2024-12-10T12:41:12: Fix bug in LSTM layer initialization
