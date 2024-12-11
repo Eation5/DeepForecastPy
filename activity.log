@@ -170,3 +170,4 @@ Commit at 2024-12-10T17:49:19: Optimize inference speed for edge devices
 Commit at 2024-12-10T11:42:23: Improve error handling in model building
 Commit at 2024-12-10T17:13:59: Fix issue with model serialization
 Commit at 2024-12-10T16:14:00: Improve error handling in model building
+Commit at 2024-12-10T21:15:41: Add support for multiple output steps
