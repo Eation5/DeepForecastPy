@@ -175,3 +175,4 @@ Commit at 2024-12-10T19:00:37: Fix issue with data normalization
 Commit at 2024-12-10T19:59:16: Optimize data loading for large datasets
 Commit at 2024-12-11T17:55:37: Add support for bidirectional RNNs
 Commit at 2024-12-11T14:04:20: Add new evaluation metrics for time series forecasting
+Commit at 2024-12-11T21:55:24: Add support for custom loss functions
