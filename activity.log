@@ -190,3 +190,4 @@ Commit at 2024-12-12T13:12:40: Update preprocessing pipeline to handle missing v
 Commit at 2024-12-13T11:38:57: Add support for data augmentation
 Commit at 2024-12-13T09:38:16: Update README with more detailed instructions
 Commit at 2024-12-13T18:45:53: Add support for Transformer-based models
+Commit at 2024-12-13T10:10:34: Fix bug in LSTM layer initialization
