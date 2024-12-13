@@ -178,3 +178,4 @@ Commit at 2024-12-11T14:04:20: Add new evaluation metrics for time series foreca
 Commit at 2024-12-11T21:55:24: Add support for custom loss functions
 Commit at 2024-12-11T14:04:11: Fix issue with data normalization
 Commit at 2024-12-12T10:16:07: Improve visualization functions for predictions
+Commit at 2024-12-12T19:18:19: Fix issue with model serialization
