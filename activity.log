@@ -210,3 +210,4 @@ Commit at 2024-12-18T20:00:06: Add examples for using the library
 Commit at 2024-12-18T10:38:47: Update requirements for new dependencies
 Commit at 2024-12-18T13:52:09: Fix issue with model serialization
 Commit at 2024-12-18T11:08:42: Add support for Transformer-based models
+Commit at 2024-12-18T11:30:51: Add unit tests for preprocessing utilities
