@@ -211,3 +211,4 @@ Commit at 2024-12-18T10:38:47: Update requirements for new dependencies
 Commit at 2024-12-18T13:52:09: Fix issue with model serialization
 Commit at 2024-12-18T11:08:42: Add support for Transformer-based models
 Commit at 2024-12-18T11:30:51: Add unit tests for preprocessing utilities
+Commit at 2024-12-18T12:59:00: Refactor utils for better code reuse
