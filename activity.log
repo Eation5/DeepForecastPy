@@ -220,3 +220,4 @@ Commit at 2024-12-19T11:31:58: Add examples for different use cases
 Commit at 2024-12-19T15:16:23: Update preprocessing pipeline to handle missing values
 Commit at 2024-12-19T13:06:04: Fix bug in LSTM layer initialization
 Commit at 2024-12-19T19:59:17: Optimize inference speed for edge devices
+Commit at 2024-12-19T10:45:39: Add support for custom loss functions
