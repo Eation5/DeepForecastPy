@@ -224,3 +224,4 @@ Commit at 2024-12-19T10:45:39: Add support for custom loss functions
 Commit at 2024-12-19T12:03:23: Optimize data loading for large datasets
 Commit at 2024-12-20T20:41:02: Optimize inference speed for edge devices
 Commit at 2024-12-20T21:11:24: Add unit tests for preprocessing utilities
+Commit at 2024-12-20T10:46:35: Fix minor bug in data windowing
