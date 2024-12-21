@@ -232,3 +232,4 @@ Commit at 2024-12-20T16:57:14: Add support for Transformer-based models
 Commit at 2024-12-20T10:00:01: Refactor model architecture for better performance
 Commit at 2024-12-20T12:48:11: Update README with more detailed instructions
 Commit at 2024-12-20T18:45:06: Update documentation for new features
+Commit at 2024-12-20T21:08:20: Refactor utils for better code reuse
