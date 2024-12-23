@@ -241,3 +241,4 @@ Commit at 2024-12-23T15:01:10: Optimize data loading for large datasets
 Commit at 2024-12-23T15:41:05: Update README with more detailed instructions
 Commit at 2024-12-23T18:32:08: Update preprocessing pipeline to handle missing values
 Commit at 2024-12-23T13:30:50: Fix issue with data normalization
+Commit at 2024-12-23T10:41:07: Improve error handling in model building
