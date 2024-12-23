@@ -247,3 +247,4 @@ Commit at 2024-12-23T10:47:17: Add support for Transformer-based models
 Commit at 2024-12-23T21:45:16: Refactor utils for better code reuse
 Commit at 2024-12-23T19:46:37: Fix minor bug in data windowing
 Commit at 2024-12-23T19:19:12: Add support for data augmentation
+Commit at 2024-12-23T17:35:09: Update README with more detailed instructions
