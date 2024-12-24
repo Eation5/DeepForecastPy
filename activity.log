@@ -244,3 +244,4 @@ Commit at 2024-12-23T13:30:50: Fix issue with data normalization
 Commit at 2024-12-23T10:41:07: Improve error handling in model building
 Commit at 2024-12-23T20:12:30: Improve error handling in model building
 Commit at 2024-12-23T10:47:17: Add support for Transformer-based models
+Commit at 2024-12-23T21:45:16: Refactor utils for better code reuse
