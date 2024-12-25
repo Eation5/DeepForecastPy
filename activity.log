@@ -261,3 +261,4 @@ Commit at 2024-12-25T10:17:04: Improve error handling in model building
 Commit at 2024-12-25T18:47:20: Add support for GRU models
 Commit at 2024-12-25T15:39:22: Fix minor bug in data windowing
 Commit at 2024-12-25T15:21:01: Fix bug in LSTM layer initialization
+Commit at 2024-12-25T10:52:52: Add support for GRU models
