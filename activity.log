@@ -258,3 +258,4 @@ Commit at 2024-12-25T10:06:54: Add support for data augmentation
 Commit at 2024-12-25T18:40:45: Update project structure for better organization
 Commit at 2024-12-25T21:02:55: Add support for Transformer-based models
 Commit at 2024-12-25T10:17:04: Improve error handling in model building
+Commit at 2024-12-25T18:47:20: Add support for GRU models
