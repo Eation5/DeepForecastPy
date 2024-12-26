@@ -272,3 +272,4 @@ Commit at 2024-12-26T12:06:11: Add examples for using the library
 Commit at 2024-12-26T15:46:27: Optimize data loading for large datasets
 Commit at 2024-12-26T20:22:54: Add support for bidirectional RNNs
 Commit at 2024-12-26T20:00:02: Add unit tests for preprocessing utilities
+Commit at 2024-12-26T17:34:59: Add support for multiple output steps
