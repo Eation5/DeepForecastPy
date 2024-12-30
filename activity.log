@@ -275,3 +275,4 @@ Commit at 2024-12-26T20:00:02: Add unit tests for preprocessing utilities
 Commit at 2024-12-26T17:34:59: Add support for multiple output steps
 Commit at 2024-12-30T10:02:11: Add support for GRU models
 Commit at 2024-12-30T21:13:05: Add support for data augmentation
+Commit at 2024-12-30T13:23:15: Add examples for using the library
