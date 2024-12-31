@@ -293,3 +293,4 @@ Commit at 2024-12-31T11:36:03: Add support for Transformer-based models
 Commit at 2024-12-31T19:15:02: Update requirements for new dependencies
 Commit at 2024-12-31T11:47:48: Optimize training loop for faster convergence
 Commit at 2024-12-31T19:12:08: Add support for pre-trained models
+Commit at 2024-12-31T15:28:30: Improve error handling in model building
