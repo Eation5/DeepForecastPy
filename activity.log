@@ -287,3 +287,4 @@ Commit at 2024-12-30T13:00:12: Add support for custom loss functions
 Commit at 2024-12-31T09:28:21: Add unit tests for preprocessing utilities
 Commit at 2024-12-31T18:25:30: Optimize data loading for large datasets
 Commit at 2024-12-31T12:32:21: Improve visualization functions for predictions
+Commit at 2024-12-31T09:25:35: Update project structure for better organization
