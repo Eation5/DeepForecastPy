@@ -274,3 +274,4 @@ Commit at 2024-12-26T20:22:54: Add support for bidirectional RNNs
 Commit at 2024-12-26T20:00:02: Add unit tests for preprocessing utilities
 Commit at 2024-12-26T17:34:59: Add support for multiple output steps
 Commit at 2024-12-30T10:02:11: Add support for GRU models
+Commit at 2024-12-30T21:13:05: Add support for data augmentation
