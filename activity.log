@@ -297,3 +297,4 @@ Commit at 2024-12-31T15:28:30: Improve error handling in model building
 Commit at 2024-12-31T14:26:59: Optimize inference speed for edge devices
 Commit at 2024-12-31T19:09:16: Update requirements for new dependencies
 Commit at 2024-12-31T15:17:32: Refactor utils for better code reuse
+Commit at 2024-12-31T17:06:25: Add unit tests for preprocessing utilities
