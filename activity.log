@@ -300,3 +300,4 @@ Commit at 2024-12-31T15:17:32: Refactor utils for better code reuse
 Commit at 2024-12-31T17:06:25: Add unit tests for preprocessing utilities
 Commit at 2025-01-01T20:50:08: Add support for Transformer-based models
 Commit at 2025-01-01T18:25:31: Add support for custom loss functions
+Commit at 2025-01-01T16:40:35: Refactor model architecture for better performance
