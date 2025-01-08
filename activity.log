@@ -309,3 +309,4 @@ Commit at 2025-01-06T17:14:18: Optimize data loading for large datasets
 Commit at 2025-01-06T20:41:26: Add support for bidirectional RNNs
 Commit at 2025-01-07T10:50:01: Optimize memory usage during training
 Commit at 2025-01-07T21:56:03: Update documentation for new features
+Commit at 2025-01-07T20:48:40: Add new evaluation metrics for time series forecasting
