@@ -316,3 +316,4 @@ Commit at 2025-01-07T09:36:46: Optimize inference speed for edge devices
 Commit at 2025-01-07T16:02:15: Fix minor bug in data windowing
 Commit at 2025-01-08T14:56:51: Optimize inference speed for edge devices
 Commit at 2025-01-08T13:56:18: Update README with more detailed instructions
+Commit at 2025-01-08T21:52:55: Improve visualization functions for predictions
