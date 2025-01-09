@@ -324,3 +324,4 @@ Commit at 2025-01-09T09:21:55: Optimize memory usage during training
 Commit at 2025-01-09T21:10:06: Add support for multiple output steps
 Commit at 2025-01-09T11:13:32: Improve logging during model training
 Commit at 2025-01-09T20:11:46: Refactor model architecture for better performance
+Commit at 2025-01-09T15:33:36: Update README with more detailed instructions
