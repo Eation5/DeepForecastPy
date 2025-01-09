@@ -318,3 +318,4 @@ Commit at 2025-01-08T14:56:51: Optimize inference speed for edge devices
 Commit at 2025-01-08T13:56:18: Update README with more detailed instructions
 Commit at 2025-01-08T21:52:55: Improve visualization functions for predictions
 Commit at 2025-01-08T18:19:30: Fix issue with data normalization
+Commit at 2025-01-08T20:16:05: Update requirements for new dependencies
