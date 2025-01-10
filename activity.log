@@ -328,3 +328,4 @@ Commit at 2025-01-09T15:33:36: Update README with more detailed instructions
 Commit at 2025-01-09T14:39:46: Optimize inference speed for edge devices
 Commit at 2025-01-10T19:04:09: Add support for Transformer-based models
 Commit at 2025-01-10T10:02:55: Update requirements for new dependencies
+Commit at 2025-01-10T16:54:48: Update project structure for better organization
