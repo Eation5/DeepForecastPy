@@ -346,3 +346,4 @@ Commit at 2025-01-13T19:27:33: Add support for multiple output steps
 Commit at 2025-01-13T17:52:28: Refactor utils for better code reuse
 Commit at 2025-01-13T13:03:10: Improve error handling in model building
 Commit at 2025-01-13T21:21:33: Update preprocessing pipeline to handle missing values
+Commit at 2025-01-15T18:14:04: Optimize inference speed for edge devices
