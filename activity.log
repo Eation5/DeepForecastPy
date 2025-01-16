@@ -349,3 +349,4 @@ Commit at 2025-01-13T21:21:33: Update preprocessing pipeline to handle missing v
 Commit at 2025-01-15T18:14:04: Optimize inference speed for edge devices
 Commit at 2025-01-15T20:04:07: Update project structure for better organization
 Commit at 2025-01-15T20:09:40: Improve logging during model training
+Commit at 2025-01-16T09:07:40: Improve logging during model training
