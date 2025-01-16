@@ -362,3 +362,4 @@ Commit at 2025-01-16T12:12:34: Add support for Transformer-based models
 Commit at 2025-01-16T18:30:59: Improve documentation for API reference
 Commit at 2025-01-16T18:30:20: Optimize memory usage during training
 Commit at 2025-01-16T14:26:17: Add support for pre-trained models
+Commit at 2025-01-16T17:57:43: Update requirements for new dependencies
