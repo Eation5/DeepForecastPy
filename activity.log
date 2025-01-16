@@ -357,3 +357,4 @@ Commit at 2025-01-16T20:29:10: Fix issue with data normalization
 Commit at 2025-01-16T16:32:08: Fix issue with data normalization
 Commit at 2025-01-16T18:22:42: Update project structure for better organization
 Commit at 2025-01-16T20:09:26: Refactor utils for better code reuse
+Commit at 2025-01-16T17:33:04: Optimize data loading for large datasets
