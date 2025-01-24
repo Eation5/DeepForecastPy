@@ -384,3 +384,4 @@ Commit at 2025-01-23T18:23:19: Add support for data augmentation
 Commit at 2025-01-23T19:46:02: Add support for data augmentation
 Commit at 2025-01-23T12:51:49: Improve documentation for API reference
 Commit at 2025-01-23T16:16:32: Add support for Transformer-based models
+Commit at 2025-01-24T16:41:34: Add new evaluation metrics for time series forecasting
