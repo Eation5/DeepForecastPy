@@ -392,3 +392,4 @@ Commit at 2025-01-24T11:09:33: Improve documentation for API reference
 Commit at 2025-01-24T16:06:18: Refactor model architecture for better performance
 Commit at 2025-01-24T19:40:34: Update requirements for new dependencies
 Commit at 2025-01-24T21:20:26: Fix minor bug in data windowing
+Commit at 2025-01-27T15:20:54: Add support for pre-trained models
