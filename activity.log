@@ -394,3 +394,4 @@ Commit at 2025-01-24T19:40:34: Update requirements for new dependencies
 Commit at 2025-01-24T21:20:26: Fix minor bug in data windowing
 Commit at 2025-01-27T15:20:54: Add support for pre-trained models
 Commit at 2025-01-27T19:57:58: Fix issue with model serialization
+Commit at 2025-01-27T17:24:23: Add unit tests for preprocessing utilities
