@@ -400,3 +400,4 @@ Commit at 2025-01-27T13:23:33: Update documentation for new features
 Commit at 2025-01-27T15:40:46: Fix issue with model serialization
 Commit at 2025-01-27T11:02:20: Fix bug in LSTM layer initialization
 Commit at 2025-01-27T10:14:02: Update requirements for new dependencies
+Commit at 2025-01-27T09:51:01: Add support for Transformer-based models
