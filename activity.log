@@ -406,3 +406,4 @@ Commit at 2025-01-27T20:05:28: Add support for data augmentation
 Commit at 2025-01-27T18:42:33: Add examples for different use cases
 Commit at 2025-01-27T13:25:37: Add support for data augmentation
 Commit at 2025-01-27T09:47:32: Optimize inference speed for edge devices
+Commit at 2025-01-28T18:14:17: Optimize memory usage during training
