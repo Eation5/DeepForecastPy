@@ -402,3 +402,4 @@ Commit at 2025-01-27T11:02:20: Fix bug in LSTM layer initialization
 Commit at 2025-01-27T10:14:02: Update requirements for new dependencies
 Commit at 2025-01-27T09:51:01: Add support for Transformer-based models
 Commit at 2025-01-27T21:34:15: Update requirements for new dependencies
+Commit at 2025-01-27T20:05:28: Add support for data augmentation
