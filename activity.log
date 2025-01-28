@@ -417,3 +417,4 @@ Commit at 2025-01-28T10:09:52: Update documentation for new features
 Commit at 2025-01-28T21:11:37: Improve error handling in model building
 Commit at 2025-01-28T18:04:35: Add support for data augmentation
 Commit at 2025-01-28T12:22:59: Add support for data augmentation
+Commit at 2025-01-28T18:54:53: Add support for bidirectional RNNs
