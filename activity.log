@@ -433,3 +433,4 @@ Commit at 2025-01-30T10:30:52: Add unit tests for preprocessing utilities
 Commit at 2025-01-30T17:52:07: Fix minor bug in data windowing
 Commit at 2025-01-30T19:59:22: Add support for pre-trained models
 Commit at 2025-01-30T21:16:11: Refactor utils for better code reuse
+Commit at 2025-01-30T09:10:30: Add new evaluation metrics for time series forecasting
