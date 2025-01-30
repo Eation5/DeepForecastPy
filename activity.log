@@ -425,3 +425,4 @@ Commit at 2025-01-29T18:13:28: Improve documentation for API reference
 Commit at 2025-01-29T19:24:19: Fix issue with model serialization
 Commit at 2025-01-29T14:55:14: Fix issue with data normalization
 Commit at 2025-01-29T17:47:31: Add new evaluation metrics for time series forecasting
+Commit at 2025-01-29T21:31:25: Improve error handling in model building
