@@ -429,3 +429,4 @@ Commit at 2025-01-29T21:31:25: Improve error handling in model building
 Commit at 2025-01-30T18:30:33: Update README with more detailed instructions
 Commit at 2025-01-30T20:53:49: Add support for pre-trained models
 Commit at 2025-01-30T15:18:42: Optimize data loading for large datasets
+Commit at 2025-01-30T10:30:52: Add unit tests for preprocessing utilities
