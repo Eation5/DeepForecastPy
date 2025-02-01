@@ -435,3 +435,4 @@ Commit at 2025-01-30T19:59:22: Add support for pre-trained models
 Commit at 2025-01-30T21:16:11: Refactor utils for better code reuse
 Commit at 2025-01-30T09:10:30: Add new evaluation metrics for time series forecasting
 Commit at 2025-01-30T21:51:43: Add support for pre-trained models
+Commit at 2025-01-31T21:15:41: Update README with more detailed instructions
