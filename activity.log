@@ -445,3 +445,4 @@ Commit at 2025-02-04T09:18:04: Add support for GRU models
 Commit at 2025-02-04T09:58:49: Add support for Transformer-based models
 Commit at 2025-02-04T20:55:45: Fix bug in LSTM layer initialization
 Commit at 2025-02-04T19:55:47: Improve error handling in model building
+Commit at 2025-02-04T15:23:45: Refactor model architecture for better performance
