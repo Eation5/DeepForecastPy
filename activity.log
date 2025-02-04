@@ -439,3 +439,4 @@ Commit at 2025-01-31T21:15:41: Update README with more detailed instructions
 Commit at 2025-02-03T20:20:58: Add unit tests for preprocessing utilities
 Commit at 2025-02-03T20:41:17: Fix minor bug in data windowing
 Commit at 2025-02-03T17:27:48: Refactor utils for better code reuse
+Commit at 2025-02-03T19:57:10: Update preprocessing pipeline to handle missing values
