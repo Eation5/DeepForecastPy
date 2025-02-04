@@ -442,3 +442,4 @@ Commit at 2025-02-03T17:27:48: Refactor utils for better code reuse
 Commit at 2025-02-03T19:57:10: Update preprocessing pipeline to handle missing values
 Commit at 2025-02-04T19:33:09: Add support for pre-trained models
 Commit at 2025-02-04T09:18:04: Add support for GRU models
+Commit at 2025-02-04T09:58:49: Add support for Transformer-based models
