@@ -473,3 +473,4 @@ Commit at 2025-02-10T15:53:18: Add support for custom loss functions
 Commit at 2025-02-10T21:42:56: Add support for Transformer-based models
 Commit at 2025-02-10T20:11:13: Improve logging during model training
 Commit at 2025-02-10T19:29:16: Add support for Transformer-based models
+Commit at 2025-02-10T11:05:14: Add new evaluation metrics for time series forecasting
