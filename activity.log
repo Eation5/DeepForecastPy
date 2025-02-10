@@ -464,3 +464,4 @@ Commit at 2025-02-07T14:07:11: Add support for Transformer-based models
 Commit at 2025-02-07T19:23:21: Add support for multiple output steps
 Commit at 2025-02-10T20:57:50: Improve documentation for API reference
 Commit at 2025-02-10T18:55:21: Fix issue with model serialization
+Commit at 2025-02-10T17:54:44: Fix minor bug in data windowing
