@@ -467,3 +467,4 @@ Commit at 2025-02-10T18:55:21: Fix issue with model serialization
 Commit at 2025-02-10T17:54:44: Fix minor bug in data windowing
 Commit at 2025-02-10T12:07:07: Add support for Transformer-based models
 Commit at 2025-02-10T10:09:28: Optimize training loop for faster convergence
+Commit at 2025-02-10T17:45:49: Add support for multiple output steps
