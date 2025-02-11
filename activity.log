@@ -476,3 +476,4 @@ Commit at 2025-02-10T19:29:16: Add support for Transformer-based models
 Commit at 2025-02-10T11:05:14: Add new evaluation metrics for time series forecasting
 Commit at 2025-02-11T11:10:16: Add unit tests for preprocessing utilities
 Commit at 2025-02-11T14:32:30: Fix bug in LSTM layer initialization
+Commit at 2025-02-11T16:23:15: Add support for GRU models
