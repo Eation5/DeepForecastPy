@@ -479,3 +479,4 @@ Commit at 2025-02-11T14:32:30: Fix bug in LSTM layer initialization
 Commit at 2025-02-11T16:23:15: Add support for GRU models
 Commit at 2025-02-11T15:37:19: Add support for pre-trained models
 Commit at 2025-02-11T17:36:25: Update documentation for new features
+Commit at 2025-02-12T15:59:37: Optimize data loading for large datasets
