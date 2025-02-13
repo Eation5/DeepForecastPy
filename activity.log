@@ -490,3 +490,4 @@ Commit at 2025-02-13T17:37:08: Add support for data augmentation
 Commit at 2025-02-13T19:45:52: Fix minor bug in data windowing
 Commit at 2025-02-13T21:55:52: Optimize training loop for faster convergence
 Commit at 2025-02-13T14:34:48: Update preprocessing pipeline to handle missing values
+Commit at 2025-02-13T14:53:34: Add support for Transformer-based models
