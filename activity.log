@@ -486,3 +486,4 @@ Commit at 2025-02-12T11:25:27: Add examples for using the library
 Commit at 2025-02-12T20:47:13: Refactor utils for better code reuse
 Commit at 2025-02-12T20:18:59: Fix bug in LSTM layer initialization
 Commit at 2025-02-12T12:14:21: Fix minor bug in data windowing
+Commit at 2025-02-13T17:37:08: Add support for data augmentation
