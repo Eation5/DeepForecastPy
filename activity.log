@@ -517,3 +517,4 @@ Commit at 2025-02-17T11:45:49: Add new evaluation metrics for time series foreca
 Commit at 2025-02-17T18:40:20: Refactor model architecture for better performance
 Commit at 2025-02-17T18:58:32: Optimize data loading for large datasets
 Commit at 2025-02-17T10:00:34: Add support for pre-trained models
+Commit at 2025-02-17T14:51:34: Add support for Transformer-based models
