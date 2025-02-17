@@ -507,3 +507,4 @@ Commit at 2025-02-14T09:33:39: Add support for data augmentation
 Commit at 2025-02-14T14:19:09: Optimize data loading for large datasets
 Commit at 2025-02-17T09:42:20: Update preprocessing pipeline to handle missing values
 Commit at 2025-02-17T13:17:04: Improve logging during model training
+Commit at 2025-02-17T11:10:47: Fix issue with model serialization
