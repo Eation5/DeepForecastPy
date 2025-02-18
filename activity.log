@@ -528,3 +528,4 @@ Commit at 2025-02-18T13:28:27: Optimize memory usage during training
 Commit at 2025-02-18T18:10:16: Add new evaluation metrics for time series forecasting
 Commit at 2025-02-18T10:06:34: Optimize training loop for faster convergence
 Commit at 2025-02-18T10:40:35: Update project structure for better organization
+Commit at 2025-02-18T16:20:23: Improve logging during model training
