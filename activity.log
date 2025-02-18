@@ -523,3 +523,4 @@ Commit at 2025-02-18T10:56:44: Update documentation for new features
 Commit at 2025-02-18T20:25:49: Fix issue with model serialization
 Commit at 2025-02-18T20:30:56: Update README with more detailed instructions
 Commit at 2025-02-18T20:20:36: Fix minor bug in data windowing
+Commit at 2025-02-18T18:19:12: Add new evaluation metrics for time series forecasting
