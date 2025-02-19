@@ -520,3 +520,4 @@ Commit at 2025-02-17T10:00:34: Add support for pre-trained models
 Commit at 2025-02-17T14:51:34: Add support for Transformer-based models
 Commit at 2025-02-17T21:20:45: Add support for pre-trained models
 Commit at 2025-02-18T10:56:44: Update documentation for new features
+Commit at 2025-02-18T20:25:49: Fix issue with model serialization
