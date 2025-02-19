@@ -530,3 +530,4 @@ Commit at 2025-02-18T10:06:34: Optimize training loop for faster convergence
 Commit at 2025-02-18T10:40:35: Update project structure for better organization
 Commit at 2025-02-18T16:20:23: Improve logging during model training
 Commit at 2025-02-18T15:44:59: Add support for bidirectional RNNs
+Commit at 2025-02-18T21:59:11: Add examples for different use cases
