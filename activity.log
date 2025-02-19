@@ -533,3 +533,4 @@ Commit at 2025-02-18T15:44:59: Add support for bidirectional RNNs
 Commit at 2025-02-18T21:59:11: Add examples for different use cases
 Commit at 2025-02-19T20:53:52: Update README with more detailed instructions
 Commit at 2025-02-19T13:36:39: Add support for Transformer-based models
+Commit at 2025-02-19T13:33:54: Update documentation for new features
