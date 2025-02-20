@@ -542,3 +542,4 @@ Commit at 2025-02-20T21:00:15: Optimize memory usage during training
 Commit at 2025-02-20T20:27:34: Optimize training loop for faster convergence
 Commit at 2025-02-20T14:07:56: Update preprocessing pipeline to handle missing values
 Commit at 2025-02-20T16:34:28: Update project structure for better organization
+Commit at 2025-02-20T13:33:42: Add support for Transformer-based models
