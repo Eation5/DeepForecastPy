@@ -548,3 +548,4 @@ Commit at 2025-02-20T11:40:44: Fix issue with model serialization
 Commit at 2025-02-20T18:29:15: Update preprocessing pipeline to handle missing values
 Commit at 2025-02-20T21:22:56: Fix minor bug in data windowing
 Commit at 2025-02-20T09:26:23: Add new evaluation metrics for time series forecasting
+Commit at 2025-02-20T10:30:15: Fix issue with data normalization
