@@ -559,3 +559,4 @@ Commit at 2025-02-21T21:09:28: Improve logging during model training
 Commit at 2025-02-21T15:11:15: Fix bug in LSTM layer initialization
 Commit at 2025-02-21T20:42:17: Add support for Transformer-based models
 Commit at 2025-02-21T17:53:54: Improve visualization functions for predictions
+Commit at 2025-02-21T16:10:53: Add support for Transformer-based models
