@@ -556,3 +556,4 @@ Commit at 2025-02-21T18:29:36: Add new evaluation metrics for time series foreca
 Commit at 2025-02-21T13:12:10: Add support for GRU models
 Commit at 2025-02-21T21:29:02: Improve logging during model training
 Commit at 2025-02-21T21:09:28: Improve logging during model training
+Commit at 2025-02-21T15:11:15: Fix bug in LSTM layer initialization
