@@ -573,3 +573,4 @@ Commit at 2025-02-24T10:05:38: Add support for data augmentation
 Commit at 2025-02-24T20:10:18: Update documentation for new features
 Commit at 2025-02-24T20:16:34: Add examples for different use cases
 Commit at 2025-02-26T09:46:22: Fix issue with model serialization
+Commit at 2025-02-26T12:37:04: Add support for multiple output steps
