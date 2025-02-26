@@ -575,3 +575,4 @@ Commit at 2025-02-24T20:16:34: Add examples for different use cases
 Commit at 2025-02-26T09:46:22: Fix issue with model serialization
 Commit at 2025-02-26T12:37:04: Add support for multiple output steps
 Commit at 2025-02-26T12:30:20: Add new evaluation metrics for time series forecasting
+Commit at 2025-02-26T12:37:05: Fix issue with model serialization
