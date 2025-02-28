@@ -604,3 +604,4 @@ Commit at 2025-02-28T13:38:50: Optimize memory usage during training
 Commit at 2025-02-28T09:21:54: Update preprocessing pipeline to handle missing values
 Commit at 2025-02-28T18:44:25: Optimize training loop for faster convergence
 Commit at 2025-02-28T15:03:59: Update preprocessing pipeline to handle missing values
+Commit at 2025-02-28T09:38:18: Improve error handling in model building
