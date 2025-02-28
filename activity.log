@@ -593,3 +593,4 @@ Commit at 2025-02-27T17:21:36: Add support for custom loss functions
 Commit at 2025-02-28T09:41:32: Add support for pre-trained models
 Commit at 2025-02-28T17:43:49: Optimize memory usage during training
 Commit at 2025-02-28T21:11:09: Improve documentation for API reference
+Commit at 2025-02-28T09:29:39: Add examples for using the library
