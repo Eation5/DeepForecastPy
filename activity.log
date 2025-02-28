@@ -590,3 +590,4 @@ Commit at 2025-02-27T19:45:37: Add support for multiple output steps
 Commit at 2025-02-27T11:46:09: Add new evaluation metrics for time series forecasting
 Commit at 2025-02-27T10:34:55: Optimize data loading for large datasets
 Commit at 2025-02-27T17:21:36: Add support for custom loss functions
+Commit at 2025-02-28T09:41:32: Add support for pre-trained models
