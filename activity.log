@@ -610,3 +610,4 @@ Commit at 2025-03-03T12:09:46: Add support for data augmentation
 Commit at 2025-03-03T10:00:16: Improve visualization functions for predictions
 Commit at 2025-03-03T12:50:36: Optimize memory usage during training
 Commit at 2025-03-03T17:29:07: Update README with more detailed instructions
+Commit at 2025-03-03T19:33:25: Update documentation for new features
