@@ -615,3 +615,4 @@ Commit at 2025-03-03T13:40:45: Improve documentation for API reference
 Commit at 2025-03-04T20:38:18: Improve visualization functions for predictions
 Commit at 2025-03-04T14:56:36: Update preprocessing pipeline to handle missing values
 Commit at 2025-03-04T18:48:57: Update documentation for new features
+Commit at 2025-03-04T12:50:20: Fix bug in LSTM layer initialization
