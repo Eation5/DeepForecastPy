@@ -628,3 +628,4 @@ Commit at 2025-03-05T16:31:00: Update project structure for better organization
 Commit at 2025-03-05T19:05:39: Refactor utils for better code reuse
 Commit at 2025-03-06T12:45:03: Add examples for using the library
 Commit at 2025-03-06T10:56:36: Add support for multiple output steps
+Commit at 2025-03-06T18:56:59: Improve visualization functions for predictions
