@@ -622,3 +622,4 @@ Commit at 2025-03-04T13:21:27: Update preprocessing pipeline to handle missing v
 Commit at 2025-03-04T12:58:40: Update project structure for better organization
 Commit at 2025-03-04T18:22:29: Update requirements for new dependencies
 Commit at 2025-03-05T09:47:50: Add support for data augmentation
+Commit at 2025-03-05T20:50:22: Add support for Transformer-based models
