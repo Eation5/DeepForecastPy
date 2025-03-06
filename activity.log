@@ -631,3 +631,4 @@ Commit at 2025-03-06T10:56:36: Add support for multiple output steps
 Commit at 2025-03-06T18:56:59: Improve visualization functions for predictions
 Commit at 2025-03-06T18:22:22: Add support for Transformer-based models
 Commit at 2025-03-06T20:20:07: Update README with more detailed instructions
+Commit at 2025-03-06T10:19:22: Optimize inference speed for edge devices
