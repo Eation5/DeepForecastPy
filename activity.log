@@ -641,3 +641,4 @@ Commit at 2025-03-10T11:47:33: Add new evaluation metrics for time series foreca
 Commit at 2025-03-10T09:05:59: Improve documentation for API reference
 Commit at 2025-03-10T12:48:05: Add examples for different use cases
 Commit at 2025-03-10T12:59:41: Update requirements for new dependencies
+Commit at 2025-03-10T14:14:13: Fix issue with model serialization
