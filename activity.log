@@ -634,3 +634,4 @@ Commit at 2025-03-06T20:20:07: Update README with more detailed instructions
 Commit at 2025-03-06T10:19:22: Optimize inference speed for edge devices
 Commit at 2025-03-10T20:46:32: Fix bug in LSTM layer initialization
 Commit at 2025-03-10T13:28:44: Fix bug in LSTM layer initialization
+Commit at 2025-03-10T14:31:55: Add support for pre-trained models
