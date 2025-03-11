@@ -650,3 +650,4 @@ Commit at 2025-03-11T12:20:46: Add examples for different use cases
 Commit at 2025-03-11T13:41:49: Fix issue with model serialization
 Commit at 2025-03-11T10:03:09: Optimize training loop for faster convergence
 Commit at 2025-03-11T19:54:30: Improve documentation for API reference
+Commit at 2025-03-11T15:21:21: Add support for Transformer-based models
