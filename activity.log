@@ -647,3 +647,4 @@ Commit at 2025-03-11T18:53:56: Improve logging during model training
 Commit at 2025-03-11T09:15:24: Optimize training loop for faster convergence
 Commit at 2025-03-11T10:28:04: Refactor utils for better code reuse
 Commit at 2025-03-11T12:20:46: Add examples for different use cases
+Commit at 2025-03-11T13:41:49: Fix issue with model serialization
