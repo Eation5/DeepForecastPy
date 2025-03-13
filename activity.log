@@ -654,3 +654,4 @@ Commit at 2025-03-11T15:21:21: Add support for Transformer-based models
 Commit at 2025-03-11T20:36:28: Fix minor bug in data windowing
 Commit at 2025-03-11T11:08:19: Optimize memory usage during training
 Commit at 2025-03-11T11:28:35: Update README with more detailed instructions
+Commit at 2025-03-12T21:32:50: Fix bug in LSTM layer initialization
