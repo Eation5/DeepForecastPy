@@ -663,3 +663,4 @@ Commit at 2025-03-13T16:54:31: Add support for GRU models
 Commit at 2025-03-13T11:49:42: Improve error handling in model building
 Commit at 2025-03-13T15:55:43: Add support for pre-trained models
 Commit at 2025-03-14T15:56:34: Improve visualization functions for predictions
+Commit at 2025-03-14T20:17:46: Optimize memory usage during training
