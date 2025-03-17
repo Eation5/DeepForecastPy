@@ -665,3 +665,4 @@ Commit at 2025-03-13T15:55:43: Add support for pre-trained models
 Commit at 2025-03-14T15:56:34: Improve visualization functions for predictions
 Commit at 2025-03-14T20:17:46: Optimize memory usage during training
 Commit at 2025-03-14T16:48:07: Add unit tests for preprocessing utilities
+Commit at 2025-03-17T17:55:38: Optimize inference speed for edge devices
