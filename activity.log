@@ -676,3 +676,4 @@ Commit at 2025-03-17T21:24:35: Refactor model architecture for better performanc
 Commit at 2025-03-17T09:37:51: Optimize data loading for large datasets
 Commit at 2025-03-17T20:21:49: Optimize data loading for large datasets
 Commit at 2025-03-17T09:18:27: Update project structure for better organization
+Commit at 2025-03-17T20:32:33: Add support for Transformer-based models
