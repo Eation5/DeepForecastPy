@@ -690,3 +690,4 @@ Commit at 2025-03-18T15:27:00: Refactor utils for better code reuse
 Commit at 2025-03-18T20:56:22: Update README with more detailed instructions
 Commit at 2025-03-18T19:08:41: Refactor utils for better code reuse
 Commit at 2025-03-18T09:51:30: Optimize memory usage during training
+Commit at 2025-03-18T12:39:03: Improve logging during model training
