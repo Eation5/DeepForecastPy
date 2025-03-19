@@ -697,3 +697,4 @@ Commit at 2025-03-19T11:34:09: Improve error handling in model building
 Commit at 2025-03-19T17:04:36: Improve logging during model training
 Commit at 2025-03-19T19:28:28: Optimize data loading for large datasets
 Commit at 2025-03-19T09:22:17: Fix issue with model serialization
+Commit at 2025-03-19T19:30:16: Add support for GRU models
