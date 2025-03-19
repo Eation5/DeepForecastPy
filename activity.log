@@ -700,3 +700,4 @@ Commit at 2025-03-19T09:22:17: Fix issue with model serialization
 Commit at 2025-03-19T19:30:16: Add support for GRU models
 Commit at 2025-03-19T21:09:53: Optimize training loop for faster convergence
 Commit at 2025-03-19T10:08:45: Improve logging during model training
+Commit at 2025-03-19T11:36:08: Update README with more detailed instructions
