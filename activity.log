@@ -710,3 +710,4 @@ Commit at 2025-03-26T10:04:52: Add support for data augmentation
 Commit at 2025-03-27T15:58:20: Add new evaluation metrics for time series forecasting
 Commit at 2025-03-27T17:26:39: Optimize memory usage during training
 Commit at 2025-03-27T19:55:37: Add support for custom loss functions
+Commit at 2025-03-27T09:08:56: Add support for GRU models
