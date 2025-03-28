@@ -713,3 +713,4 @@ Commit at 2025-03-27T19:55:37: Add support for custom loss functions
 Commit at 2025-03-27T09:08:56: Add support for GRU models
 Commit at 2025-03-28T14:23:28: Optimize data loading for large datasets
 Commit at 2025-03-28T10:28:51: Update preprocessing pipeline to handle missing values
+Commit at 2025-03-28T10:05:21: Update README with more detailed instructions
