@@ -722,3 +722,4 @@ Commit at 2025-03-31T14:52:38: Optimize training loop for faster convergence
 Commit at 2025-03-31T17:26:16: Improve logging during model training
 Commit at 2025-03-31T21:08:35: Add support for Transformer-based models
 Commit at 2025-03-31T20:32:45: Improve visualization functions for predictions
+Commit at 2025-03-31T09:20:25: Update requirements for new dependencies
