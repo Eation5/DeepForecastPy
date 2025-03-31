@@ -717,3 +717,4 @@ Commit at 2025-03-28T10:05:21: Update README with more detailed instructions
 Commit at 2025-03-28T20:16:32: Improve documentation for API reference
 Commit at 2025-03-28T15:19:44: Improve error handling in model building
 Commit at 2025-03-31T10:40:23: Refactor utils for better code reuse
+Commit at 2025-03-31T14:35:33: Improve visualization functions for predictions
