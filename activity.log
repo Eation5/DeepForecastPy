@@ -729,3 +729,4 @@ Commit at 2025-03-31T09:16:04: Refactor utils for better code reuse
 Commit at 2025-04-01T10:38:26: Update requirements for new dependencies
 Commit at 2025-04-01T18:24:09: Add support for data augmentation
 Commit at 2025-04-01T20:01:33: Update preprocessing pipeline to handle missing values
+Commit at 2025-04-01T19:24:34: Improve error handling in model building
