@@ -731,3 +731,4 @@ Commit at 2025-04-01T18:24:09: Add support for data augmentation
 Commit at 2025-04-01T20:01:33: Update preprocessing pipeline to handle missing values
 Commit at 2025-04-01T19:24:34: Improve error handling in model building
 Commit at 2025-04-01T21:39:06: Optimize memory usage during training
+Commit at 2025-04-01T17:10:56: Add examples for different use cases
