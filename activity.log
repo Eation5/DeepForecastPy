@@ -737,3 +737,4 @@ Commit at 2025-04-01T11:23:32: Update preprocessing pipeline to handle missing v
 Commit at 2025-04-01T10:06:08: Update documentation for new features
 Commit at 2025-04-01T12:35:03: Update requirements for new dependencies
 Commit at 2025-04-01T12:06:06: Optimize training loop for faster convergence
+Commit at 2025-04-01T18:10:34: Add new evaluation metrics for time series forecasting
