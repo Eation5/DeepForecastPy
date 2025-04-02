@@ -740,3 +740,4 @@ Commit at 2025-04-01T12:06:06: Optimize training loop for faster convergence
 Commit at 2025-04-01T18:10:34: Add new evaluation metrics for time series forecasting
 Commit at 2025-04-02T11:07:03: Fix issue with data normalization
 Commit at 2025-04-02T11:05:24: Add support for Transformer-based models
+Commit at 2025-04-02T15:41:15: Fix minor bug in data windowing
