@@ -745,3 +745,4 @@ Commit at 2025-04-02T17:52:14: Add support for bidirectional RNNs
 Commit at 2025-04-02T17:02:21: Improve error handling in model building
 Commit at 2025-04-02T19:54:58: Add unit tests for preprocessing utilities
 Commit at 2025-04-02T20:08:38: Add support for bidirectional RNNs
+Commit at 2025-04-03T20:19:10: Add support for bidirectional RNNs
