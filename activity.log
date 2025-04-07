@@ -751,3 +751,4 @@ Commit at 2025-04-04T14:33:07: Add support for pre-trained models
 Commit at 2025-04-07T20:13:50: Add support for multiple output steps
 Commit at 2025-04-07T18:40:38: Improve logging during model training
 Commit at 2025-04-07T17:33:26: Add examples for using the library
+Commit at 2025-04-07T10:24:39: Fix issue with data normalization
