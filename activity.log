@@ -754,3 +754,4 @@ Commit at 2025-04-07T17:33:26: Add examples for using the library
 Commit at 2025-04-07T10:24:39: Fix issue with data normalization
 Commit at 2025-04-07T20:28:37: Optimize inference speed for edge devices
 Commit at 2025-04-07T15:35:22: Improve documentation for API reference
+Commit at 2025-04-07T14:36:58: Add support for bidirectional RNNs
