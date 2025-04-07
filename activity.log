@@ -758,3 +758,4 @@ Commit at 2025-04-07T14:36:58: Add support for bidirectional RNNs
 Commit at 2025-04-07T18:47:16: Add examples for using the library
 Commit at 2025-04-07T17:43:47: Update requirements for new dependencies
 Commit at 2025-04-07T20:12:20: Add examples for using the library
+Commit at 2025-04-07T14:50:34: Fix issue with data normalization
