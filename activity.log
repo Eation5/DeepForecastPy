@@ -767,3 +767,4 @@ Commit at 2025-04-08T10:09:34: Optimize inference speed for edge devices
 Commit at 2025-04-08T15:39:13: Refactor utils for better code reuse
 Commit at 2025-04-08T18:49:45: Add examples for using the library
 Commit at 2025-04-08T14:58:58: Update requirements for new dependencies
+Commit at 2025-04-08T13:24:56: Add support for GRU models
