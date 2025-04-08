@@ -770,3 +770,4 @@ Commit at 2025-04-08T14:58:58: Update requirements for new dependencies
 Commit at 2025-04-08T13:24:56: Add support for GRU models
 Commit at 2025-04-08T14:21:45: Fix issue with data normalization
 Commit at 2025-04-08T14:08:57: Add support for bidirectional RNNs
+Commit at 2025-04-08T12:29:19: Add support for bidirectional RNNs
