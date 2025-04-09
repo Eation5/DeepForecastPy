@@ -781,3 +781,4 @@ Commit at 2025-04-09T21:04:33: Add support for Transformer-based models
 Commit at 2025-04-09T09:55:54: Optimize memory usage during training
 Commit at 2025-04-09T21:07:53: Improve documentation for API reference
 Commit at 2025-04-09T19:45:36: Add new evaluation metrics for time series forecasting
+Commit at 2025-04-09T13:25:40: Improve error handling in model building
