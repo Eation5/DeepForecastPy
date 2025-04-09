@@ -778,3 +778,4 @@ Commit at 2025-04-08T13:17:32: Add examples for using the library
 Commit at 2025-04-08T14:49:11: Optimize training loop for faster convergence
 Commit at 2025-04-09T13:26:15: Add new evaluation metrics for time series forecasting
 Commit at 2025-04-09T21:04:33: Add support for Transformer-based models
+Commit at 2025-04-09T09:55:54: Optimize memory usage during training
