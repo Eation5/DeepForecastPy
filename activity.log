@@ -784,3 +784,4 @@ Commit at 2025-04-09T19:45:36: Add new evaluation metrics for time series foreca
 Commit at 2025-04-09T13:25:40: Improve error handling in model building
 Commit at 2025-04-09T18:45:33: Optimize training loop for faster convergence
 Commit at 2025-04-09T19:51:37: Add examples for using the library
+Commit at 2025-04-09T17:02:03: Update project structure for better organization
