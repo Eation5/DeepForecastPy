@@ -776,3 +776,4 @@ Commit at 2025-04-08T19:45:24: Add support for Transformer-based models
 Commit at 2025-04-08T12:28:55: Fix bug in LSTM layer initialization
 Commit at 2025-04-08T13:17:32: Add examples for using the library
 Commit at 2025-04-08T14:49:11: Optimize training loop for faster convergence
+Commit at 2025-04-09T13:26:15: Add new evaluation metrics for time series forecasting
