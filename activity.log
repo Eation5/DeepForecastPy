@@ -797,3 +797,4 @@ Commit at 2025-04-14T19:36:00: Add support for GRU models
 Commit at 2025-04-14T17:03:23: Add examples for using the library
 Commit at 2025-04-14T11:51:24: Fix issue with model serialization
 Commit at 2025-04-14T10:11:20: Fix bug in LSTM layer initialization
+Commit at 2025-04-14T11:17:16: Add support for Transformer-based models
