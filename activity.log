@@ -819,3 +819,4 @@ Commit at 2025-04-15T17:16:27: Add support for custom loss functions
 Commit at 2025-04-16T17:27:34: Add examples for different use cases
 Commit at 2025-04-16T17:48:41: Update documentation for new features
 Commit at 2025-04-16T21:47:49: Fix issue with model serialization
+Commit at 2025-04-16T12:06:05: Fix issue with data normalization
