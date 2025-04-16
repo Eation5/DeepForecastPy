@@ -827,3 +827,4 @@ Commit at 2025-04-16T19:11:54: Fix bug in LSTM layer initialization
 Commit at 2025-04-16T14:36:14: Optimize training loop for faster convergence
 Commit at 2025-04-16T13:11:28: Optimize inference speed for edge devices
 Commit at 2025-04-16T21:11:07: Add support for bidirectional RNNs
+Commit at 2025-04-16T15:22:11: Fix issue with data normalization
