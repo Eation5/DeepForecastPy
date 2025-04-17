@@ -822,3 +822,4 @@ Commit at 2025-04-16T21:47:49: Fix issue with model serialization
 Commit at 2025-04-16T12:06:05: Fix issue with data normalization
 Commit at 2025-04-16T21:07:38: Add examples for using the library
 Commit at 2025-04-16T09:25:44: Add support for custom loss functions
+Commit at 2025-04-16T21:06:59: Add examples for different use cases
