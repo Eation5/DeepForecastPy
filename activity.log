@@ -845,3 +845,4 @@ Commit at 2025-04-18T12:01:13: Optimize inference speed for edge devices
 Commit at 2025-04-18T13:00:43: Refactor utils for better code reuse
 Commit at 2025-04-18T18:38:29: Add examples for using the library
 Commit at 2025-04-18T20:45:43: Optimize memory usage during training
+Commit at 2025-04-18T17:47:18: Add new evaluation metrics for time series forecasting
