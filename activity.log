@@ -843,3 +843,4 @@ Commit at 2025-04-17T21:09:28: Fix issue with data normalization
 Commit at 2025-04-17T14:03:50: Add support for GRU models
 Commit at 2025-04-18T12:01:13: Optimize inference speed for edge devices
 Commit at 2025-04-18T13:00:43: Refactor utils for better code reuse
+Commit at 2025-04-18T18:38:29: Add examples for using the library
