@@ -851,3 +851,4 @@ Commit at 2025-04-21T20:30:16: Refactor utils for better code reuse
 Commit at 2025-04-21T17:22:55: Add support for bidirectional RNNs
 Commit at 2025-04-21T16:44:34: Add support for bidirectional RNNs
 Commit at 2025-04-21T21:01:39: Add examples for using the library
+Commit at 2025-04-21T11:53:23: Improve error handling in model building
