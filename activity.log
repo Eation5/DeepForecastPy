@@ -857,3 +857,4 @@ Commit at 2025-04-21T20:58:07: Improve visualization functions for predictions
 Commit at 2025-04-21T19:46:08: Update documentation for new features
 Commit at 2025-04-21T16:41:10: Add support for custom loss functions
 Commit at 2025-04-21T11:21:02: Add support for bidirectional RNNs
+Commit at 2025-04-21T16:43:31: Add new evaluation metrics for time series forecasting
