@@ -860,3 +860,4 @@ Commit at 2025-04-21T11:21:02: Add support for bidirectional RNNs
 Commit at 2025-04-21T16:43:31: Add new evaluation metrics for time series forecasting
 Commit at 2025-04-21T11:52:30: Fix bug in LSTM layer initialization
 Commit at 2025-04-21T21:21:32: Update documentation for new features
+Commit at 2025-04-21T18:49:07: Add support for Transformer-based models
