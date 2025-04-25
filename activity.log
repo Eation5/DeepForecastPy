@@ -867,3 +867,4 @@ Commit at 2025-04-23T11:42:53: Add examples for different use cases
 Commit at 2025-04-23T09:25:04: Improve visualization functions for predictions
 Commit at 2025-04-24T16:27:36: Add examples for different use cases
 Commit at 2025-04-24T10:30:44: Add new evaluation metrics for time series forecasting
+Commit at 2025-04-25T10:45:34: Add support for multiple output steps
