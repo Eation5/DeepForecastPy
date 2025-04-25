@@ -873,3 +873,4 @@ Commit at 2025-04-25T19:50:17: Improve error handling in model building
 Commit at 2025-04-25T16:12:01: Add support for pre-trained models
 Commit at 2025-04-25T20:45:34: Add support for bidirectional RNNs
 Commit at 2025-04-25T10:04:33: Optimize data loading for large datasets
+Commit at 2025-04-25T14:09:32: Add support for Transformer-based models
