@@ -876,3 +876,4 @@ Commit at 2025-04-25T10:04:33: Optimize data loading for large datasets
 Commit at 2025-04-25T14:09:32: Add support for Transformer-based models
 Commit at 2025-04-25T14:33:34: Add support for custom loss functions
 Commit at 2025-04-25T17:51:30: Improve error handling in model building
+Commit at 2025-04-25T18:26:24: Improve logging during model training
