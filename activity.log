@@ -883,3 +883,4 @@ Commit at 2025-04-28T18:22:46: Add support for data augmentation
 Commit at 2025-04-28T15:27:52: Optimize training loop for faster convergence
 Commit at 2025-04-28T19:47:46: Optimize inference speed for edge devices
 Commit at 2025-04-29T11:54:53: Add examples for different use cases
+Commit at 2025-04-29T16:09:58: Add support for custom loss functions
