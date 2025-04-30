@@ -898,3 +898,4 @@ Commit at 2025-04-29T17:07:06: Add support for pre-trained models
 Commit at 2025-04-30T16:51:22: Update documentation for new features
 Commit at 2025-04-30T14:38:49: Add support for multiple output steps
 Commit at 2025-04-30T09:26:21: Fix issue with model serialization
+Commit at 2025-04-30T17:41:19: Add support for GRU models
