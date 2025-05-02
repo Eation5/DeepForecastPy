@@ -910,3 +910,4 @@ Commit at 2025-05-02T18:39:56: Add support for pre-trained models
 Commit at 2025-05-02T16:14:48: Fix minor bug in data windowing
 Commit at 2025-05-02T17:55:13: Add unit tests for preprocessing utilities
 Commit at 2025-05-02T17:48:30: Update project structure for better organization
+Commit at 2025-05-02T17:06:15: Refactor model architecture for better performance
