@@ -915,3 +915,4 @@ Commit at 2025-05-02T09:26:55: Improve visualization functions for predictions
 Commit at 2025-05-02T12:31:29: Add new evaluation metrics for time series forecasting
 Commit at 2025-05-02T18:42:42: Add examples for using the library
 Commit at 2025-05-02T21:13:53: Update preprocessing pipeline to handle missing values
+Commit at 2025-05-05T16:40:35: Update project structure for better organization
