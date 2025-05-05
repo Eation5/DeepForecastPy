@@ -919,3 +919,4 @@ Commit at 2025-05-05T16:40:35: Update project structure for better organization
 Commit at 2025-05-05T12:03:38: Update documentation for new features
 Commit at 2025-05-05T20:28:19: Add support for GRU models
 Commit at 2025-05-05T10:45:09: Fix minor bug in data windowing
+Commit at 2025-05-05T14:42:08: Fix minor bug in data windowing
