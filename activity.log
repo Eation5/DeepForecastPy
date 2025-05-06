@@ -927,3 +927,4 @@ Commit at 2025-05-05T15:07:30: Add new evaluation metrics for time series foreca
 Commit at 2025-05-05T20:33:13: Improve visualization functions for predictions
 Commit at 2025-05-05T21:09:48: Refactor utils for better code reuse
 Commit at 2025-05-05T16:52:50: Optimize training loop for faster convergence
+Commit at 2025-05-05T20:08:54: Fix issue with model serialization
