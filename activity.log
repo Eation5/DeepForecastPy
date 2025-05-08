@@ -934,3 +934,4 @@ Commit at 2025-05-06T09:26:42: Improve visualization functions for predictions
 Commit at 2025-05-06T14:13:39: Add support for Transformer-based models
 Commit at 2025-05-08T18:54:13: Fix issue with model serialization
 Commit at 2025-05-08T12:16:10: Improve visualization functions for predictions
+Commit at 2025-05-08T18:06:20: Update requirements for new dependencies
