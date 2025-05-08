@@ -932,3 +932,4 @@ Commit at 2025-05-05T19:41:52: Refactor utils for better code reuse
 Commit at 2025-05-06T17:12:05: Add new evaluation metrics for time series forecasting
 Commit at 2025-05-06T09:26:42: Improve visualization functions for predictions
 Commit at 2025-05-06T14:13:39: Add support for Transformer-based models
+Commit at 2025-05-08T18:54:13: Fix issue with model serialization
