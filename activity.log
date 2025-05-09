@@ -949,3 +949,4 @@ Commit at 2025-05-09T11:10:45: Fix issue with data normalization
 Commit at 2025-05-09T10:15:36: Improve error handling in model building
 Commit at 2025-05-09T14:52:15: Add support for GRU models
 Commit at 2025-05-09T10:32:57: Optimize memory usage during training
+Commit at 2025-05-09T12:00:50: Add new evaluation metrics for time series forecasting
