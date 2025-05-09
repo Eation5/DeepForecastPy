@@ -953,3 +953,4 @@ Commit at 2025-05-09T12:00:50: Add new evaluation metrics for time series foreca
 Commit at 2025-05-09T09:45:17: Update preprocessing pipeline to handle missing values
 Commit at 2025-05-09T10:46:09: Improve documentation for API reference
 Commit at 2025-05-09T19:04:50: Add support for custom loss functions
+Commit at 2025-05-09T13:07:00: Add examples for using the library
