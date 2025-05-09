@@ -936,3 +936,4 @@ Commit at 2025-05-08T18:54:13: Fix issue with model serialization
 Commit at 2025-05-08T12:16:10: Improve visualization functions for predictions
 Commit at 2025-05-08T18:06:20: Update requirements for new dependencies
 Commit at 2025-05-08T16:03:26: Improve error handling in model building
+Commit at 2025-05-08T21:26:54: Add unit tests for preprocessing utilities
