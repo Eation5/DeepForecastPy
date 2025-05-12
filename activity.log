@@ -963,3 +963,4 @@ Commit at 2025-05-12T21:31:02: Add support for pre-trained models
 Commit at 2025-05-12T17:53:37: Add unit tests for preprocessing utilities
 Commit at 2025-05-12T18:52:04: Optimize data loading for large datasets
 Commit at 2025-05-12T09:01:08: Add support for multiple output steps
+Commit at 2025-05-12T19:03:44: Add support for bidirectional RNNs
