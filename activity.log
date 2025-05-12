@@ -957,3 +957,4 @@ Commit at 2025-05-09T13:07:00: Add examples for using the library
 Commit at 2025-05-09T16:24:51: Refactor model architecture for better performance
 Commit at 2025-05-09T09:42:53: Optimize inference speed for edge devices
 Commit at 2025-05-12T10:36:03: Add support for pre-trained models
+Commit at 2025-05-12T16:02:38: Add support for Transformer-based models
