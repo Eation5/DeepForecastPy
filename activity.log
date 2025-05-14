@@ -970,3 +970,4 @@ Commit at 2025-05-13T21:19:15: Refactor utils for better code reuse
 Commit at 2025-05-14T12:10:41: Fix minor bug in data windowing
 Commit at 2025-05-14T10:59:48: Optimize memory usage during training
 Commit at 2025-05-14T11:24:57: Optimize training loop for faster convergence
+Commit at 2025-05-14T14:39:41: Add examples for different use cases
