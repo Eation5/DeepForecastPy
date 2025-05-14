@@ -977,3 +977,4 @@ Commit at 2025-05-14T17:27:50: Optimize data loading for large datasets
 Commit at 2025-05-14T19:23:38: Update preprocessing pipeline to handle missing values
 Commit at 2025-05-14T14:34:45: Optimize training loop for faster convergence
 Commit at 2025-05-14T15:16:46: Optimize training loop for faster convergence
+Commit at 2025-05-14T11:02:23: Add support for GRU models
