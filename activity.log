@@ -978,3 +978,4 @@ Commit at 2025-05-14T19:23:38: Update preprocessing pipeline to handle missing v
 Commit at 2025-05-14T14:34:45: Optimize training loop for faster convergence
 Commit at 2025-05-14T15:16:46: Optimize training loop for faster convergence
 Commit at 2025-05-14T11:02:23: Add support for GRU models
+Commit at 2025-05-14T14:13:14: Fix issue with model serialization
