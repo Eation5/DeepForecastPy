@@ -995,3 +995,4 @@ Commit at 2025-05-16T10:20:46: Update project structure for better organization
 Commit at 2025-05-16T15:52:01: Improve documentation for API reference
 Commit at 2025-05-16T18:26:30: Add support for bidirectional RNNs
 Commit at 2025-05-16T20:17:32: Optimize data loading for large datasets
+Commit at 2025-05-16T10:52:54: Refactor model architecture for better performance
