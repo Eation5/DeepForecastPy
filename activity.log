@@ -984,3 +984,4 @@ Commit at 2025-05-14T11:51:47: Add support for GRU models
 Commit at 2025-05-15T12:32:08: Optimize memory usage during training
 Commit at 2025-05-16T17:58:28: Add unit tests for preprocessing utilities
 Commit at 2025-05-16T11:39:26: Fix issue with model serialization
+Commit at 2025-05-16T14:46:02: Fix issue with data normalization
