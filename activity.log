@@ -1005,3 +1005,4 @@ Commit at 2025-05-19T14:22:01: Add support for multiple output steps
 Commit at 2025-05-19T11:07:53: Optimize memory usage during training
 Commit at 2025-05-19T21:53:12: Improve error handling in model building
 Commit at 2025-05-19T10:26:51: Add support for bidirectional RNNs
+Commit at 2025-05-19T14:45:07: Fix issue with model serialization
