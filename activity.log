@@ -1029,3 +1029,4 @@ Commit at 2025-05-22T14:41:00: Add support for GRU models
 Commit at 2025-05-22T17:37:46: Add support for pre-trained models
 Commit at 2025-05-22T21:58:15: Fix issue with model serialization
 Commit at 2025-05-22T20:04:50: Fix issue with data normalization
+Commit at 2025-05-23T15:56:43: Add support for data augmentation
