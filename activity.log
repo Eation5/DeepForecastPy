@@ -1039,3 +1039,4 @@ Commit at 2025-05-23T16:01:11: Add support for multiple output steps
 Commit at 2025-05-23T09:53:52: Fix minor bug in data windowing
 Commit at 2025-05-23T14:08:02: Add new evaluation metrics for time series forecasting
 Commit at 2025-05-23T19:32:48: Add unit tests for preprocessing utilities
+Commit at 2025-05-23T14:01:52: Add support for data augmentation
