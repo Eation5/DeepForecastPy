@@ -1044,3 +1044,4 @@ Commit at 2025-05-23T13:03:47: Fix issue with model serialization
 Commit at 2025-05-23T10:57:12: Update documentation for new features
 Commit at 2025-05-23T11:34:17: Optimize memory usage during training
 Commit at 2025-05-23T10:54:15: Add support for pre-trained models
+Commit at 2025-05-26T13:08:38: Add support for bidirectional RNNs
