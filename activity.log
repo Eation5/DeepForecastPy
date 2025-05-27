@@ -1046,3 +1046,4 @@ Commit at 2025-05-23T11:34:17: Optimize memory usage during training
 Commit at 2025-05-23T10:54:15: Add support for pre-trained models
 Commit at 2025-05-26T13:08:38: Add support for bidirectional RNNs
 Commit at 2025-05-27T15:26:04: Improve error handling in model building
+Commit at 2025-05-27T09:51:27: Improve logging during model training
