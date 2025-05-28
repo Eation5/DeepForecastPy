@@ -1052,3 +1052,4 @@ Commit at 2025-05-28T09:05:44: Fix issue with data normalization
 Commit at 2025-05-28T11:42:18: Update documentation for new features
 Commit at 2025-05-28T15:47:45: Add support for Transformer-based models
 Commit at 2025-05-28T15:51:24: Optimize memory usage during training
+Commit at 2025-05-28T18:19:04: Add support for multiple output steps
