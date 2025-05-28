@@ -1050,3 +1050,4 @@ Commit at 2025-05-27T09:51:27: Improve logging during model training
 Commit at 2025-05-28T13:58:10: Optimize memory usage during training
 Commit at 2025-05-28T09:05:44: Fix issue with data normalization
 Commit at 2025-05-28T11:42:18: Update documentation for new features
+Commit at 2025-05-28T15:47:45: Add support for Transformer-based models
