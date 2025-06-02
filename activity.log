@@ -1068,3 +1068,4 @@ Commit at 2025-06-02T20:32:42: Add support for GRU models
 Commit at 2025-06-02T20:42:25: Refactor model architecture for better performance
 Commit at 2025-06-02T09:22:13: Fix minor bug in data windowing
 Commit at 2025-06-02T17:36:53: Improve error handling in model building
+Commit at 2025-06-02T16:56:23: Update README with more detailed instructions
