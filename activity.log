@@ -1077,3 +1077,4 @@ Commit at 2025-06-03T21:08:16: Add support for multiple output steps
 Commit at 2025-06-03T09:19:17: Add support for data augmentation
 Commit at 2025-06-03T14:34:12: Add support for data augmentation
 Commit at 2025-06-03T15:59:18: Improve documentation for API reference
+Commit at 2025-06-03T14:38:44: Add support for custom loss functions
