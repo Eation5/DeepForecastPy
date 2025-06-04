@@ -1080,3 +1080,4 @@ Commit at 2025-06-03T15:59:18: Improve documentation for API reference
 Commit at 2025-06-03T14:38:44: Add support for custom loss functions
 Commit at 2025-06-04T12:49:33: Add support for Transformer-based models
 Commit at 2025-06-04T21:14:02: Update preprocessing pipeline to handle missing values
+Commit at 2025-06-04T17:26:15: Update README with more detailed instructions
