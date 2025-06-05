@@ -1085,3 +1085,4 @@ Commit at 2025-06-04T14:09:31: Optimize memory usage during training
 Commit at 2025-06-05T15:27:58: Optimize memory usage during training
 Commit at 2025-06-05T21:12:17: Fix bug in LSTM layer initialization
 Commit at 2025-06-05T16:47:48: Fix issue with model serialization
+Commit at 2025-06-05T15:56:39: Improve visualization functions for predictions
