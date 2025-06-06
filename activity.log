@@ -1096,3 +1096,4 @@ Commit at 2025-06-06T11:46:08: Add new evaluation metrics for time series foreca
 Commit at 2025-06-06T09:49:33: Fix issue with data normalization
 Commit at 2025-06-06T17:48:41: Add examples for using the library
 Commit at 2025-06-06T19:04:16: Refactor model architecture for better performance
+Commit at 2025-06-06T10:23:30: Add support for custom loss functions
