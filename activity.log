@@ -1102,3 +1102,4 @@ Commit at 2025-06-06T09:04:52: Add support for GRU models
 Commit at 2025-06-06T12:56:16: Update preprocessing pipeline to handle missing values
 Commit at 2025-06-06T17:58:22: Update preprocessing pipeline to handle missing values
 Commit at 2025-06-09T12:45:35: Update requirements for new dependencies
+Commit at 2025-06-09T14:51:52: Fix bug in LSTM layer initialization
