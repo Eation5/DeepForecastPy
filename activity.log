@@ -1125,3 +1125,4 @@ Commit at 2025-06-12T11:01:08: Add examples for using the library
 Commit at 2025-06-12T18:21:42: Improve visualization functions for predictions
 Commit at 2025-06-12T19:09:14: Fix issue with data normalization
 Commit at 2025-06-12T09:55:02: Add new evaluation metrics for time series forecasting
+Commit at 2025-06-12T20:49:26: Update project structure for better organization
