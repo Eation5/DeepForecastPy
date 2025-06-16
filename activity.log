@@ -1133,3 +1133,4 @@ Commit at 2025-06-12T10:19:57: Add support for Transformer-based models
 Commit at 2025-06-12T13:12:59: Improve logging during model training
 Commit at 2025-06-12T19:55:01: Fix bug in LSTM layer initialization
 Commit at 2025-06-16T21:06:33: Add support for custom loss functions
+Commit at 2025-06-16T11:21:02: Add examples for different use cases
