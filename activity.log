@@ -1143,3 +1143,4 @@ Commit at 2025-06-18T18:10:00: Refactor utils for better code reuse
 Commit at 2025-06-18T13:25:58: Update README with more detailed instructions
 Commit at 2025-06-18T11:51:04: Improve documentation for API reference
 Commit at 2025-06-18T15:53:38: Update project structure for better organization
+Commit at 2025-06-18T12:17:15: Optimize inference speed for edge devices
