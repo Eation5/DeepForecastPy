@@ -1149,3 +1149,4 @@ Commit at 2025-06-19T14:05:21: Fix issue with model serialization
 Commit at 2025-06-19T15:08:38: Refactor utils for better code reuse
 Commit at 2025-06-19T19:33:25: Fix minor bug in data windowing
 Commit at 2025-06-19T12:02:00: Fix issue with data normalization
+Commit at 2025-06-19T17:20:34: Improve documentation for API reference
