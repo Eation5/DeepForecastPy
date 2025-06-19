@@ -1147,3 +1147,4 @@ Commit at 2025-06-18T12:17:15: Optimize inference speed for edge devices
 Commit at 2025-06-18T13:44:03: Fix minor bug in data windowing
 Commit at 2025-06-19T14:05:21: Fix issue with model serialization
 Commit at 2025-06-19T15:08:38: Refactor utils for better code reuse
+Commit at 2025-06-19T19:33:25: Fix minor bug in data windowing
