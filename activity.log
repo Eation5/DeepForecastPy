@@ -1160,3 +1160,4 @@ Commit at 2025-06-19T21:07:03: Fix issue with model serialization
 Commit at 2025-06-19T12:00:13: Fix bug in LSTM layer initialization
 Commit at 2025-06-19T10:05:30: Optimize memory usage during training
 Commit at 2025-06-19T19:33:38: Update README with more detailed instructions
+Commit at 2025-06-20T19:00:35: Add unit tests for preprocessing utilities
