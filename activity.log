@@ -1165,3 +1165,4 @@ Commit at 2025-06-20T11:13:00: Fix issue with data normalization
 Commit at 2025-06-20T11:16:41: Refactor model architecture for better performance
 Commit at 2025-06-20T09:43:28: Fix issue with model serialization
 Commit at 2025-06-20T13:14:49: Refactor utils for better code reuse
+Commit at 2025-06-20T16:53:59: Improve error handling in model building
