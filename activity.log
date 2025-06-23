@@ -1170,3 +1170,4 @@ Commit at 2025-06-20T11:10:57: Add new evaluation metrics for time series foreca
 Commit at 2025-06-20T17:43:26: Fix bug in LSTM layer initialization
 Commit at 2025-06-23T10:29:38: Add unit tests for preprocessing utilities
 Commit at 2025-06-23T19:47:05: Fix issue with model serialization
+Commit at 2025-06-23T11:32:42: Update README with more detailed instructions
