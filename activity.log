@@ -1175,3 +1175,4 @@ Commit at 2025-06-23T14:13:43: Fix minor bug in data windowing
 Commit at 2025-06-23T11:59:04: Add support for custom loss functions
 Commit at 2025-06-23T10:38:31: Fix bug in LSTM layer initialization
 Commit at 2025-06-23T11:11:54: Add unit tests for preprocessing utilities
+Commit at 2025-06-23T10:39:39: Fix minor bug in data windowing
