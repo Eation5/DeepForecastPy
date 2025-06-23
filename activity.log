@@ -1173,3 +1173,4 @@ Commit at 2025-06-23T19:47:05: Fix issue with model serialization
 Commit at 2025-06-23T11:32:42: Update README with more detailed instructions
 Commit at 2025-06-23T14:13:43: Fix minor bug in data windowing
 Commit at 2025-06-23T11:59:04: Add support for custom loss functions
+Commit at 2025-06-23T10:38:31: Fix bug in LSTM layer initialization
