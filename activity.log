@@ -1182,3 +1182,4 @@ Commit at 2025-06-24T10:59:41: Improve logging during model training
 Commit at 2025-06-24T12:09:28: Add support for data augmentation
 Commit at 2025-06-24T18:05:54: Update preprocessing pipeline to handle missing values
 Commit at 2025-06-24T18:04:46: Add examples for using the library
+Commit at 2025-06-24T12:08:32: Add new evaluation metrics for time series forecasting
