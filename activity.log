@@ -1180,3 +1180,4 @@ Commit at 2025-06-23T19:18:02: Update preprocessing pipeline to handle missing v
 Commit at 2025-06-24T10:21:51: Improve error handling in model building
 Commit at 2025-06-24T10:59:41: Improve logging during model training
 Commit at 2025-06-24T12:09:28: Add support for data augmentation
+Commit at 2025-06-24T18:05:54: Update preprocessing pipeline to handle missing values
