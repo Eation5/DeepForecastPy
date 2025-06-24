@@ -1177,3 +1177,4 @@ Commit at 2025-06-23T10:38:31: Fix bug in LSTM layer initialization
 Commit at 2025-06-23T11:11:54: Add unit tests for preprocessing utilities
 Commit at 2025-06-23T10:39:39: Fix minor bug in data windowing
 Commit at 2025-06-23T19:18:02: Update preprocessing pipeline to handle missing values
+Commit at 2025-06-24T10:21:51: Improve error handling in model building
