@@ -1190,3 +1190,4 @@ Commit at 2025-06-25T12:28:59: Add examples for using the library
 Commit at 2025-06-25T15:42:49: Update preprocessing pipeline to handle missing values
 Commit at 2025-06-25T09:07:31: Add examples for different use cases
 Commit at 2025-06-25T17:03:11: Add examples for using the library
+Commit at 2025-06-25T19:22:12: Improve error handling in model building
