@@ -1194,3 +1194,4 @@ Commit at 2025-06-25T19:22:12: Improve error handling in model building
 Commit at 2025-06-25T12:48:12: Improve logging during model training
 Commit at 2025-06-25T17:44:27: Improve logging during model training
 Commit at 2025-06-25T12:42:52: Refactor utils for better code reuse
+Commit at 2025-06-25T16:29:19: Add unit tests for preprocessing utilities
