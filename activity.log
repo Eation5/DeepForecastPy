@@ -1201,3 +1201,4 @@ Commit at 2025-06-26T16:51:55: Fix bug in LSTM layer initialization
 Commit at 2025-06-26T13:01:05: Fix bug in LSTM layer initialization
 Commit at 2025-06-26T21:40:41: Fix bug in LSTM layer initialization
 Commit at 2025-06-26T14:44:45: Add support for GRU models
+Commit at 2025-06-26T18:11:55: Fix issue with model serialization
