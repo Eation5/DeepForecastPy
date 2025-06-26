@@ -1203,3 +1203,4 @@ Commit at 2025-06-26T21:40:41: Fix bug in LSTM layer initialization
 Commit at 2025-06-26T14:44:45: Add support for GRU models
 Commit at 2025-06-26T18:11:55: Fix issue with model serialization
 Commit at 2025-06-26T19:31:08: Optimize training loop for faster convergence
+Commit at 2025-06-26T14:36:09: Fix issue with data normalization
