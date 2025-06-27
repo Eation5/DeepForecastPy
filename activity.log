@@ -1206,3 +1206,4 @@ Commit at 2025-06-26T19:31:08: Optimize training loop for faster convergence
 Commit at 2025-06-26T14:36:09: Fix issue with data normalization
 Commit at 2025-06-26T15:57:49: Update README with more detailed instructions
 Commit at 2025-06-26T14:45:33: Add support for data augmentation
+Commit at 2025-06-26T20:38:57: Improve documentation for API reference
