@@ -1225,3 +1225,4 @@ Commit at 2025-07-01T09:30:30: Update project structure for better organization
 Commit at 2025-07-01T19:39:33: Update README with more detailed instructions
 Commit at 2025-07-02T16:46:42: Fix minor bug in data windowing
 Commit at 2025-07-02T14:28:19: Optimize inference speed for edge devices
+Commit at 2025-07-02T16:35:14: Add new evaluation metrics for time series forecasting
