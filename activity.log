@@ -1232,3 +1232,4 @@ Commit at 2025-07-02T17:03:09: Add support for multiple output steps
 Commit at 2025-07-03T09:56:40: Fix bug in LSTM layer initialization
 Commit at 2025-07-03T12:00:00: Fix issue with data normalization
 Commit at 2025-07-03T15:42:52: Optimize inference speed for edge devices
+Commit at 2025-07-03T16:48:03: Add new evaluation metrics for time series forecasting
