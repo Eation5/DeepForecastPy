@@ -1229,3 +1229,4 @@ Commit at 2025-07-02T16:35:14: Add new evaluation metrics for time series foreca
 Commit at 2025-07-02T16:05:37: Update documentation for new features
 Commit at 2025-07-02T16:17:28: Update preprocessing pipeline to handle missing values
 Commit at 2025-07-02T17:03:09: Add support for multiple output steps
+Commit at 2025-07-03T09:56:40: Fix bug in LSTM layer initialization
