@@ -1235,3 +1235,4 @@ Commit at 2025-07-03T15:42:52: Optimize inference speed for edge devices
 Commit at 2025-07-03T16:48:03: Add new evaluation metrics for time series forecasting
 Commit at 2025-07-03T11:41:20: Refactor utils for better code reuse
 Commit at 2025-07-03T17:47:18: Add support for custom loss functions
+Commit at 2025-07-03T21:26:13: Add examples for different use cases
