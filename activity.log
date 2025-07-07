@@ -1244,3 +1244,4 @@ Commit at 2025-07-03T11:13:09: Optimize inference speed for edge devices
 Commit at 2025-07-07T18:04:33: Refactor utils for better code reuse
 Commit at 2025-07-07T13:40:14: Update preprocessing pipeline to handle missing values
 Commit at 2025-07-07T13:01:00: Add support for GRU models
+Commit at 2025-07-07T19:13:35: Add support for bidirectional RNNs
