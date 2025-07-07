@@ -1248,3 +1248,4 @@ Commit at 2025-07-07T19:13:35: Add support for bidirectional RNNs
 Commit at 2025-07-07T21:37:02: Add support for pre-trained models
 Commit at 2025-07-07T11:54:36: Improve logging during model training
 Commit at 2025-07-07T19:01:48: Add support for bidirectional RNNs
+Commit at 2025-07-07T10:29:03: Add support for custom loss functions
