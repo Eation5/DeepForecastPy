@@ -1253,3 +1253,4 @@ Commit at 2025-07-07T15:36:22: Update README with more detailed instructions
 Commit at 2025-07-07T13:20:44: Fix minor bug in data windowing
 Commit at 2025-07-08T10:59:15: Add support for custom loss functions
 Commit at 2025-07-08T20:33:20: Update documentation for new features
+Commit at 2025-07-08T19:15:59: Add examples for different use cases
