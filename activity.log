@@ -1273,3 +1273,4 @@ Commit at 2025-07-10T13:05:46: Improve logging during model training
 Commit at 2025-07-10T10:53:28: Fix minor bug in data windowing
 Commit at 2025-07-10T18:30:07: Add support for multiple output steps
 Commit at 2025-07-10T20:12:10: Optimize training loop for faster convergence
+Commit at 2025-07-10T12:28:17: Improve error handling in model building
