@@ -1271,3 +1271,4 @@ Commit at 2025-07-09T13:25:39: Update documentation for new features
 Commit at 2025-07-10T15:57:36: Add support for data augmentation
 Commit at 2025-07-10T13:05:46: Improve logging during model training
 Commit at 2025-07-10T10:53:28: Fix minor bug in data windowing
+Commit at 2025-07-10T18:30:07: Add support for multiple output steps
