@@ -1275,3 +1275,4 @@ Commit at 2025-07-10T18:30:07: Add support for multiple output steps
 Commit at 2025-07-10T20:12:10: Optimize training loop for faster convergence
 Commit at 2025-07-10T12:28:17: Improve error handling in model building
 Commit at 2025-07-10T21:49:15: Add support for multiple output steps
+Commit at 2025-07-10T21:23:06: Update project structure for better organization
