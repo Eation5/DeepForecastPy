@@ -1284,3 +1284,4 @@ Commit at 2025-07-11T20:45:19: Update README with more detailed instructions
 Commit at 2025-07-11T15:30:22: Update project structure for better organization
 Commit at 2025-07-11T16:49:27: Improve error handling in model building
 Commit at 2025-07-11T20:41:07: Fix minor bug in data windowing
+Commit at 2025-07-11T19:30:59: Refactor utils for better code reuse
