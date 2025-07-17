@@ -1304,3 +1304,4 @@ Commit at 2025-07-16T12:24:18: Fix minor bug in data windowing
 Commit at 2025-07-16T11:29:25: Refactor utils for better code reuse
 Commit at 2025-07-17T12:21:58: Improve visualization functions for predictions
 Commit at 2025-07-17T14:29:25: Optimize inference speed for edge devices
+Commit at 2025-07-17T14:20:21: Fix minor bug in data windowing
