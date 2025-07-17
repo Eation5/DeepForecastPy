@@ -1302,3 +1302,4 @@ Commit at 2025-07-16T17:05:59: Update requirements for new dependencies
 Commit at 2025-07-16T17:25:15: Update preprocessing pipeline to handle missing values
 Commit at 2025-07-16T12:24:18: Fix minor bug in data windowing
 Commit at 2025-07-16T11:29:25: Refactor utils for better code reuse
+Commit at 2025-07-17T12:21:58: Improve visualization functions for predictions
