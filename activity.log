@@ -1315,3 +1315,4 @@ Commit at 2025-07-21T16:14:27: Update documentation for new features
 Commit at 2025-07-21T10:50:19: Add unit tests for preprocessing utilities
 Commit at 2025-07-21T17:00:19: Add unit tests for preprocessing utilities
 Commit at 2025-07-22T10:38:26: Refactor utils for better code reuse
+Commit at 2025-07-22T18:56:01: Add examples for different use cases
