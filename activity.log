@@ -1340,3 +1340,4 @@ Commit at 2025-07-23T15:21:03: Improve error handling in model building
 Commit at 2025-07-23T17:02:23: Update preprocessing pipeline to handle missing values
 Commit at 2025-07-23T12:48:37: Fix issue with data normalization
 Commit at 2025-07-23T14:36:55: Fix issue with model serialization
+Commit at 2025-07-23T11:11:37: Add support for Transformer-based models
