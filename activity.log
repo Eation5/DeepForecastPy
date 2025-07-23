@@ -1319,3 +1319,4 @@ Commit at 2025-07-22T18:56:01: Add examples for different use cases
 Commit at 2025-07-22T12:41:00: Optimize memory usage during training
 Commit at 2025-07-22T10:48:58: Add support for pre-trained models
 Commit at 2025-07-22T18:12:05: Improve error handling in model building
+Commit at 2025-07-22T21:28:04: Update documentation for new features
