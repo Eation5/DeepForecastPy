@@ -1344,3 +1344,4 @@ Commit at 2025-07-23T11:11:37: Add support for Transformer-based models
 Commit at 2025-07-23T11:16:00: Add support for bidirectional RNNs
 Commit at 2025-07-23T15:29:44: Fix issue with model serialization
 Commit at 2025-07-24T14:55:35: Add support for GRU models
+Commit at 2025-07-24T17:51:24: Update requirements for new dependencies
