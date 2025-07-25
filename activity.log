@@ -1351,3 +1351,4 @@ Commit at 2025-07-25T21:45:12: Fix bug in LSTM layer initialization
 Commit at 2025-07-25T12:20:52: Improve visualization functions for predictions
 Commit at 2025-07-25T14:17:14: Add examples for using the library
 Commit at 2025-07-25T14:10:38: Add unit tests for preprocessing utilities
+Commit at 2025-07-25T19:25:43: Add support for Transformer-based models
