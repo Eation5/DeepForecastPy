@@ -1347,3 +1347,4 @@ Commit at 2025-07-24T14:55:35: Add support for GRU models
 Commit at 2025-07-24T17:51:24: Update requirements for new dependencies
 Commit at 2025-07-25T16:28:54: Improve logging during model training
 Commit at 2025-07-25T18:09:54: Fix bug in LSTM layer initialization
+Commit at 2025-07-25T21:45:12: Fix bug in LSTM layer initialization
