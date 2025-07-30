@@ -1362,3 +1362,4 @@ Commit at 2025-07-29T13:20:14: Add support for data augmentation
 Commit at 2025-07-29T09:26:04: Fix bug in LSTM layer initialization
 Commit at 2025-07-29T21:45:36: Improve documentation for API reference
 Commit at 2025-07-29T09:33:08: Add unit tests for preprocessing utilities
+Commit at 2025-07-30T09:25:38: Add support for GRU models
