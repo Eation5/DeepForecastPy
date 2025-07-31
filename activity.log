@@ -1372,3 +1372,4 @@ Commit at 2025-07-30T17:02:20: Add unit tests for preprocessing utilities
 Commit at 2025-07-31T10:03:03: Fix issue with data normalization
 Commit at 2025-07-31T19:48:46: Optimize inference speed for edge devices
 Commit at 2025-07-31T17:57:25: Optimize training loop for faster convergence
+Commit at 2025-07-31T15:51:02: Update project structure for better organization
