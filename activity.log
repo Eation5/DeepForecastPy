@@ -1376,3 +1376,4 @@ Commit at 2025-07-31T15:51:02: Update project structure for better organization
 Commit at 2025-07-31T17:59:45: Fix bug in LSTM layer initialization
 Commit at 2025-07-31T21:13:08: Optimize memory usage during training
 Commit at 2025-08-01T20:19:36: Refactor utils for better code reuse
+Commit at 2025-08-01T19:21:47: Fix bug in LSTM layer initialization
