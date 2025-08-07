@@ -1379,3 +1379,4 @@ Commit at 2025-08-01T20:19:36: Refactor utils for better code reuse
 Commit at 2025-08-01T19:21:47: Fix bug in LSTM layer initialization
 Commit at 2025-08-01T14:49:00: Fix issue with model serialization
 Commit at 2025-08-06T18:32:45: Add support for custom loss functions
+Commit at 2025-08-06T20:37:54: Add support for multiple output steps
