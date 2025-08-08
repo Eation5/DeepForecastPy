@@ -1402,3 +1402,4 @@ Commit at 2025-08-08T09:49:28: Add new evaluation metrics for time series foreca
 Commit at 2025-08-08T13:08:09: Add support for custom loss functions
 Commit at 2025-08-08T15:39:12: Optimize training loop for faster convergence
 Commit at 2025-08-08T13:57:29: Update README with more detailed instructions
+Commit at 2025-08-08T16:44:33: Add support for bidirectional RNNs
