@@ -1385,3 +1385,4 @@ Commit at 2025-08-06T17:05:06: Optimize training loop for faster convergence
 Commit at 2025-08-07T13:48:09: Optimize memory usage during training
 Commit at 2025-08-07T10:00:56: Update README with more detailed instructions
 Commit at 2025-08-07T18:29:14: Update preprocessing pipeline to handle missing values
+Commit at 2025-08-07T21:18:02: Add examples for using the library
