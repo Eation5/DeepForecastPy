@@ -1397,3 +1397,4 @@ Commit at 2025-08-07T11:16:09: Refactor model architecture for better performanc
 Commit at 2025-08-08T09:39:01: Update README with more detailed instructions
 Commit at 2025-08-08T11:31:16: Update documentation for new features
 Commit at 2025-08-08T18:27:34: Add new evaluation metrics for time series forecasting
+Commit at 2025-08-08T10:30:59: Add support for GRU models
