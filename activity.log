@@ -1405,3 +1405,4 @@ Commit at 2025-08-08T13:57:29: Update README with more detailed instructions
 Commit at 2025-08-08T16:44:33: Add support for bidirectional RNNs
 Commit at 2025-08-08T17:59:09: Optimize inference speed for edge devices
 Commit at 2025-08-08T19:16:13: Optimize training loop for faster convergence
+Commit at 2025-08-08T21:14:18: Add support for bidirectional RNNs
