@@ -1411,3 +1411,4 @@ Commit at 2025-08-08T13:47:41: Improve error handling in model building
 Commit at 2025-08-08T15:15:05: Add support for bidirectional RNNs
 Commit at 2025-08-11T16:21:31: Update preprocessing pipeline to handle missing values
 Commit at 2025-08-11T21:26:31: Add new evaluation metrics for time series forecasting
+Commit at 2025-08-11T18:27:42: Improve visualization functions for predictions
