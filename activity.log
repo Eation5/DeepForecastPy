@@ -1412,3 +1412,4 @@ Commit at 2025-08-08T15:15:05: Add support for bidirectional RNNs
 Commit at 2025-08-11T16:21:31: Update preprocessing pipeline to handle missing values
 Commit at 2025-08-11T21:26:31: Add new evaluation metrics for time series forecasting
 Commit at 2025-08-11T18:27:42: Improve visualization functions for predictions
+Commit at 2025-08-11T12:22:57: Update README with more detailed instructions
