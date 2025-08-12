@@ -1418,3 +1418,4 @@ Commit at 2025-08-11T15:09:57: Improve error handling in model building
 Commit at 2025-08-11T19:33:31: Improve documentation for API reference
 Commit at 2025-08-11T15:30:21: Update README with more detailed instructions
 Commit at 2025-08-12T09:09:03: Update documentation for new features
+Commit at 2025-08-12T17:01:16: Add new evaluation metrics for time series forecasting
