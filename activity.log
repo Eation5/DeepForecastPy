@@ -1424,3 +1424,4 @@ Commit at 2025-08-12T12:07:45: Update README with more detailed instructions
 Commit at 2025-08-12T19:07:28: Add support for Transformer-based models
 Commit at 2025-08-13T15:25:47: Refactor model architecture for better performance
 Commit at 2025-08-13T10:12:46: Add support for multiple output steps
+Commit at 2025-08-13T10:27:16: Update requirements for new dependencies
