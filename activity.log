@@ -1422,3 +1422,4 @@ Commit at 2025-08-12T17:01:16: Add new evaluation metrics for time series foreca
 Commit at 2025-08-12T13:35:07: Optimize training loop for faster convergence
 Commit at 2025-08-12T12:07:45: Update README with more detailed instructions
 Commit at 2025-08-12T19:07:28: Add support for Transformer-based models
+Commit at 2025-08-13T15:25:47: Refactor model architecture for better performance
