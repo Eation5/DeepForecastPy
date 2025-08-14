@@ -1438,3 +1438,4 @@ Commit at 2025-08-14T10:17:54: Add examples for using the library
 Commit at 2025-08-14T09:52:07: Optimize inference speed for edge devices
 Commit at 2025-08-14T10:19:07: Add support for custom loss functions
 Commit at 2025-08-14T19:44:28: Fix minor bug in data windowing
+Commit at 2025-08-14T10:28:20: Optimize memory usage during training
