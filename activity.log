@@ -1436,3 +1436,4 @@ Commit at 2025-08-14T12:07:10: Fix bug in LSTM layer initialization
 Commit at 2025-08-14T14:38:47: Add examples for different use cases
 Commit at 2025-08-14T10:17:54: Add examples for using the library
 Commit at 2025-08-14T09:52:07: Optimize inference speed for edge devices
+Commit at 2025-08-14T10:19:07: Add support for custom loss functions
