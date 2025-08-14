@@ -1427,3 +1427,4 @@ Commit at 2025-08-13T10:12:46: Add support for multiple output steps
 Commit at 2025-08-13T10:27:16: Update requirements for new dependencies
 Commit at 2025-08-13T10:58:55: Update README with more detailed instructions
 Commit at 2025-08-13T13:55:27: Add support for bidirectional RNNs
+Commit at 2025-08-14T13:10:17: Add support for custom loss functions
