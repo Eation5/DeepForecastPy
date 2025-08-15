@@ -1450,3 +1450,4 @@ Commit at 2025-08-15T10:24:50: Add support for GRU models
 Commit at 2025-08-15T10:30:16: Refactor model architecture for better performance
 Commit at 2025-08-15T21:02:33: Fix bug in LSTM layer initialization
 Commit at 2025-08-15T20:41:35: Improve error handling in model building
+Commit at 2025-08-15T16:23:46: Optimize memory usage during training
