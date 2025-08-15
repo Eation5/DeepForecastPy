@@ -1431,3 +1431,4 @@ Commit at 2025-08-14T13:10:17: Add support for custom loss functions
 Commit at 2025-08-14T16:57:38: Add support for pre-trained models
 Commit at 2025-08-14T18:56:17: Update README with more detailed instructions
 Commit at 2025-08-14T17:03:30: Improve visualization functions for predictions
+Commit at 2025-08-14T21:54:08: Add support for Transformer-based models
