@@ -1441,3 +1441,4 @@ Commit at 2025-08-14T19:44:28: Fix minor bug in data windowing
 Commit at 2025-08-14T10:28:20: Optimize memory usage during training
 Commit at 2025-08-14T19:16:51: Add support for bidirectional RNNs
 Commit at 2025-08-14T10:14:39: Fix issue with model serialization
+Commit at 2025-08-15T13:15:36: Add support for multiple output steps
