@@ -1443,3 +1443,4 @@ Commit at 2025-08-14T19:16:51: Add support for bidirectional RNNs
 Commit at 2025-08-14T10:14:39: Fix issue with model serialization
 Commit at 2025-08-15T13:15:36: Add support for multiple output steps
 Commit at 2025-08-15T19:36:09: Add examples for using the library
+Commit at 2025-08-15T17:18:38: Improve logging during model training
