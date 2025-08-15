@@ -1447,3 +1447,4 @@ Commit at 2025-08-15T17:18:38: Improve logging during model training
 Commit at 2025-08-15T17:44:50: Add support for GRU models
 Commit at 2025-08-15T12:19:14: Add support for custom loss functions
 Commit at 2025-08-15T10:24:50: Add support for GRU models
+Commit at 2025-08-15T10:30:16: Refactor model architecture for better performance
