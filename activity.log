@@ -1458,3 +1458,4 @@ Commit at 2025-08-15T10:12:57: Improve visualization functions for predictions
 Commit at 2025-08-18T14:56:29: Optimize data loading for large datasets
 Commit at 2025-08-18T11:41:33: Optimize data loading for large datasets
 Commit at 2025-08-18T10:59:39: Fix bug in LSTM layer initialization
+Commit at 2025-08-18T10:08:54: Add support for GRU models
