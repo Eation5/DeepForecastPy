@@ -1462,3 +1462,4 @@ Commit at 2025-08-18T10:08:54: Add support for GRU models
 Commit at 2025-08-18T09:12:19: Refactor model architecture for better performance
 Commit at 2025-08-19T19:23:22: Optimize inference speed for edge devices
 Commit at 2025-08-19T10:24:04: Add new evaluation metrics for time series forecasting
+Commit at 2025-08-19T19:10:55: Fix minor bug in data windowing
