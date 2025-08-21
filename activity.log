@@ -1464,3 +1464,4 @@ Commit at 2025-08-19T19:23:22: Optimize inference speed for edge devices
 Commit at 2025-08-19T10:24:04: Add new evaluation metrics for time series forecasting
 Commit at 2025-08-19T19:10:55: Fix minor bug in data windowing
 Commit at 2025-08-19T16:33:53: Refactor utils for better code reuse
+Commit at 2025-08-21T09:31:26: Update project structure for better organization
