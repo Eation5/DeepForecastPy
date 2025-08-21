@@ -1465,3 +1465,4 @@ Commit at 2025-08-19T10:24:04: Add new evaluation metrics for time series foreca
 Commit at 2025-08-19T19:10:55: Fix minor bug in data windowing
 Commit at 2025-08-19T16:33:53: Refactor utils for better code reuse
 Commit at 2025-08-21T09:31:26: Update project structure for better organization
+Commit at 2025-08-21T18:58:30: Improve logging during model training
