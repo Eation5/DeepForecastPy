@@ -1492,3 +1492,4 @@ Commit at 2025-08-25T12:34:52: Optimize data loading for large datasets
 Commit at 2025-08-25T19:01:13: Add support for GRU models
 Commit at 2025-08-25T21:41:46: Improve documentation for API reference
 Commit at 2025-08-25T20:03:17: Improve documentation for API reference
+Commit at 2025-08-25T14:12:36: Add support for bidirectional RNNs
