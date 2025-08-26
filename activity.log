@@ -1499,3 +1499,4 @@ Commit at 2025-08-26T09:42:38: Fix bug in LSTM layer initialization
 Commit at 2025-08-26T21:04:02: Update README with more detailed instructions
 Commit at 2025-08-26T11:06:26: Add support for multiple output steps
 Commit at 2025-08-26T14:48:20: Improve visualization functions for predictions
+Commit at 2025-08-26T14:22:45: Optimize training loop for faster convergence
