@@ -1490,3 +1490,4 @@ Commit at 2025-08-25T09:18:37: Update documentation for new features
 Commit at 2025-08-25T09:49:37: Add support for pre-trained models
 Commit at 2025-08-25T12:34:52: Optimize data loading for large datasets
 Commit at 2025-08-25T19:01:13: Add support for GRU models
+Commit at 2025-08-25T21:41:46: Improve documentation for API reference
