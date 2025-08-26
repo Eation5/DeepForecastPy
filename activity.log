@@ -1503,3 +1503,4 @@ Commit at 2025-08-26T14:22:45: Optimize training loop for faster convergence
 Commit at 2025-08-26T13:29:14: Update README with more detailed instructions
 Commit at 2025-08-26T19:23:57: Fix minor bug in data windowing
 Commit at 2025-08-26T12:12:49: Refactor model architecture for better performance
+Commit at 2025-08-26T11:19:00: Improve logging during model training
