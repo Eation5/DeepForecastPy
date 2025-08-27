@@ -1514,3 +1514,4 @@ Commit at 2025-08-27T09:46:27: Improve logging during model training
 Commit at 2025-08-27T19:17:34: Update project structure for better organization
 Commit at 2025-08-27T18:15:27: Add unit tests for preprocessing utilities
 Commit at 2025-08-27T13:27:59: Update README with more detailed instructions
+Commit at 2025-08-27T12:24:51: Refactor utils for better code reuse
