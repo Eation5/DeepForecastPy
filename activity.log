@@ -1544,3 +1544,4 @@ Commit at 2025-08-29T15:40:27: Fix minor bug in data windowing
 Commit at 2025-09-01T11:39:05: Improve logging during model training
 Commit at 2025-09-01T15:51:43: Improve visualization functions for predictions
 Commit at 2025-09-01T10:26:52: Add unit tests for preprocessing utilities
+Commit at 2025-09-01T15:29:21: Add new evaluation metrics for time series forecasting
