@@ -1545,3 +1545,4 @@ Commit at 2025-09-01T11:39:05: Improve logging during model training
 Commit at 2025-09-01T15:51:43: Improve visualization functions for predictions
 Commit at 2025-09-01T10:26:52: Add unit tests for preprocessing utilities
 Commit at 2025-09-01T15:29:21: Add new evaluation metrics for time series forecasting
+Commit at 2025-09-02T14:32:17: Refactor utils for better code reuse
