@@ -1549,3 +1549,4 @@ Commit at 2025-09-02T14:32:17: Refactor utils for better code reuse
 Commit at 2025-09-02T19:32:37: Refactor utils for better code reuse
 Commit at 2025-09-02T13:36:35: Fix minor bug in data windowing
 Commit at 2025-09-03T20:04:48: Refactor model architecture for better performance
+Commit at 2025-09-03T09:26:45: Improve error handling in model building
