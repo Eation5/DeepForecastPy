@@ -1551,3 +1551,4 @@ Commit at 2025-09-02T13:36:35: Fix minor bug in data windowing
 Commit at 2025-09-03T20:04:48: Refactor model architecture for better performance
 Commit at 2025-09-03T09:26:45: Improve error handling in model building
 Commit at 2025-09-03T18:50:26: Add support for custom loss functions
+Commit at 2025-09-03T09:17:27: Update README with more detailed instructions
