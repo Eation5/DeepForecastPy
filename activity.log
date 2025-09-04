@@ -1553,3 +1553,4 @@ Commit at 2025-09-03T09:26:45: Improve error handling in model building
 Commit at 2025-09-03T18:50:26: Add support for custom loss functions
 Commit at 2025-09-03T09:17:27: Update README with more detailed instructions
 Commit at 2025-09-03T10:53:15: Add support for multiple output steps
+Commit at 2025-09-04T17:59:30: Add support for GRU models
