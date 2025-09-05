@@ -1559,3 +1559,4 @@ Commit at 2025-09-04T09:47:58: Add new evaluation metrics for time series foreca
 Commit at 2025-09-04T15:38:29: Update documentation for new features
 Commit at 2025-09-04T16:58:52: Add new evaluation metrics for time series forecasting
 Commit at 2025-09-05T20:23:28: Fix issue with data normalization
+Commit at 2025-09-05T13:49:35: Update project structure for better organization
