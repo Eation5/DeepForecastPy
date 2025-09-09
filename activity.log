@@ -1576,3 +1576,4 @@ Commit at 2025-09-08T13:02:55: Update project structure for better organization
 Commit at 2025-09-08T12:56:36: Add support for multiple output steps
 Commit at 2025-09-08T18:48:59: Add support for GRU models
 Commit at 2025-09-09T09:32:25: Update requirements for new dependencies
+Commit at 2025-09-09T15:14:49: Add examples for different use cases
