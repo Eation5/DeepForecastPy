@@ -1578,3 +1578,4 @@ Commit at 2025-09-08T18:48:59: Add support for GRU models
 Commit at 2025-09-09T09:32:25: Update requirements for new dependencies
 Commit at 2025-09-09T15:14:49: Add examples for different use cases
 Commit at 2025-09-09T12:57:11: Optimize memory usage during training
+Commit at 2025-09-10T15:48:46: Update documentation for new features
