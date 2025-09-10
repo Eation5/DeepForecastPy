@@ -1582,3 +1582,4 @@ Commit at 2025-09-10T15:48:46: Update documentation for new features
 Commit at 2025-09-10T16:06:25: Improve error handling in model building
 Commit at 2025-09-10T20:28:59: Update project structure for better organization
 Commit at 2025-09-10T17:26:03: Add new evaluation metrics for time series forecasting
+Commit at 2025-09-10T13:25:51: Add support for bidirectional RNNs
