@@ -1579,3 +1579,4 @@ Commit at 2025-09-09T09:32:25: Update requirements for new dependencies
 Commit at 2025-09-09T15:14:49: Add examples for different use cases
 Commit at 2025-09-09T12:57:11: Optimize memory usage during training
 Commit at 2025-09-10T15:48:46: Update documentation for new features
+Commit at 2025-09-10T16:06:25: Improve error handling in model building
