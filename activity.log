@@ -1590,3 +1590,4 @@ Commit at 2025-09-10T18:41:17: Optimize inference speed for edge devices
 Commit at 2025-09-10T21:29:48: Update requirements for new dependencies
 Commit at 2025-09-10T14:10:27: Update preprocessing pipeline to handle missing values
 Commit at 2025-09-10T12:37:28: Fix issue with data normalization
+Commit at 2025-09-10T20:53:44: Fix issue with data normalization
