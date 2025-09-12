@@ -1593,3 +1593,4 @@ Commit at 2025-09-10T12:37:28: Fix issue with data normalization
 Commit at 2025-09-10T20:53:44: Fix issue with data normalization
 Commit at 2025-09-11T20:28:48: Add support for bidirectional RNNs
 Commit at 2025-09-12T10:16:09: Add new evaluation metrics for time series forecasting
+Commit at 2025-09-12T09:14:34: Add support for Transformer-based models
