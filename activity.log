@@ -1592,3 +1592,4 @@ Commit at 2025-09-10T14:10:27: Update preprocessing pipeline to handle missing v
 Commit at 2025-09-10T12:37:28: Fix issue with data normalization
 Commit at 2025-09-10T20:53:44: Fix issue with data normalization
 Commit at 2025-09-11T20:28:48: Add support for bidirectional RNNs
+Commit at 2025-09-12T10:16:09: Add new evaluation metrics for time series forecasting
