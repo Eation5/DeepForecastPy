@@ -1595,3 +1595,4 @@ Commit at 2025-09-11T20:28:48: Add support for bidirectional RNNs
 Commit at 2025-09-12T10:16:09: Add new evaluation metrics for time series forecasting
 Commit at 2025-09-12T09:14:34: Add support for Transformer-based models
 Commit at 2025-09-12T11:58:35: Add support for bidirectional RNNs
+Commit at 2025-09-12T13:10:55: Improve error handling in model building
