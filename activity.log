@@ -1597,3 +1597,4 @@ Commit at 2025-09-12T09:14:34: Add support for Transformer-based models
 Commit at 2025-09-12T11:58:35: Add support for bidirectional RNNs
 Commit at 2025-09-12T13:10:55: Improve error handling in model building
 Commit at 2025-09-12T09:19:59: Add support for bidirectional RNNs
+Commit at 2025-09-12T15:07:57: Update requirements for new dependencies
