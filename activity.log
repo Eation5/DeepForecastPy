@@ -1608,3 +1608,4 @@ Commit at 2025-09-15T20:15:37: Improve error handling in model building
 Commit at 2025-09-17T19:49:38: Add support for GRU models
 Commit at 2025-09-17T17:41:50: Update project structure for better organization
 Commit at 2025-09-17T10:40:47: Update README with more detailed instructions
+Commit at 2025-09-17T14:49:26: Improve error handling in model building
