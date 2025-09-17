@@ -1606,3 +1606,4 @@ Commit at 2025-09-15T10:54:54: Add support for GRU models
 Commit at 2025-09-15T09:11:37: Add support for multiple output steps
 Commit at 2025-09-15T20:15:37: Improve error handling in model building
 Commit at 2025-09-17T19:49:38: Add support for GRU models
+Commit at 2025-09-17T17:41:50: Update project structure for better organization
