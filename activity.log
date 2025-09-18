@@ -1617,3 +1617,4 @@ Commit at 2025-09-17T10:18:33: Refactor utils for better code reuse
 Commit at 2025-09-17T13:34:36: Update requirements for new dependencies
 Commit at 2025-09-17T21:50:08: Optimize inference speed for edge devices
 Commit at 2025-09-17T16:26:46: Refactor model architecture for better performance
+Commit at 2025-09-18T19:06:56: Add support for multiple output steps
