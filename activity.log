@@ -1631,3 +1631,4 @@ Commit at 2025-09-19T16:42:48: Optimize inference speed for edge devices
 Commit at 2025-09-19T13:28:57: Update project structure for better organization
 Commit at 2025-09-19T19:35:52: Refactor model architecture for better performance
 Commit at 2025-09-19T14:54:13: Optimize training loop for faster convergence
+Commit at 2025-09-19T16:11:57: Add examples for different use cases
