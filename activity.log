@@ -1628,3 +1628,4 @@ Commit at 2025-09-19T14:33:06: Improve documentation for API reference
 Commit at 2025-09-19T20:19:05: Update documentation for new features
 Commit at 2025-09-19T18:06:02: Fix minor bug in data windowing
 Commit at 2025-09-19T16:42:48: Optimize inference speed for edge devices
+Commit at 2025-09-19T13:28:57: Update project structure for better organization
