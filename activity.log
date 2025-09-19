@@ -1633,3 +1633,4 @@ Commit at 2025-09-19T19:35:52: Refactor model architecture for better performanc
 Commit at 2025-09-19T14:54:13: Optimize training loop for faster convergence
 Commit at 2025-09-19T16:11:57: Add examples for different use cases
 Commit at 2025-09-19T11:48:23: Optimize inference speed for edge devices
+Commit at 2025-09-19T16:33:55: Fix minor bug in data windowing
