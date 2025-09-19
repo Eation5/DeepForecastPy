@@ -1636,3 +1636,4 @@ Commit at 2025-09-19T11:48:23: Optimize inference speed for edge devices
 Commit at 2025-09-19T16:33:55: Fix minor bug in data windowing
 Commit at 2025-09-19T20:47:56: Add new evaluation metrics for time series forecasting
 Commit at 2025-09-19T20:04:48: Improve visualization functions for predictions
+Commit at 2025-09-19T19:59:09: Improve logging during model training
