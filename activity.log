@@ -1649,3 +1649,4 @@ Commit at 2025-09-22T21:28:41: Update preprocessing pipeline to handle missing v
 Commit at 2025-09-22T21:57:43: Update requirements for new dependencies
 Commit at 2025-09-22T15:14:37: Add support for GRU models
 Commit at 2025-09-22T14:58:07: Fix issue with model serialization
+Commit at 2025-09-22T10:37:01: Add support for custom loss functions
