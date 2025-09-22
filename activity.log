@@ -1648,3 +1648,4 @@ Commit at 2025-09-22T18:54:31: Add support for Transformer-based models
 Commit at 2025-09-22T21:28:41: Update preprocessing pipeline to handle missing values
 Commit at 2025-09-22T21:57:43: Update requirements for new dependencies
 Commit at 2025-09-22T15:14:37: Add support for GRU models
+Commit at 2025-09-22T14:58:07: Fix issue with model serialization
