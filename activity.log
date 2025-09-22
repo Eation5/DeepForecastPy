@@ -1643,3 +1643,4 @@ Commit at 2025-09-22T21:58:13: Add examples for different use cases
 Commit at 2025-09-22T18:37:11: Add examples for using the library
 Commit at 2025-09-22T19:23:39: Update README with more detailed instructions
 Commit at 2025-09-22T21:04:28: Add unit tests for preprocessing utilities
+Commit at 2025-09-22T18:27:55: Add support for custom loss functions
