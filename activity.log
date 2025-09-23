@@ -1659,3 +1659,4 @@ Commit at 2025-09-23T10:04:26: Update documentation for new features
 Commit at 2025-09-23T17:49:19: Optimize training loop for faster convergence
 Commit at 2025-09-23T10:01:10: Optimize data loading for large datasets
 Commit at 2025-09-23T10:26:13: Update preprocessing pipeline to handle missing values
+Commit at 2025-09-23T18:09:27: Add support for Transformer-based models
