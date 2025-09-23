@@ -1650,3 +1650,4 @@ Commit at 2025-09-22T21:57:43: Update requirements for new dependencies
 Commit at 2025-09-22T15:14:37: Add support for GRU models
 Commit at 2025-09-22T14:58:07: Fix issue with model serialization
 Commit at 2025-09-22T10:37:01: Add support for custom loss functions
+Commit at 2025-09-23T19:40:31: Update project structure for better organization
