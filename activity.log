@@ -1674,3 +1674,4 @@ Commit at 2025-09-24T12:28:50: Optimize data loading for large datasets
 Commit at 2025-09-24T10:06:28: Add examples for different use cases
 Commit at 2025-09-24T13:10:49: Add support for pre-trained models
 Commit at 2025-09-24T18:55:35: Fix bug in LSTM layer initialization
+Commit at 2025-09-24T18:19:43: Fix issue with data normalization
