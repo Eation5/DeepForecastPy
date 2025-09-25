@@ -1682,3 +1682,4 @@ Commit at 2025-09-25T19:18:23: Optimize training loop for faster convergence
 Commit at 2025-09-25T15:47:44: Update requirements for new dependencies
 Commit at 2025-09-25T13:31:12: Fix issue with data normalization
 Commit at 2025-09-25T12:13:42: Fix issue with model serialization
+Commit at 2025-09-25T18:32:21: Add examples for different use cases
