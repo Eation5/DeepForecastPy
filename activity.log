@@ -1710,3 +1710,4 @@ Commit at 2025-09-29T12:23:00: Add new evaluation metrics for time series foreca
 Commit at 2025-09-29T11:30:57: Add support for data augmentation
 Commit at 2025-09-30T11:44:43: Update preprocessing pipeline to handle missing values
 Commit at 2025-09-30T21:29:05: Optimize inference speed for edge devices
+Commit at 2025-09-30T18:01:14: Add support for Transformer-based models
