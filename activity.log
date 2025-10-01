@@ -1712,3 +1712,4 @@ Commit at 2025-09-30T11:44:43: Update preprocessing pipeline to handle missing v
 Commit at 2025-09-30T21:29:05: Optimize inference speed for edge devices
 Commit at 2025-09-30T18:01:14: Add support for Transformer-based models
 Commit at 2025-09-30T14:51:56: Add examples for different use cases
+Commit at 2025-09-30T20:20:44: Add new evaluation metrics for time series forecasting
