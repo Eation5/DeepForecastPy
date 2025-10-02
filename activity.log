@@ -1721,3 +1721,4 @@ Commit at 2025-10-01T12:44:29: Add support for Transformer-based models
 Commit at 2025-10-01T09:05:59: Add examples for using the library
 Commit at 2025-10-01T18:57:20: Add support for bidirectional RNNs
 Commit at 2025-10-01T15:42:19: Optimize training loop for faster convergence
+Commit at 2025-10-01T20:29:28: Update documentation for new features
