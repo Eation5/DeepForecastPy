@@ -1726,3 +1726,4 @@ Commit at 2025-10-01T10:08:25: Add unit tests for preprocessing utilities
 Commit at 2025-10-01T14:05:47: Update README with more detailed instructions
 Commit at 2025-10-01T10:17:47: Improve visualization functions for predictions
 Commit at 2025-10-02T12:57:22: Add support for pre-trained models
+Commit at 2025-10-02T18:52:58: Add support for bidirectional RNNs
