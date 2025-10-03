@@ -1740,3 +1740,4 @@ Commit at 2025-10-03T14:20:58: Refactor utils for better code reuse
 Commit at 2025-10-03T21:00:48: Improve visualization functions for predictions
 Commit at 2025-10-03T10:49:40: Improve visualization functions for predictions
 Commit at 2025-10-03T16:54:28: Update project structure for better organization
+Commit at 2025-10-03T16:48:16: Improve error handling in model building
