@@ -1747,3 +1747,4 @@ Commit at 2025-10-06T10:20:47: Fix issue with model serialization
 Commit at 2025-10-06T15:47:52: Improve error handling in model building
 Commit at 2025-10-06T10:56:30: Update preprocessing pipeline to handle missing values
 Commit at 2025-10-06T21:49:27: Optimize memory usage during training
+Commit at 2025-10-06T11:18:52: Add examples for using the library
