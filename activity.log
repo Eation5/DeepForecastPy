@@ -1763,3 +1763,4 @@ Commit at 2025-10-14T14:58:28: Update preprocessing pipeline to handle missing v
 Commit at 2025-10-14T11:21:06: Fix bug in LSTM layer initialization
 Commit at 2025-10-14T14:26:11: Add new evaluation metrics for time series forecasting
 Commit at 2025-10-15T14:27:08: Optimize training loop for faster convergence
+Commit at 2025-10-16T14:18:47: Fix minor bug in data windowing
