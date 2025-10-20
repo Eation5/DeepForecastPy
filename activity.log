@@ -1780,3 +1780,4 @@ Commit at 2025-10-17T09:38:10: Update preprocessing pipeline to handle missing v
 Commit at 2025-10-17T19:20:12: Optimize data loading for large datasets
 Commit at 2025-10-17T13:06:24: Optimize data loading for large datasets
 Commit at 2025-10-17T12:28:43: Fix minor bug in data windowing
+Commit at 2025-10-20T18:48:49: Add support for Transformer-based models
