@@ -1783,3 +1783,4 @@ Commit at 2025-10-17T12:28:43: Fix minor bug in data windowing
 Commit at 2025-10-20T18:48:49: Add support for Transformer-based models
 Commit at 2025-10-20T10:39:09: Add unit tests for preprocessing utilities
 Commit at 2025-10-21T10:38:13: Update README with more detailed instructions
+Commit at 2025-10-21T18:48:40: Add support for data augmentation
