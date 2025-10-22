@@ -1792,3 +1792,4 @@ Commit at 2025-10-21T10:27:05: Update preprocessing pipeline to handle missing v
 Commit at 2025-10-21T20:32:28: Add support for custom loss functions
 Commit at 2025-10-21T18:44:31: Optimize memory usage during training
 Commit at 2025-10-21T16:58:14: Add support for Transformer-based models
+Commit at 2025-10-22T18:41:56: Update requirements for new dependencies
