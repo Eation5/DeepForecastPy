@@ -1794,3 +1794,4 @@ Commit at 2025-10-21T18:44:31: Optimize memory usage during training
 Commit at 2025-10-21T16:58:14: Add support for Transformer-based models
 Commit at 2025-10-22T18:41:56: Update requirements for new dependencies
 Commit at 2025-10-22T21:15:54: Add support for Transformer-based models
+Commit at 2025-10-22T21:19:36: Update requirements for new dependencies
