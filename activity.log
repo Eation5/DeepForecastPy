@@ -1810,3 +1810,4 @@ Commit at 2025-10-24T15:53:18: Update README with more detailed instructions
 Commit at 2025-10-24T17:02:43: Optimize training loop for faster convergence
 Commit at 2025-10-24T15:59:19: Improve error handling in model building
 Commit at 2025-10-24T10:10:09: Add support for multiple output steps
+Commit at 2025-10-27T15:03:08: Improve logging during model training
