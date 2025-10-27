@@ -1813,3 +1813,4 @@ Commit at 2025-10-24T10:10:09: Add support for multiple output steps
 Commit at 2025-10-27T15:03:08: Improve logging during model training
 Commit at 2025-10-27T15:08:31: Fix bug in LSTM layer initialization
 Commit at 2025-10-27T20:24:43: Fix issue with model serialization
+Commit at 2025-10-27T11:34:43: Add new evaluation metrics for time series forecasting
