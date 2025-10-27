@@ -1820,3 +1820,4 @@ Commit at 2025-10-27T10:35:35: Fix bug in LSTM layer initialization
 Commit at 2025-10-27T11:01:38: Update documentation for new features
 Commit at 2025-10-27T17:36:22: Improve documentation for API reference
 Commit at 2025-10-27T12:20:59: Update documentation for new features
+Commit at 2025-10-27T12:25:30: Optimize memory usage during training
