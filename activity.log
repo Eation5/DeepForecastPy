@@ -1817,3 +1817,4 @@ Commit at 2025-10-27T11:34:43: Add new evaluation metrics for time series foreca
 Commit at 2025-10-27T21:31:46: Fix bug in LSTM layer initialization
 Commit at 2025-10-27T12:45:32: Add support for bidirectional RNNs
 Commit at 2025-10-27T10:35:35: Fix bug in LSTM layer initialization
+Commit at 2025-10-27T11:01:38: Update documentation for new features
