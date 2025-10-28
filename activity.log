@@ -1828,3 +1828,4 @@ Commit at 2025-10-28T19:33:56: Improve visualization functions for predictions
 Commit at 2025-10-28T09:22:10: Fix issue with data normalization
 Commit at 2025-10-28T10:06:53: Update project structure for better organization
 Commit at 2025-10-28T20:14:37: Improve documentation for API reference
+Commit at 2025-10-28T16:29:51: Refactor utils for better code reuse
