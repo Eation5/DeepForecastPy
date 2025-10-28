@@ -1826,3 +1826,4 @@ Commit at 2025-10-27T15:24:39: Add examples for using the library
 Commit at 2025-10-28T12:31:16: Update requirements for new dependencies
 Commit at 2025-10-28T19:33:56: Improve visualization functions for predictions
 Commit at 2025-10-28T09:22:10: Fix issue with data normalization
+Commit at 2025-10-28T10:06:53: Update project structure for better organization
