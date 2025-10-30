@@ -1832,3 +1832,4 @@ Commit at 2025-10-28T16:29:51: Refactor utils for better code reuse
 Commit at 2025-10-28T10:51:31: Add support for custom loss functions
 Commit at 2025-10-28T20:36:08: Update preprocessing pipeline to handle missing values
 Commit at 2025-10-29T12:52:14: Improve visualization functions for predictions
+Commit at 2025-10-30T15:11:15: Add examples for using the library
