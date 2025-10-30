@@ -1842,3 +1842,4 @@ Commit at 2025-10-30T13:49:07: Add support for Transformer-based models
 Commit at 2025-10-30T10:08:30: Add support for GRU models
 Commit at 2025-10-30T21:41:27: Update documentation for new features
 Commit at 2025-10-30T09:19:11: Update documentation for new features
+Commit at 2025-10-30T18:16:19: Optimize data loading for large datasets
