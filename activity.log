@@ -1850,3 +1850,4 @@ Commit at 2025-10-31T14:37:37: Fix issue with data normalization
 Commit at 2025-10-31T13:48:37: Fix bug in LSTM layer initialization
 Commit at 2025-11-03T20:45:46: Fix issue with model serialization
 Commit at 2025-11-03T19:39:58: Refactor model architecture for better performance
+Commit at 2025-11-03T19:13:52: Improve error handling in model building
