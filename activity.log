@@ -1866,3 +1866,4 @@ Commit at 2025-11-04T14:34:49: Add support for bidirectional RNNs
 Commit at 2025-11-06T13:05:23: Refactor utils for better code reuse
 Commit at 2025-11-06T13:20:34: Add unit tests for preprocessing utilities
 Commit at 2025-11-06T13:42:17: Add support for bidirectional RNNs
+Commit at 2025-11-06T15:45:22: Update documentation for new features
