@@ -1869,3 +1869,4 @@ Commit at 2025-11-06T13:42:17: Add support for bidirectional RNNs
 Commit at 2025-11-06T15:45:22: Update documentation for new features
 Commit at 2025-11-06T14:31:31: Add support for custom loss functions
 Commit at 2025-11-06T17:44:41: Refactor model architecture for better performance
+Commit at 2025-11-06T10:22:00: Add support for GRU models
