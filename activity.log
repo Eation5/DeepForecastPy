@@ -1881,3 +1881,4 @@ Commit at 2025-11-07T20:27:49: Update project structure for better organization
 Commit at 2025-11-07T11:13:22: Add support for multiple output steps
 Commit at 2025-11-10T16:06:00: Optimize memory usage during training
 Commit at 2025-11-10T19:02:29: Add new evaluation metrics for time series forecasting
+Commit at 2025-11-10T11:27:00: Add support for Transformer-based models
