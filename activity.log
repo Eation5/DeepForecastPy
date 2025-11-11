@@ -1890,3 +1890,4 @@ Commit at 2025-11-11T19:40:26: Add support for pre-trained models
 Commit at 2025-11-11T18:20:59: Improve logging during model training
 Commit at 2025-11-11T18:29:47: Add examples for different use cases
 Commit at 2025-11-11T19:03:22: Update requirements for new dependencies
+Commit at 2025-11-11T15:23:56: Refactor utils for better code reuse
