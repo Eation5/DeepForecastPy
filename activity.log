@@ -1888,3 +1888,4 @@ Commit at 2025-11-10T15:42:22: Add support for custom loss functions
 Commit at 2025-11-10T14:57:03: Add support for Transformer-based models
 Commit at 2025-11-11T19:40:26: Add support for pre-trained models
 Commit at 2025-11-11T18:20:59: Improve logging during model training
+Commit at 2025-11-11T18:29:47: Add examples for different use cases
