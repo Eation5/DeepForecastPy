@@ -1901,3 +1901,4 @@ Commit at 2025-11-12T10:02:48: Optimize inference speed for edge devices
 Commit at 2025-11-12T12:02:34: Add new evaluation metrics for time series forecasting
 Commit at 2025-11-12T12:29:13: Add support for bidirectional RNNs
 Commit at 2025-11-12T15:46:11: Add support for GRU models
+Commit at 2025-11-12T18:22:58: Add new evaluation metrics for time series forecasting
