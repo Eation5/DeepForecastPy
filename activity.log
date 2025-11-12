@@ -1899,3 +1899,4 @@ Commit at 2025-11-12T09:43:35: Improve logging during model training
 Commit at 2025-11-12T14:10:02: Update project structure for better organization
 Commit at 2025-11-12T10:02:48: Optimize inference speed for edge devices
 Commit at 2025-11-12T12:02:34: Add new evaluation metrics for time series forecasting
+Commit at 2025-11-12T12:29:13: Add support for bidirectional RNNs
