@@ -1907,3 +1907,4 @@ Commit at 2025-11-12T11:19:04: Optimize data loading for large datasets
 Commit at 2025-11-12T17:27:22: Update requirements for new dependencies
 Commit at 2025-11-12T12:09:15: Add support for bidirectional RNNs
 Commit at 2025-11-13T18:16:55: Add support for Transformer-based models
+Commit at 2025-11-13T13:21:35: Improve visualization functions for predictions
