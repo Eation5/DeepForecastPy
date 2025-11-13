@@ -1909,3 +1909,4 @@ Commit at 2025-11-12T12:09:15: Add support for bidirectional RNNs
 Commit at 2025-11-13T18:16:55: Add support for Transformer-based models
 Commit at 2025-11-13T13:21:35: Improve visualization functions for predictions
 Commit at 2025-11-13T16:16:06: Refactor utils for better code reuse
+Commit at 2025-11-13T17:10:05: Update requirements for new dependencies
