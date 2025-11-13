@@ -1892,3 +1892,4 @@ Commit at 2025-11-11T18:29:47: Add examples for different use cases
 Commit at 2025-11-11T19:03:22: Update requirements for new dependencies
 Commit at 2025-11-11T15:23:56: Refactor utils for better code reuse
 Commit at 2025-11-11T21:44:52: Add support for GRU models
+Commit at 2025-11-12T19:39:59: Add support for custom loss functions
