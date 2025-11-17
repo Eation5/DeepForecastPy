@@ -1936,3 +1936,4 @@ Commit at 2025-11-17T15:05:50: Improve error handling in model building
 Commit at 2025-11-17T14:56:30: Update project structure for better organization
 Commit at 2025-11-17T09:15:10: Refactor model architecture for better performance
 Commit at 2025-11-17T11:06:22: Add support for bidirectional RNNs
+Commit at 2025-11-17T12:54:25: Fix issue with model serialization
