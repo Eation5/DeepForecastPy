@@ -1953,3 +1953,4 @@ Commit at 2025-11-19T14:13:28: Update documentation for new features
 Commit at 2025-11-19T11:35:46: Add new evaluation metrics for time series forecasting
 Commit at 2025-11-19T21:37:46: Optimize training loop for faster convergence
 Commit at 2025-11-19T21:20:01: Fix minor bug in data windowing
+Commit at 2025-11-19T17:23:59: Add support for multiple output steps
