@@ -1938,3 +1938,4 @@ Commit at 2025-11-17T09:15:10: Refactor model architecture for better performanc
 Commit at 2025-11-17T11:06:22: Add support for bidirectional RNNs
 Commit at 2025-11-17T12:54:25: Fix issue with model serialization
 Commit at 2025-11-17T18:36:58: Update project structure for better organization
+Commit at 2025-11-18T21:09:50: Add unit tests for preprocessing utilities
