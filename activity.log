@@ -1971,3 +1971,4 @@ Commit at 2025-11-21T11:44:45: Add support for Transformer-based models
 Commit at 2025-11-21T15:02:55: Add new evaluation metrics for time series forecasting
 Commit at 2025-11-21T14:56:52: Update project structure for better organization
 Commit at 2025-11-21T16:59:36: Refactor utils for better code reuse
+Commit at 2025-11-21T12:52:02: Add support for data augmentation
