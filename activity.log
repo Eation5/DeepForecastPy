@@ -1983,3 +1983,4 @@ Commit at 2025-11-24T10:53:05: Optimize data loading for large datasets
 Commit at 2025-11-24T09:40:39: Add examples for different use cases
 Commit at 2025-11-24T18:24:09: Add support for GRU models
 Commit at 2025-11-24T20:56:07: Optimize data loading for large datasets
+Commit at 2025-11-24T13:09:13: Add support for GRU models
