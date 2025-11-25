@@ -1985,3 +1985,4 @@ Commit at 2025-11-24T18:24:09: Add support for GRU models
 Commit at 2025-11-24T20:56:07: Optimize data loading for large datasets
 Commit at 2025-11-24T13:09:13: Add support for GRU models
 Commit at 2025-11-25T09:23:14: Add support for custom loss functions
+Commit at 2025-11-25T17:03:13: Fix bug in LSTM layer initialization
