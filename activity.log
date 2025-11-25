@@ -1975,3 +1975,4 @@ Commit at 2025-11-21T12:52:02: Add support for data augmentation
 Commit at 2025-11-21T11:32:37: Update documentation for new features
 Commit at 2025-11-24T14:40:41: Update documentation for new features
 Commit at 2025-11-24T13:58:28: Fix bug in LSTM layer initialization
+Commit at 2025-11-24T20:47:33: Add support for multiple output steps
