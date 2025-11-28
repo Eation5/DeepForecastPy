@@ -1995,3 +1995,4 @@ Commit at 2025-11-27T19:18:06: Optimize inference speed for edge devices
 Commit at 2025-11-27T12:27:18: Update preprocessing pipeline to handle missing values
 Commit at 2025-11-27T10:46:59: Fix issue with data normalization
 Commit at 2025-11-27T14:18:22: Improve visualization functions for predictions
+Commit at 2025-11-27T20:33:02: Add support for bidirectional RNNs
