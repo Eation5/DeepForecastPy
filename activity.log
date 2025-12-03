@@ -2011,3 +2011,4 @@ Commit at 2025-12-01T10:10:34: Improve error handling in model building
 Commit at 2025-12-01T20:51:52: Add support for multiple output steps
 Commit at 2025-12-02T10:19:24: Update requirements for new dependencies
 Commit at 2025-12-02T17:45:17: Update preprocessing pipeline to handle missing values
+Commit at 2025-12-02T20:10:37: Add new evaluation metrics for time series forecasting
