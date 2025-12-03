@@ -2015,3 +2015,4 @@ Commit at 2025-12-02T20:10:37: Add new evaluation metrics for time series foreca
 Commit at 2025-12-03T12:41:37: Improve documentation for API reference
 Commit at 2025-12-03T15:03:03: Update documentation for new features
 Commit at 2025-12-03T21:48:13: Fix issue with data normalization
+Commit at 2025-12-03T15:37:12: Improve visualization functions for predictions
