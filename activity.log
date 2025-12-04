@@ -2027,3 +2027,4 @@ Commit at 2025-12-03T14:06:41: Fix issue with data normalization
 Commit at 2025-12-03T21:09:44: Add support for GRU models
 Commit at 2025-12-03T17:29:10: Optimize training loop for faster convergence
 Commit at 2025-12-03T16:28:39: Add examples for different use cases
+Commit at 2025-12-04T15:23:45: Update README with more detailed instructions
