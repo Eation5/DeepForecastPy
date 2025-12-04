@@ -2028,3 +2028,4 @@ Commit at 2025-12-03T21:09:44: Add support for GRU models
 Commit at 2025-12-03T17:29:10: Optimize training loop for faster convergence
 Commit at 2025-12-03T16:28:39: Add examples for different use cases
 Commit at 2025-12-04T15:23:45: Update README with more detailed instructions
+Commit at 2025-12-04T09:34:39: Add support for bidirectional RNNs
