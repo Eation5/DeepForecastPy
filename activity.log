@@ -2031,3 +2031,4 @@ Commit at 2025-12-04T15:23:45: Update README with more detailed instructions
 Commit at 2025-12-04T09:34:39: Add support for bidirectional RNNs
 Commit at 2025-12-05T11:24:24: Improve logging during model training
 Commit at 2025-12-05T13:42:17: Add new evaluation metrics for time series forecasting
+Commit at 2025-12-05T12:21:16: Add support for bidirectional RNNs
