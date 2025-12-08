@@ -2043,3 +2043,4 @@ Commit at 2025-12-08T14:21:29: Add examples for different use cases
 Commit at 2025-12-08T17:45:40: Update project structure for better organization
 Commit at 2025-12-08T18:19:03: Add support for data augmentation
 Commit at 2025-12-08T09:17:52: Optimize inference speed for edge devices
+Commit at 2025-12-08T09:31:33: Update README with more detailed instructions
