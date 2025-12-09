@@ -2054,3 +2054,4 @@ Commit at 2025-12-09T15:36:23: Add new evaluation metrics for time series foreca
 Commit at 2025-12-09T11:33:37: Improve visualization functions for predictions
 Commit at 2025-12-09T17:29:24: Improve logging during model training
 Commit at 2025-12-09T19:50:12: Improve logging during model training
+Commit at 2025-12-09T18:10:58: Optimize memory usage during training
