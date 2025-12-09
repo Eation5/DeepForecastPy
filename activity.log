@@ -2038,3 +2038,4 @@ Commit at 2025-12-08T16:11:43: Add support for pre-trained models
 Commit at 2025-12-08T15:21:53: Update requirements for new dependencies
 Commit at 2025-12-08T16:50:03: Add examples for different use cases
 Commit at 2025-12-08T10:32:05: Improve documentation for API reference
+Commit at 2025-12-08T19:38:05: Refactor utils for better code reuse
