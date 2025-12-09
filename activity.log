@@ -2050,3 +2050,4 @@ Commit at 2025-12-09T15:40:50: Add support for multiple output steps
 Commit at 2025-12-09T09:20:27: Update preprocessing pipeline to handle missing values
 Commit at 2025-12-09T10:56:45: Fix issue with model serialization
 Commit at 2025-12-09T11:51:28: Add support for GRU models
+Commit at 2025-12-09T15:36:23: Add new evaluation metrics for time series forecasting
