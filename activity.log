@@ -2046,3 +2046,4 @@ Commit at 2025-12-08T09:17:52: Optimize inference speed for edge devices
 Commit at 2025-12-08T09:31:33: Update README with more detailed instructions
 Commit at 2025-12-09T12:53:33: Update documentation for new features
 Commit at 2025-12-09T18:49:20: Improve error handling in model building
+Commit at 2025-12-09T15:40:50: Add support for multiple output steps
