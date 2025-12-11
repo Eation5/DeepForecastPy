@@ -2076,3 +2076,4 @@ Commit at 2025-12-11T13:31:06: Improve logging during model training
 Commit at 2025-12-11T21:07:39: Fix bug in LSTM layer initialization
 Commit at 2025-12-11T13:27:43: Refactor model architecture for better performance
 Commit at 2025-12-11T12:35:19: Add new evaluation metrics for time series forecasting
+Commit at 2025-12-11T18:29:23: Add support for Transformer-based models
