@@ -2066,3 +2066,4 @@ Commit at 2025-12-10T21:16:41: Add examples for using the library
 Commit at 2025-12-10T15:35:40: Update requirements for new dependencies
 Commit at 2025-12-10T14:50:24: Fix bug in LSTM layer initialization
 Commit at 2025-12-10T09:29:30: Add new evaluation metrics for time series forecasting
+Commit at 2025-12-11T16:20:39: Fix issue with data normalization
