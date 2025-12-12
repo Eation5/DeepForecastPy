@@ -2078,3 +2078,4 @@ Commit at 2025-12-11T13:27:43: Refactor model architecture for better performanc
 Commit at 2025-12-11T12:35:19: Add new evaluation metrics for time series forecasting
 Commit at 2025-12-11T18:29:23: Add support for Transformer-based models
 Commit at 2025-12-12T21:17:23: Add support for GRU models
+Commit at 2025-12-12T17:54:15: Add support for GRU models
