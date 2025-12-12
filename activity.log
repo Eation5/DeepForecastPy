@@ -2091,3 +2091,4 @@ Commit at 2025-12-12T21:03:26: Add new evaluation metrics for time series foreca
 Commit at 2025-12-12T10:49:21: Add support for bidirectional RNNs
 Commit at 2025-12-12T10:38:21: Add support for custom loss functions
 Commit at 2025-12-12T12:15:41: Add support for pre-trained models
+Commit at 2025-12-12T16:44:33: Fix issue with model serialization
