@@ -2073,3 +2073,4 @@ Commit at 2025-12-11T18:07:56: Optimize data loading for large datasets
 Commit at 2025-12-11T14:06:46: Refactor utils for better code reuse
 Commit at 2025-12-11T12:28:47: Fix minor bug in data windowing
 Commit at 2025-12-11T13:31:06: Improve logging during model training
+Commit at 2025-12-11T21:07:39: Fix bug in LSTM layer initialization
