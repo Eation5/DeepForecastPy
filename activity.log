@@ -2079,3 +2079,4 @@ Commit at 2025-12-11T12:35:19: Add new evaluation metrics for time series foreca
 Commit at 2025-12-11T18:29:23: Add support for Transformer-based models
 Commit at 2025-12-12T21:17:23: Add support for GRU models
 Commit at 2025-12-12T17:54:15: Add support for GRU models
+Commit at 2025-12-12T21:59:12: Add examples for using the library
