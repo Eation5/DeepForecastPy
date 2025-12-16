@@ -2110,3 +2110,4 @@ Commit at 2025-12-15T11:24:33: Update project structure for better organization
 Commit at 2025-12-16T14:03:33: Add support for data augmentation
 Commit at 2025-12-16T15:10:35: Fix bug in LSTM layer initialization
 Commit at 2025-12-16T21:22:24: Add examples for using the library
+Commit at 2025-12-16T16:44:32: Improve documentation for API reference
