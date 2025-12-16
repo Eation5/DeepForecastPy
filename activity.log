@@ -2096,3 +2096,4 @@ Commit at 2025-12-15T14:05:58: Refactor model architecture for better performanc
 Commit at 2025-12-15T19:39:06: Improve visualization functions for predictions
 Commit at 2025-12-15T16:22:14: Improve documentation for API reference
 Commit at 2025-12-15T21:12:28: Add support for bidirectional RNNs
+Commit at 2025-12-15T19:19:09: Improve error handling in model building
