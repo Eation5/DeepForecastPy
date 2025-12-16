@@ -2113,3 +2113,4 @@ Commit at 2025-12-16T21:22:24: Add examples for using the library
 Commit at 2025-12-16T16:44:32: Improve documentation for API reference
 Commit at 2025-12-16T11:59:02: Fix bug in LSTM layer initialization
 Commit at 2025-12-16T15:52:32: Add new evaluation metrics for time series forecasting
+Commit at 2025-12-16T11:51:02: Add support for multiple output steps
