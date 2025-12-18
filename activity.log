@@ -2124,3 +2124,4 @@ Commit at 2025-12-17T11:42:19: Add new evaluation metrics for time series foreca
 Commit at 2025-12-18T13:29:03: Improve visualization functions for predictions
 Commit at 2025-12-18T12:03:56: Add new evaluation metrics for time series forecasting
 Commit at 2025-12-18T10:09:26: Improve visualization functions for predictions
+Commit at 2025-12-18T10:20:00: Fix issue with model serialization
