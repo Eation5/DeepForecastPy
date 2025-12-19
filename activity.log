@@ -2140,3 +2140,4 @@ Commit at 2025-12-19T09:33:47: Fix minor bug in data windowing
 Commit at 2025-12-19T16:40:35: Improve error handling in model building
 Commit at 2025-12-19T16:33:50: Add support for Transformer-based models
 Commit at 2025-12-19T16:33:59: Optimize data loading for large datasets
+Commit at 2025-12-19T12:41:08: Update documentation for new features
