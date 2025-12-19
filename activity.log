@@ -2132,3 +2132,4 @@ Commit at 2025-12-19T11:03:37: Refactor utils for better code reuse
 Commit at 2025-12-19T15:12:31: Add unit tests for preprocessing utilities
 Commit at 2025-12-19T11:02:41: Fix bug in LSTM layer initialization
 Commit at 2025-12-19T17:28:07: Update documentation for new features
+Commit at 2025-12-19T16:40:27: Improve visualization functions for predictions
