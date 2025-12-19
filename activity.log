@@ -2136,3 +2136,4 @@ Commit at 2025-12-19T16:40:27: Improve visualization functions for predictions
 Commit at 2025-12-19T12:19:56: Fix bug in LSTM layer initialization
 Commit at 2025-12-19T16:15:44: Add support for pre-trained models
 Commit at 2025-12-19T15:18:04: Add support for GRU models
+Commit at 2025-12-19T09:33:47: Fix minor bug in data windowing
