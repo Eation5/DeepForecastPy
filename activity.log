@@ -2127,3 +2127,4 @@ Commit at 2025-12-18T10:09:26: Improve visualization functions for predictions
 Commit at 2025-12-18T10:20:00: Fix issue with model serialization
 Commit at 2025-12-18T10:13:02: Add support for GRU models
 Commit at 2025-12-19T13:37:39: Add support for custom loss functions
+Commit at 2025-12-19T21:07:34: Add support for GRU models
