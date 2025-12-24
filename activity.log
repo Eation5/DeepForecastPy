@@ -2149,3 +2149,4 @@ Commit at 2025-12-24T16:54:57: Update documentation for new features
 Commit at 2025-12-24T17:10:12: Improve logging during model training
 Commit at 2025-12-24T13:25:20: Refactor utils for better code reuse
 Commit at 2025-12-24T18:24:27: Add support for GRU models
+Commit at 2025-12-24T18:54:29: Improve documentation for API reference
