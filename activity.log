@@ -2152,3 +2152,4 @@ Commit at 2025-12-24T18:24:27: Add support for GRU models
 Commit at 2025-12-24T18:54:29: Improve documentation for API reference
 Commit at 2025-12-24T09:35:09: Fix issue with model serialization
 Commit at 2025-12-24T20:22:40: Improve visualization functions for predictions
+Commit at 2025-12-25T11:38:15: Add support for Transformer-based models
