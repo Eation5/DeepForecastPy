@@ -2160,3 +2160,4 @@ Commit at 2025-12-25T15:42:33: Add support for GRU models
 Commit at 2025-12-25T14:11:06: Optimize data loading for large datasets
 Commit at 2025-12-25T19:13:16: Optimize inference speed for edge devices
 Commit at 2025-12-25T18:35:58: Optimize data loading for large datasets
+Commit at 2025-12-25T16:03:42: Add support for bidirectional RNNs
