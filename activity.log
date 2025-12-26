@@ -2162,3 +2162,4 @@ Commit at 2025-12-25T19:13:16: Optimize inference speed for edge devices
 Commit at 2025-12-25T18:35:58: Optimize data loading for large datasets
 Commit at 2025-12-25T16:03:42: Add support for bidirectional RNNs
 Commit at 2025-12-25T21:05:07: Add support for bidirectional RNNs
+Commit at 2025-12-26T14:15:06: Refactor utils for better code reuse
