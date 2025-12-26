@@ -2164,3 +2164,4 @@ Commit at 2025-12-25T16:03:42: Add support for bidirectional RNNs
 Commit at 2025-12-25T21:05:07: Add support for bidirectional RNNs
 Commit at 2025-12-26T14:15:06: Refactor utils for better code reuse
 Commit at 2025-12-26T15:18:31: Improve documentation for API reference
+Commit at 2025-12-26T10:29:41: Fix issue with data normalization
