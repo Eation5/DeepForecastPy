@@ -2183,3 +2183,4 @@ Commit at 2025-12-29T16:58:26: Refactor utils for better code reuse
 Commit at 2025-12-29T12:57:23: Add support for custom loss functions
 Commit at 2025-12-29T21:23:11: Update project structure for better organization
 Commit at 2025-12-29T10:32:56: Improve error handling in model building
+Commit at 2025-12-29T09:34:03: Improve error handling in model building
