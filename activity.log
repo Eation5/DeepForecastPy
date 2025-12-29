@@ -2177,3 +2177,4 @@ Commit at 2025-12-26T12:24:30: Update project structure for better organization
 Commit at 2025-12-26T11:21:37: Improve documentation for API reference
 Commit at 2025-12-26T18:20:59: Refactor utils for better code reuse
 Commit at 2025-12-29T14:13:06: Update README with more detailed instructions
+Commit at 2025-12-29T16:40:32: Add unit tests for preprocessing utilities
