@@ -2181,3 +2181,4 @@ Commit at 2025-12-29T16:40:32: Add unit tests for preprocessing utilities
 Commit at 2025-12-29T15:12:55: Add new evaluation metrics for time series forecasting
 Commit at 2025-12-29T16:58:26: Refactor utils for better code reuse
 Commit at 2025-12-29T12:57:23: Add support for custom loss functions
+Commit at 2025-12-29T21:23:11: Update project structure for better organization
