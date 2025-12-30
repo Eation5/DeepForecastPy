@@ -2189,3 +2189,4 @@ Commit at 2025-12-29T20:32:53: Improve logging during model training
 Commit at 2025-12-29T13:04:56: Add support for custom loss functions
 Commit at 2025-12-29T21:26:34: Add support for pre-trained models
 Commit at 2025-12-29T15:49:33: Update README with more detailed instructions
+Commit at 2025-12-29T19:46:23: Improve visualization functions for predictions
