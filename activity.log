@@ -2192,3 +2192,4 @@ Commit at 2025-12-29T15:49:33: Update README with more detailed instructions
 Commit at 2025-12-29T19:46:23: Improve visualization functions for predictions
 Commit at 2025-12-30T13:19:56: Fix minor bug in data windowing
 Commit at 2025-12-30T20:34:12: Improve error handling in model building
+Commit at 2025-12-30T19:54:25: Improve documentation for API reference
