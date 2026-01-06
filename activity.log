@@ -2208,3 +2208,4 @@ Commit at 2026-01-02T18:51:06: Fix minor bug in data windowing
 Commit at 2026-01-02T21:04:10: Add support for custom loss functions
 Commit at 2026-01-06T19:39:08: Optimize memory usage during training
 Commit at 2026-01-06T09:52:53: Improve documentation for API reference
+Commit at 2026-01-06T12:07:56: Add support for bidirectional RNNs
