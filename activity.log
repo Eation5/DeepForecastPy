@@ -2214,3 +2214,4 @@ Commit at 2026-01-07T21:06:28: Add examples for using the library
 Commit at 2026-01-07T16:15:21: Improve logging during model training
 Commit at 2026-01-07T14:22:42: Improve visualization functions for predictions
 Commit at 2026-01-07T11:13:58: Optimize training loop for faster convergence
+Commit at 2026-01-07T09:56:12: Improve error handling in model building
