@@ -2231,3 +2231,4 @@ Commit at 2026-01-08T15:50:44: Add support for custom loss functions
 Commit at 2026-01-08T14:44:18: Improve documentation for API reference
 Commit at 2026-01-08T09:01:03: Add examples for using the library
 Commit at 2026-01-08T19:38:12: Add support for multiple output steps
+Commit at 2026-01-08T14:01:46: Fix issue with model serialization
