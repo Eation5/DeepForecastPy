@@ -2226,3 +2226,4 @@ Commit at 2026-01-08T16:02:45: Add support for Transformer-based models
 Commit at 2026-01-08T09:53:26: Add support for Transformer-based models
 Commit at 2026-01-08T14:49:23: Refactor model architecture for better performance
 Commit at 2026-01-08T13:49:28: Improve visualization functions for predictions
+Commit at 2026-01-08T12:13:28: Improve documentation for API reference
