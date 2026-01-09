@@ -2221,3 +2221,4 @@ Commit at 2026-01-07T21:38:37: Improve logging during model training
 Commit at 2026-01-08T17:40:29: Update documentation for new features
 Commit at 2026-01-08T12:58:02: Optimize data loading for large datasets
 Commit at 2026-01-08T14:45:49: Update preprocessing pipeline to handle missing values
+Commit at 2026-01-08T21:47:25: Add examples for using the library
