@@ -2240,3 +2240,4 @@ Commit at 2026-01-09T13:39:35: Improve error handling in model building
 Commit at 2026-01-09T13:23:35: Optimize training loop for faster convergence
 Commit at 2026-01-09T14:49:36: Optimize inference speed for edge devices
 Commit at 2026-01-09T18:48:37: Add support for GRU models
+Commit at 2026-01-09T19:25:07: Add support for Transformer-based models
