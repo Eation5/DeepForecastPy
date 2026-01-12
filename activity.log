@@ -2241,3 +2241,4 @@ Commit at 2026-01-09T13:23:35: Optimize training loop for faster convergence
 Commit at 2026-01-09T14:49:36: Optimize inference speed for edge devices
 Commit at 2026-01-09T18:48:37: Add support for GRU models
 Commit at 2026-01-09T19:25:07: Add support for Transformer-based models
+Commit at 2026-01-12T10:08:12: Improve visualization functions for predictions
