@@ -2249,3 +2249,4 @@ Commit at 2026-01-12T10:30:40: Update README with more detailed instructions
 Commit at 2026-01-12T18:35:17: Optimize memory usage during training
 Commit at 2026-01-12T19:24:59: Optimize training loop for faster convergence
 Commit at 2026-01-12T17:20:15: Update documentation for new features
+Commit at 2026-01-12T17:52:51: Fix issue with data normalization
