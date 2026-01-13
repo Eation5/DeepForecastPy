@@ -2257,3 +2257,4 @@ Commit at 2026-01-12T15:25:38: Improve logging during model training
 Commit at 2026-01-12T12:04:54: Fix minor bug in data windowing
 Commit at 2026-01-13T17:49:48: Add examples for using the library
 Commit at 2026-01-13T18:24:01: Optimize memory usage during training
+Commit at 2026-01-13T18:38:36: Add support for bidirectional RNNs
