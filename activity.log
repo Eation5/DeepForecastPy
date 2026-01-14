@@ -2263,3 +2263,4 @@ Commit at 2026-01-13T14:30:51: Improve visualization functions for predictions
 Commit at 2026-01-13T12:35:02: Add support for data augmentation
 Commit at 2026-01-13T20:49:45: Optimize data loading for large datasets
 Commit at 2026-01-13T13:26:28: Add examples for different use cases
+Commit at 2026-01-14T13:24:32: Update README with more detailed instructions
