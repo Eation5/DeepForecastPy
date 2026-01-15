@@ -2280,3 +2280,4 @@ Commit at 2026-01-15T13:21:40: Add new evaluation metrics for time series foreca
 Commit at 2026-01-15T19:24:58: Improve visualization functions for predictions
 Commit at 2026-01-15T09:44:16: Add support for Transformer-based models
 Commit at 2026-01-15T10:12:10: Add examples for different use cases
+Commit at 2026-01-15T14:16:36: Add examples for using the library
