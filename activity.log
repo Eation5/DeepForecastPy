@@ -2279,3 +2279,4 @@ Commit at 2026-01-15T12:41:02: Improve error handling in model building
 Commit at 2026-01-15T13:21:40: Add new evaluation metrics for time series forecasting
 Commit at 2026-01-15T19:24:58: Improve visualization functions for predictions
 Commit at 2026-01-15T09:44:16: Add support for Transformer-based models
+Commit at 2026-01-15T10:12:10: Add examples for different use cases
