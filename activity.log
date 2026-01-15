@@ -2271,3 +2271,4 @@ Commit at 2026-01-14T20:47:27: Fix issue with model serialization
 Commit at 2026-01-14T12:55:04: Update preprocessing pipeline to handle missing values
 Commit at 2026-01-14T21:45:23: Add support for data augmentation
 Commit at 2026-01-14T20:39:52: Optimize inference speed for edge devices
+Commit at 2026-01-15T18:07:51: Update project structure for better organization
