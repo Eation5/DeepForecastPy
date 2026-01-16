@@ -2283,3 +2283,4 @@ Commit at 2026-01-15T10:12:10: Add examples for different use cases
 Commit at 2026-01-15T14:16:36: Add examples for using the library
 Commit at 2026-01-15T14:14:28: Optimize memory usage during training
 Commit at 2026-01-15T18:25:53: Add examples for using the library
+Commit at 2026-01-16T17:37:40: Fix bug in LSTM layer initialization
