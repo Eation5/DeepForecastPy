@@ -2291,3 +2291,4 @@ Commit at 2026-01-19T17:50:51: Add new evaluation metrics for time series foreca
 Commit at 2026-01-19T20:27:43: Improve visualization functions for predictions
 Commit at 2026-01-19T12:14:09: Refactor model architecture for better performance
 Commit at 2026-01-19T09:31:17: Add examples for different use cases
+Commit at 2026-01-19T09:34:58: Add support for bidirectional RNNs
