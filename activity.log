@@ -2287,3 +2287,4 @@ Commit at 2026-01-16T17:37:40: Fix bug in LSTM layer initialization
 Commit at 2026-01-16T17:55:26: Improve error handling in model building
 Commit at 2026-01-16T19:25:43: Update README with more detailed instructions
 Commit at 2026-01-19T14:07:35: Update preprocessing pipeline to handle missing values
+Commit at 2026-01-19T17:50:51: Add new evaluation metrics for time series forecasting
