@@ -2305,3 +2305,4 @@ Commit at 2026-01-20T15:05:44: Fix issue with model serialization
 Commit at 2026-01-21T15:03:10: Improve error handling in model building
 Commit at 2026-01-21T12:12:32: Optimize inference speed for edge devices
 Commit at 2026-01-21T20:32:06: Update project structure for better organization
+Commit at 2026-01-21T14:20:31: Add support for custom loss functions
