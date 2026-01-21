@@ -2302,3 +2302,4 @@ Commit at 2026-01-20T14:20:42: Fix bug in LSTM layer initialization
 Commit at 2026-01-20T16:03:03: Add support for pre-trained models
 Commit at 2026-01-20T16:55:15: Update project structure for better organization
 Commit at 2026-01-20T15:05:44: Fix issue with model serialization
+Commit at 2026-01-21T15:03:10: Improve error handling in model building
