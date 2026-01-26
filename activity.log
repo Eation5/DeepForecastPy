@@ -2337,3 +2337,4 @@ Commit at 2026-01-26T11:18:07: Add unit tests for preprocessing utilities
 Commit at 2026-01-26T16:25:16: Add new evaluation metrics for time series forecasting
 Commit at 2026-01-26T11:05:23: Improve visualization functions for predictions
 Commit at 2026-01-26T16:03:49: Add new evaluation metrics for time series forecasting
+Commit at 2026-01-26T18:13:47: Add support for bidirectional RNNs
