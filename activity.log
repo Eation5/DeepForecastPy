@@ -2341,3 +2341,4 @@ Commit at 2026-01-26T18:13:47: Add support for bidirectional RNNs
 Commit at 2026-01-27T10:35:50: Add examples for different use cases
 Commit at 2026-01-27T09:17:05: Add examples for different use cases
 Commit at 2026-01-27T17:39:46: Improve logging during model training
+Commit at 2026-01-27T12:49:55: Optimize memory usage during training
