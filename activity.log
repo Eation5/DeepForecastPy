@@ -2331,3 +2331,4 @@ Commit at 2026-01-23T10:33:16: Update documentation for new features
 Commit at 2026-01-23T17:08:46: Improve visualization functions for predictions
 Commit at 2026-01-23T10:51:32: Add new evaluation metrics for time series forecasting
 Commit at 2026-01-23T15:50:20: Add examples for different use cases
+Commit at 2026-01-26T19:38:52: Fix issue with data normalization
