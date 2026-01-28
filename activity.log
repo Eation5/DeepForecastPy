@@ -2353,3 +2353,4 @@ Commit at 2026-01-28T09:54:08: Add examples for using the library
 Commit at 2026-01-28T10:34:15: Optimize training loop for faster convergence
 Commit at 2026-01-28T14:04:56: Optimize inference speed for edge devices
 Commit at 2026-01-28T09:35:31: Improve visualization functions for predictions
+Commit at 2026-01-28T17:01:46: Update project structure for better organization
