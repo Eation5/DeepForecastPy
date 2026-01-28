@@ -2349,3 +2349,4 @@ Commit at 2026-01-28T16:24:20: Fix minor bug in data windowing
 Commit at 2026-01-28T10:21:53: Fix bug in LSTM layer initialization
 Commit at 2026-01-28T09:18:16: Update requirements for new dependencies
 Commit at 2026-01-28T12:25:18: Optimize memory usage during training
+Commit at 2026-01-28T09:54:08: Add examples for using the library
