@@ -2347,3 +2347,4 @@ Commit at 2026-01-27T17:28:04: Improve error handling in model building
 Commit at 2026-01-28T14:24:45: Refactor model architecture for better performance
 Commit at 2026-01-28T16:24:20: Fix minor bug in data windowing
 Commit at 2026-01-28T10:21:53: Fix bug in LSTM layer initialization
+Commit at 2026-01-28T09:18:16: Update requirements for new dependencies
