@@ -2356,3 +2356,4 @@ Commit at 2026-01-28T09:35:31: Improve visualization functions for predictions
 Commit at 2026-01-28T17:01:46: Update project structure for better organization
 Commit at 2026-01-28T13:54:59: Update documentation for new features
 Commit at 2026-01-28T19:13:42: Improve logging during model training
+Commit at 2026-01-29T12:43:54: Optimize inference speed for edge devices
