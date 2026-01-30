@@ -2369,3 +2369,4 @@ Commit at 2026-01-30T18:07:55: Add support for data augmentation
 Commit at 2026-01-30T17:21:22: Add support for Transformer-based models
 Commit at 2026-01-30T15:08:35: Improve documentation for API reference
 Commit at 2026-01-30T10:41:01: Improve documentation for API reference
+Commit at 2026-01-30T18:30:25: Improve logging during model training
