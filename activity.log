@@ -2366,3 +2366,4 @@ Commit at 2026-01-30T14:54:22: Improve error handling in model building
 Commit at 2026-01-30T10:51:21: Add support for bidirectional RNNs
 Commit at 2026-01-30T20:02:27: Optimize inference speed for edge devices
 Commit at 2026-01-30T18:07:55: Add support for data augmentation
+Commit at 2026-01-30T17:21:22: Add support for Transformer-based models
