@@ -2362,3 +2362,4 @@ Commit at 2026-01-29T18:40:56: Update requirements for new dependencies
 Commit at 2026-01-29T20:47:35: Add support for multiple output steps
 Commit at 2026-01-30T17:24:03: Update documentation for new features
 Commit at 2026-01-30T11:23:36: Add support for GRU models
+Commit at 2026-01-30T14:54:22: Improve error handling in model building
