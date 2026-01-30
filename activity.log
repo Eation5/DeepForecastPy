@@ -2359,3 +2359,4 @@ Commit at 2026-01-28T19:13:42: Improve logging during model training
 Commit at 2026-01-29T12:43:54: Optimize inference speed for edge devices
 Commit at 2026-01-29T17:07:17: Optimize memory usage during training
 Commit at 2026-01-29T18:40:56: Update requirements for new dependencies
+Commit at 2026-01-29T20:47:35: Add support for multiple output steps
