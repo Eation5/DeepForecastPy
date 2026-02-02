@@ -2375,3 +2375,4 @@ Commit at 2026-02-02T16:42:56: Update README with more detailed instructions
 Commit at 2026-02-02T20:37:16: Add new evaluation metrics for time series forecasting
 Commit at 2026-02-02T20:52:37: Refactor utils for better code reuse
 Commit at 2026-02-02T15:55:00: Improve error handling in model building
+Commit at 2026-02-02T14:00:26: Add support for bidirectional RNNs
