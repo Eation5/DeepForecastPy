@@ -2377,3 +2377,4 @@ Commit at 2026-02-02T20:52:37: Refactor utils for better code reuse
 Commit at 2026-02-02T15:55:00: Improve error handling in model building
 Commit at 2026-02-02T14:00:26: Add support for bidirectional RNNs
 Commit at 2026-02-02T09:51:52: Update project structure for better organization
+Commit at 2026-02-02T12:51:45: Update preprocessing pipeline to handle missing values
