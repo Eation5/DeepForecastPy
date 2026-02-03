@@ -2385,3 +2385,4 @@ Commit at 2026-02-02T21:29:42: Add support for pre-trained models
 Commit at 2026-02-02T17:58:08: Update README with more detailed instructions
 Commit at 2026-02-02T10:17:25: Add support for multiple output steps
 Commit at 2026-02-03T18:54:52: Add support for custom loss functions
+Commit at 2026-02-03T14:10:44: Improve error handling in model building
