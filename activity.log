@@ -2413,3 +2413,4 @@ Commit at 2026-02-09T10:47:01: Add examples for different use cases
 Commit at 2026-02-09T16:08:25: Add support for multiple output steps
 Commit at 2026-02-09T12:45:50: Add examples for different use cases
 Commit at 2026-02-09T19:01:06: Add support for Transformer-based models
+Commit at 2026-02-09T17:11:47: Improve logging during model training
