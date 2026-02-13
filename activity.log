@@ -2424,3 +2424,4 @@ Commit at 2026-02-09T17:52:34: Optimize inference speed for edge devices
 Commit at 2026-02-09T20:04:36: Improve error handling in model building
 Commit at 2026-02-09T14:42:15: Update README with more detailed instructions
 Commit at 2026-02-13T12:17:30: Add support for Transformer-based models
+Commit at 2026-02-13T10:46:49: Add support for pre-trained models
