@@ -2427,3 +2427,4 @@ Commit at 2026-02-13T12:17:30: Add support for Transformer-based models
 Commit at 2026-02-13T10:46:49: Add support for pre-trained models
 Commit at 2026-02-16T21:33:34: Add support for custom loss functions
 Commit at 2026-02-16T14:38:29: Improve logging during model training
+Commit at 2026-02-16T14:37:49: Add examples for different use cases
