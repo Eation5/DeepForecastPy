@@ -2425,3 +2425,4 @@ Commit at 2026-02-09T20:04:36: Improve error handling in model building
 Commit at 2026-02-09T14:42:15: Update README with more detailed instructions
 Commit at 2026-02-13T12:17:30: Add support for Transformer-based models
 Commit at 2026-02-13T10:46:49: Add support for pre-trained models
+Commit at 2026-02-16T21:33:34: Add support for custom loss functions
