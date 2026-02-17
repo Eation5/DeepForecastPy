@@ -2437,3 +2437,4 @@ Commit at 2026-02-17T15:24:09: Add support for multiple output steps
 Commit at 2026-02-17T16:29:09: Add support for multiple output steps
 Commit at 2026-02-17T11:21:38: Update requirements for new dependencies
 Commit at 2026-02-17T16:46:01: Fix issue with data normalization
+Commit at 2026-02-17T10:51:23: Add support for Transformer-based models
