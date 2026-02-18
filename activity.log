@@ -2442,3 +2442,4 @@ Commit at 2026-02-17T21:03:45: Add examples for using the library
 Commit at 2026-02-17T12:20:58: Fix issue with model serialization
 Commit at 2026-02-17T14:21:14: Optimize inference speed for edge devices
 Commit at 2026-02-17T11:51:29: Fix minor bug in data windowing
+Commit at 2026-02-17T19:34:31: Update project structure for better organization
