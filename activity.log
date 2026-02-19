@@ -2454,3 +2454,4 @@ Commit at 2026-02-18T13:20:05: Update preprocessing pipeline to handle missing v
 Commit at 2026-02-18T12:18:43: Fix bug in LSTM layer initialization
 Commit at 2026-02-18T20:04:15: Optimize memory usage during training
 Commit at 2026-02-19T19:07:00: Update documentation for new features
+Commit at 2026-02-19T11:47:00: Update README with more detailed instructions
