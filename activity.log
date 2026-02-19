@@ -2459,3 +2459,4 @@ Commit at 2026-02-19T16:38:29: Add examples for different use cases
 Commit at 2026-02-19T09:22:17: Add examples for different use cases
 Commit at 2026-02-19T13:07:12: Add support for GRU models
 Commit at 2026-02-19T10:16:17: Optimize inference speed for edge devices
+Commit at 2026-02-19T10:40:12: Fix issue with data normalization
