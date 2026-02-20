@@ -2473,3 +2473,4 @@ Commit at 2026-02-20T20:49:15: Add support for bidirectional RNNs
 Commit at 2026-02-20T15:10:28: Refactor utils for better code reuse
 Commit at 2026-02-20T10:23:10: Update README with more detailed instructions
 Commit at 2026-02-20T15:10:27: Update project structure for better organization
+Commit at 2026-02-20T18:46:10: Improve documentation for API reference
