@@ -2471,3 +2471,4 @@ Commit at 2026-02-20T11:43:45: Add support for data augmentation
 Commit at 2026-02-20T14:08:57: Add support for custom loss functions
 Commit at 2026-02-20T20:49:15: Add support for bidirectional RNNs
 Commit at 2026-02-20T15:10:28: Refactor utils for better code reuse
+Commit at 2026-02-20T10:23:10: Update README with more detailed instructions
