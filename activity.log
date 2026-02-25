@@ -2497,3 +2497,4 @@ Commit at 2026-02-25T09:47:20: Add new evaluation metrics for time series foreca
 Commit at 2026-02-25T17:21:41: Add examples for different use cases
 Commit at 2026-02-25T18:42:35: Add examples for different use cases
 Commit at 2026-02-25T16:00:41: Update requirements for new dependencies
+Commit at 2026-02-25T09:19:24: Fix issue with data normalization
