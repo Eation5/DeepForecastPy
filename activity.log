@@ -2499,3 +2499,4 @@ Commit at 2026-02-25T18:42:35: Add examples for different use cases
 Commit at 2026-02-25T16:00:41: Update requirements for new dependencies
 Commit at 2026-02-25T09:19:24: Fix issue with data normalization
 Commit at 2026-02-26T18:36:53: Add support for Transformer-based models
+Commit at 2026-02-26T09:54:10: Improve error handling in model building
