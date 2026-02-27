@@ -2502,3 +2502,4 @@ Commit at 2026-02-26T18:36:53: Add support for Transformer-based models
 Commit at 2026-02-26T09:54:10: Improve error handling in model building
 Commit at 2026-02-26T17:14:24: Add examples for using the library
 Commit at 2026-02-26T09:28:07: Refactor utils for better code reuse
+Commit at 2026-02-26T20:37:24: Add support for data augmentation
