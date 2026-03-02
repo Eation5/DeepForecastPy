@@ -2525,3 +2525,4 @@ Commit at 2026-02-27T10:18:27: Fix issue with data normalization
 Commit at 2026-02-27T18:40:36: Update preprocessing pipeline to handle missing values
 Commit at 2026-02-27T15:38:46: Add support for GRU models
 Commit at 2026-03-02T13:39:37: Fix issue with data normalization
+Commit at 2026-03-02T18:59:40: Fix bug in LSTM layer initialization
