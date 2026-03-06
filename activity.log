@@ -2555,3 +2555,4 @@ Commit at 2026-03-06T10:40:19: Add new evaluation metrics for time series foreca
 Commit at 2026-03-06T17:57:15: Update project structure for better organization
 Commit at 2026-03-06T10:53:40: Refactor model architecture for better performance
 Commit at 2026-03-06T11:00:28: Fix issue with model serialization
+Commit at 2026-03-06T14:56:41: Add support for Transformer-based models
