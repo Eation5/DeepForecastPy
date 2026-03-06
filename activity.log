@@ -2552,3 +2552,4 @@ Commit at 2026-03-06T13:04:20: Update preprocessing pipeline to handle missing v
 Commit at 2026-03-06T20:38:24: Update README with more detailed instructions
 Commit at 2026-03-06T20:46:37: Add support for custom loss functions
 Commit at 2026-03-06T10:40:19: Add new evaluation metrics for time series forecasting
+Commit at 2026-03-06T17:57:15: Update project structure for better organization
