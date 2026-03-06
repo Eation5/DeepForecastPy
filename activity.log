@@ -2551,3 +2551,4 @@ Commit at 2026-03-05T19:29:50: Fix issue with model serialization
 Commit at 2026-03-06T13:04:20: Update preprocessing pipeline to handle missing values
 Commit at 2026-03-06T20:38:24: Update README with more detailed instructions
 Commit at 2026-03-06T20:46:37: Add support for custom loss functions
+Commit at 2026-03-06T10:40:19: Add new evaluation metrics for time series forecasting
