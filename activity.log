@@ -2558,3 +2558,4 @@ Commit at 2026-03-06T11:00:28: Fix issue with model serialization
 Commit at 2026-03-06T14:56:41: Add support for Transformer-based models
 Commit at 2026-03-06T17:22:30: Add examples for using the library
 Commit at 2026-03-06T19:37:08: Add support for GRU models
+Commit at 2026-03-09T17:50:23: Optimize data loading for large datasets
