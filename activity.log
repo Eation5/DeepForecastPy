@@ -2572,3 +2572,4 @@ Commit at 2026-03-11T12:37:37: Add support for bidirectional RNNs
 Commit at 2026-03-11T17:04:41: Optimize data loading for large datasets
 Commit at 2026-03-11T14:03:44: Add support for data augmentation
 Commit at 2026-03-11T17:01:44: Update project structure for better organization
+Commit at 2026-03-12T15:43:24: Improve documentation for API reference
