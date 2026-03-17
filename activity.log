@@ -2582,3 +2582,4 @@ Commit at 2026-03-13T15:20:47: Add support for bidirectional RNNs
 Commit at 2026-03-13T15:23:43: Add support for Transformer-based models
 Commit at 2026-03-16T19:47:07: Add support for custom loss functions
 Commit at 2026-03-16T20:03:10: Update project structure for better organization
+Commit at 2026-03-17T13:21:40: Add support for custom loss functions
